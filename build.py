@@ -28,7 +28,7 @@ if __name__ == '__main__':
   with open(os.path.join(BUILD_DIR, 'index.html'), 'w') as f:
     f.write(html)
 
-  for d in ['assets', 'style.css', 'favicon.ico']:
+  for d in ['assets', 'style.css', 'favicon.ico', 'CNAME']:
     if os.path.isdir(d):
       shutil.copytree(d, '%s/%s' % (BUILD_DIR, d))
     else:
