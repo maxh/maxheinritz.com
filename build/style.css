@@ -1,5 +1,4 @@
 .brand {
-  margin-top: 150px;
   width: 150px;
   margin-bottom: 20px;
 }
@@ -10,7 +9,15 @@ main {
   margin: 0 auto;
 }
 
+header.primary {
+  padding: 4em 2em 3em 2em;
+}
+
 h1 {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   margin-bottom: .2em;
+}
+
+html, body {
+  padding: 1em 1em;
 }
