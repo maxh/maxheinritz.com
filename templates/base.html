@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {% set site_name = 'Max Heinritz' %}
+  {% set site_desc = 'Max Heinritz' %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta property="og:url" content="http://maxheinritz.com">
+  <meta property="og:site_name" content="{{ site_name }}">
+  <title>{{ site_name }}</title>
+  {% block meta %}
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="{{ site_desc }}">
+    <meta property="og:title" content="{{ site_name }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ site_name }}">
+    <meta name="twitter:description" content="{{ site_desc }}">
+  {% endblock %}
+  <link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body>
+  <main>
+    {% block content %}
+    {% endblock %}
+  </main>
+</body>
+</html>
