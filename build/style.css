@@ -1,16 +1,21 @@
-.brand {
-  width: 150px;
-  margin-bottom: 20px;
+html, body {
+  padding: 1em 1em;
 }
 
-main {
+.brand {
+  width: 150px;
+  margin-bottom: 2em;
+}
+
+body {
   padding-bottom: 6em;
-  max-width: 960px;
+  max-width: 908px;
   margin: 0 auto;
 }
 
-header.primary {
-  padding: 4em 2em 3em 2em;
+header {
+  margin-top: 4em;
+  margin-bottom: 50px;
 }
 
 h1 {
@@ -18,16 +23,32 @@ h1 {
   margin-bottom: .2em;
 }
 
-html, body {
-  padding: 1em 1em;
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .project-card {
-  display: inline-block;
-  margin-right: 20px;
+  width: 250px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  font-family: sans-serif;
+  font-weight: normal;
 }
 
 .project-card img {
-  width: 200px;
+  width: 100%;
   box-shadow: 1px 1px 2px grey;
+}
+
+.project-card h2 {
+  font-family: sans-serif;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-bottom: 0em;
+}
+
+.project-card p {
+  margin-top: .5em;
 }
