@@ -1,0 +1,14 @@
+- name: Earth Engine
+  desc: Cloud-based geospatial research tool.
+  url: https://earthengine.google.com
+  img: earth-engine.jpg
+
+- name: Camp Galapagos
+  desc: Small Burning Man camp.
+  url: http://burningman.org
+  img: camp-galapagos.jpg
+
+- name: Loftnest
+  desc: Home, in the SF midmarket area.
+  url: https://en.wikipedia.org/wiki/Mid-Market,_San_Francisco
+  img: loftnest.jpg

@@ -1,0 +1,12 @@
+# Site settings
+title: Max Heinritz
+url: http://maxheinritz.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
