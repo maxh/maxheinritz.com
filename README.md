@@ -1,3 +1,9 @@
-Live reloading!
+# maxheinritz.com
 
-    bundle exec jekyll serve --livereload
+My homepage.
+
+## Live reloading!
+
+```sh
+$ bundle exec jekyll serve --livereload
+```
