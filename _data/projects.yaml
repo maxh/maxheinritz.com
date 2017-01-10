@@ -12,3 +12,8 @@
   desc: Home, in the SF midmarket area.
   url: https://en.wikipedia.org/wiki/Mid-Market,_San_Francisco
   img: loftnest.jpg
+
+- name: Stan
+  desc: A static analyzer for Earth Engine JavaScript.
+  url: https://developers.google.com/earth-engine/playground#javascript-editor
+  img: stan.gif
