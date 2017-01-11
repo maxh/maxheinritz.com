@@ -7,3 +7,9 @@ My homepage.
 ```sh
 $ bundle exec jekyll serve --livereload
 ```
+
+## Deploy
+
+```
+git push origin master:gh-pages
+```
