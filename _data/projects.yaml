@@ -1,20 +1,33 @@
-- name: Earth Engine
-  desc: Cloud-based geospatial research tool.
-  url: https://earthengine.google.com
-  img: earth-engine.jpg
-- name: Camp Galapagos
-  desc: Small Burning Man camp.
-  url: http://burningman.org
-  img: camp-galapagos.jpg
-- name: Loftnest
-  desc: Home, in the SF midmarket area.
-  url: https://en.wikipedia.org/wiki/Mid-Market,_San_Francisco
-  img: loftnest.jpg
-- name: Stan
-  desc: A static analyzer for Earth Engine JavaScript.
-  url: https://developers.google.com/earth-engine/playground#javascript-editor
-  img: stan.gif
-- name: Mid-Market Status
-  desc: A map of development projects around SF Civic Center.
-  url: http://midmarketstatus.com
-  img: midmarket-card.jpg
+- name: Google Earth Engine
+  desc: A cloud service for petabyte-scale geospatial analysis.
+  projects:
+    - name: Stan
+      desc: A semantic static analyzer for Earth Engine JavaScript.
+      url: https://developers.google.com/earth-engine/playground#javascript-editor
+      img: stan.gif
+    - name: Charts API
+    - name: User Interface API
+    - name: Homepage
+      desc: A revamped web presence.
+      url: https://earthengine.google.com
+      img: earth-engine.jpg
+- name: Chrome Web Platform
+  desc:
+  projects:
+    - name: Web Fundamentals
+    - name: Chrome Status
+    - name: Blink Launch Process
+- name: Personal
+  projects:
+    - name: Camp Galapagos
+      desc: Small Burning Man camp.
+      url: http://burningman.org
+      img: camp-galapagos.jpg
+    - name: Loftnest
+      desc: Home, in the SF mid-market area.
+      url: https://en.wikipedia.org/wiki/Mid-Market,_San_Francisco
+      img: loftnest.jpg
+    - name: Mid-Market Status
+      desc: A map of development projects around SF Civic Center.
+      url: http://midmarketstatus.com
+      img: midmarket-card.jpg

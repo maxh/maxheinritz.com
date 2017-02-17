@@ -9,7 +9,7 @@ html, body {
 
 body {
   padding-bottom: 6em;
-  max-width: 908px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -18,9 +18,16 @@ header {
   margin-bottom: 50px;
 }
 
-h1 {
+h1, h2 {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h1 {
   margin-bottom: .2em;
+}
+
+h2 {
+  font-weight: normal;
 }
 
 main {
@@ -29,12 +36,22 @@ main {
   flex-wrap: wrap;
 }
 
+.project-group {
+  margin-bottom: 80px;
+}
+
+.project-cards {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .project-card {
-  width: 250px;
-  margin-right: 50px;
-  margin-bottom: 50px;
+  width: 200px;
+  margin-right: 30px;
+  margin-bottom: 30px;
   font-family: sans-serif;
-  font-weight: normal;
 }
 
 .project-card img {
@@ -42,9 +59,8 @@ main {
   box-shadow: 1px 1px 2px grey;
 }
 
-.project-card h2 {
+.project-card h3 {
   font-family: sans-serif;
-  font-weight: normal;
   margin-top: 1em;
   margin-bottom: 0em;
 }
