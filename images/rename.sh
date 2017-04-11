@@ -1,3 +1,3 @@
-for file in *.jpg; do
-    mv "$file" "`basename "$file" .jpg`.jpg1"
+for file in *.jpg1; do
+    mv "$file" "`basename "$file" .jpg1`.jpg"
 done
