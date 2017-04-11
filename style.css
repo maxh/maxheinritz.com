@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-  margin: 50px 70px;
+  margin: 50px 40px;
 }
 
 img {
@@ -48,27 +48,31 @@ h1 {
   animation: none;
 }
 
-ul {
+.top ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
-li {
+.top li {
   margin-top: 10px;
+}
+
+.top .intermediate {
+  font-style: italic;
 }
 
 /* Columns on main page. */
 
 .columns {
   -webkit-column-count: 1;
-  -webkit-column-gap: 70px;
+  -webkit-column-gap: 40px;
   -webkit-column-fill: auto;
   -moz-column-count: 1;
-  -moz-column-gap: 70px;
+  -moz-column-gap: 40px;
   -moz-column-fill: auto;
   column-count: 1;
-  column-gap: 70px;
+  column-gap: 40px;
   column-fill: auto;
 }
 
@@ -77,7 +81,7 @@ li {
   -webkit-column-break-inside: avoid;
   -moz-column-break-inside: avoid;
   column-break-inside: avoid;
-  margin: 0 2px 70px;
+  margin: 0 2px 40px;
 }
 
 .pin img {
@@ -85,7 +89,7 @@ li {
   max-width: 350px;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 540px) {
   h1 {
     margin-top: 16px;
     font-size: 36px;
@@ -100,7 +104,7 @@ li {
   }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 860px) {
   .columns {
     -webkit-column-count: 3;
     -moz-column-count: 3;
@@ -109,10 +113,9 @@ li {
 }
 
 @media (min-width: 1200px) {
-  .columns {
-    -webkit-column-count: 4;
-    -moz-column-count: 4;
-    column-count: 4;
+  body {
+    max-width: 1000px;
+    margin: 40px auto;
   }
 }
 
@@ -120,17 +123,32 @@ li {
 
 .project {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .project .desc {
-  width: 300px;
-  flex-shrink: 0;
-  padding-right: 20px;
+  padding-bottom: 40px;
 }
 
 .project img {
-  max-width: 500px;
+  max-width: 100%;
   display: block;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+}
+
+@media (min-width: 860px) {
+  .project {
+    display: flex;
+    flex-direction: row;
+  }
+  .project img {
+    max-width: 500px;
+    max-height: 400px;
+  }
+  .project .desc {
+    width: 300px;
+    flex-shrink: 0;
+    padding-right: 40px;
+    padding-bottom: 0;
+  }
 }
