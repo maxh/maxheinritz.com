@@ -1,6 +1,9 @@
 # Site settings
 title: Max Heinritz
 url: http://maxheinritz.com
+collections:
+  projects:
+    output: true
 
 # Build settings
 markdown: kramdown

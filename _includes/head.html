@@ -1,0 +1,21 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta property="og:url" content="http://maxheinritz.com">
+  <meta property="og:site_name" content="{{ page.title }}">
+  <title>
+    {% if page.title %}
+      {{ page.title }} | Max Heinritz
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="{{ site.desc }}">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ site.title }}">
+  <meta name="twitter:description" content="{{ site.desc }}">
+  <link rel="stylesheet" type="text/css" href="/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300" rel="stylesheet">
+</head>
