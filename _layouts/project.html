@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="en">
   {% include head.html %}
-  <body>
+  <body class="project">
     {% include header.html %}
-    <div class="project">
+    <main>
       <div class="desc">
         <h3>{{ page.title }}</h3>
         {{ page.desc }}
@@ -13,6 +13,6 @@
           <img src="/images/{{image}}"></img>
         {% endfor %}
       </div>
-    </div>
+    </main>
   </body>
 </html>

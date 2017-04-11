@@ -11,7 +11,7 @@ body {
 }
 
 img {
-  animation: fade .5s ease;
+  animation: fade .5s ease-in-out;
 }
 
 @keyframes fade {
@@ -35,10 +35,8 @@ h1 {
 
 .top {
   font-size: 12px;
-}
-
-.top {
   display: flex;
+  opacity: 1;
 }
 
 .top img {
@@ -121,7 +119,11 @@ h1 {
 
 /* Project page. */
 
-.project {
+.project .top {
+  opacity: .5;
+}
+
+.project main {
   display: flex;
   flex-direction: column;
 }
@@ -137,7 +139,7 @@ h1 {
 }
 
 @media (min-width: 860px) {
-  .project {
+  .project main {
     display: flex;
     flex-direction: row;
   }

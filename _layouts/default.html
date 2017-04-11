@@ -4,17 +4,17 @@
   <body>
     {% include header.html %}
     <main>
-    <div class="wrapper">
-      <div class="columns">
-        {% for project in site.projects %}
-          <a href="{{ project.url }}">
-            <div class="pin">
-              <img src="/images/{{ project.images.first }}">
-            </div>
-          </a>
-        {% endfor %}
+      <div class="wrapper">
+        <div class="columns">
+          {% for project in site.projects %}
+            <a href="{{ project.url }}">
+              <div class="pin">
+                <img src="/images/{{ project.images.first }}">
+              </div>
+            </a>
+          {% endfor %}
+        </div>
       </div>
-    </div>
     </main>
   </body>
 </html>
