@@ -1,7 +1,7 @@
 ---
 desc: A bookshelf for National Geographic magazines.
 images:
-- bookshelf.JPG
+- bookshelf.jpg
 - bookcase.jpg
 layout: project
 ---
