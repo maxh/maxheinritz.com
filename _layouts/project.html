@@ -1,18 +1,14 @@
-<!doctype html>
-<html lang="en">
-  {% include head.html %}
-  <body class="project">
-    {% include header.html %}
-    <main>
-      <div class="desc">
-        <h3>{{ page.title }}</h3>
-        {{ page.desc }}
-      </div>
-      <div>
-        {% for image in page.images %}
-          <img src="/images/{{image}}"></img>
-        {% endfor %}
-      </div>
-    </main>
-  </body>
-</html>
+{% capture content %}
+  <div class="desc">
+    <h3>{{ page.title }}</h3>
+    {{ page.desc }}
+  </div>
+  <div>
+    {% for image in page.images %}
+      <img src="/images/{{image}}"></img>
+    {% endfor %}
+  </div>
+{% endcapture %}
+
+
+{% include base.html class="project" %}

@@ -1,18 +1,1 @@
-<!doctype html>
-<html lang="en">
-  {% include head.html %}
-  <body class="home">
-    {% include header.html %}
-    <main class="hidden">
-      <div class="columns">
-        {% for project in site.projects %}
-          <a href="{{ project.url }}">
-            <div class="pin">
-              <img src="/images/{{ project.images.first }}">
-            </div>
-          </a>
-        {% endfor %}
-      </div>
-    </main>
-  </body>
-</html>
+{% include base.html foo='123' %}
