@@ -63,7 +63,11 @@ h1 {
   font-style: italic;
 }
 
-/* Columns on main page. */
+/* Home page. */
+
+body.home {
+  overflow-y: scroll;
+}
 
 .columns {
   -webkit-column-count: 1;
