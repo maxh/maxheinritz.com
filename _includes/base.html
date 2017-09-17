@@ -3,9 +3,11 @@
   {% include head.html %}
   <body class="{{ page.class }} {{ include.class }}">
     {% include header.html %}
-    <div class="loader">
-      {% include loader.html %}
-    </div>
+    {% if include.loader_enabled == "true" %}
+      <div class="loader">
+        {% include loader.html %}
+      </div>
+    {% endif %}
     <main class="hidden">
       {{ content }}
     </main>

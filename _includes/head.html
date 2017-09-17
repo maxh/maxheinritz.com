@@ -21,7 +21,8 @@
   <script>
     // Hide the main section until all images load to avoid ugly incremental render.
     window.onload = function() {
-      document.querySelector(".loader").classList.add("hidden");
+      const loader = document.querySelector(".loader");
+      if (loader) loader.classList.add("hidden");
       document.querySelector("main").classList.remove("hidden");
     };
   </script>
