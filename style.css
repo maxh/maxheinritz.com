@@ -23,6 +23,9 @@ img {
   }
 }
 
+.hidden {
+  display: none;
+}
 
 /* Header. */
 

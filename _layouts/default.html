@@ -3,17 +3,20 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    <main>
-      <div class="wrapper">
-        <div class="columns">
-          {% for project in site.projects %}
-            <a href="{{ project.url }}">
-              <div class="pin">
-                <img src="/images/{{ project.images.first }}">
-              </div>
-            </a>
-          {% endfor %}
-        </div>
+    <script>
+      window.onload = function() {
+        document.querySelector("main").classList.remove("hidden");
+      };
+    </script>
+    <main class="hidden">
+      <div class="columns">
+        {% for project in site.projects %}
+          <a href="{{ project.url }}">
+            <div class="pin">
+              <img src="/images/{{ project.images.first }}">
+            </div>
+          </a>
+        {% endfor %}
       </div>
     </main>
   </body>
