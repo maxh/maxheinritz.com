@@ -44,9 +44,6 @@ h1 {
 }
 
 .top img {
-  width: 100px;
-  margin-right: 40px;
-  margin-bottom: 40px;
   animation: none;
 }
 
@@ -64,7 +61,54 @@ h1 {
   font-style: italic;
 }
 
+@media (max-width: 540px) {
+  .top .role {
+    display: block;
+    padding-left: 2em;
+  }
+  .comma {
+    display: none;
+  }
+  .one {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+  }
+  .top {
+    flex-direction: column;
+    padding-bottom: 20px;
+  }
+  .top img {
+    width: 35px;
+    margin-left: 35px;
+  }
+  .two .name-detail {
+    display: none;
+  }
+}
+
+@media (min-width: 540px) {
+  h1 {
+    font-size: 36px;
+  }
+  .top {
+    font-size: 16px;
+  }
+  .top img {
+    width: 100px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+  }
+  .one .name-detail {
+    display: none;
+  }
+}
+
 /* Home page. */
+
+.email {
+  color: gray;
+}
 
 .role {
   font-style: italic;
@@ -105,14 +149,7 @@ h1 {
   opacity: .8;
 }
 
-
 @media (min-width: 540px) {
-  h1 {
-    font-size: 36px;
-  }
-  .top {
-    font-size: 16px;
-  }
   .columns {
     -webkit-column-count: 2;
     -moz-column-count: 2;
