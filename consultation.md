@@ -1,7 +1,7 @@
 ---
 layout: default
-class: design
-title: Consultations
+class: consultation
+title: Consultation
 ---
 
 <h3>{{page.title}}</h3>

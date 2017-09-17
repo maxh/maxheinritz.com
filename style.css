@@ -238,14 +238,14 @@ h1 {
 }
 
 
-/* Design page. */
+/* consultation page. */
 
-.design .top {
+.consultation .top {
   opacity: .5;
 }
 
 @media (max-width: 540px) {
-  .design .top .two {
+  .consultation .top .two {
     display: none;
   }
 }
