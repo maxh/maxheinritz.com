@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body class="{{ class }} {{ include.class }}">
+    {% include header.html %}
+    <div class="loader">
+      {% include loader.html %}
+    </div>
+    <main class="hidden">
+      {{ content }}
+    </main>
+  </body>
+</html>
