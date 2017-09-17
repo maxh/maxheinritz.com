@@ -8,7 +8,7 @@ html, body {
 
 body {
   overflow-y: scroll;
-  margin: 50px 40px;
+  margin: 0 40px;
 }
 
 img {
@@ -26,6 +26,11 @@ img {
 
 .hidden {
   display: none;
+}
+
+.discreet-link {
+  text-decoration: none;
+  color: black;
 }
 
 /* Header. */
@@ -53,16 +58,27 @@ h1 {
   margin: 0;
 }
 
-.top li {
-  margin-top: 10px;
-}
-
 .top .intermediate {
   font-style: italic;
 }
 
+.email {
+  color: gray;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.role-detail {
+  font-style: italic;
+  color: gray;
+}
+
+.role-detail a {
+  font-style: italic;
+  color: gray;
+}
+
 @media (max-width: 540px) {
-  .top .role {
+  .top .role-detail {
     display: block;
     padding-left: 2em;
   }
@@ -71,16 +87,24 @@ h1 {
   }
   .one {
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: flex-end;
+    flex-direction: column;
+    justify-content: flex-start;
   }
   .top {
     flex-direction: column;
-    padding-bottom: 20px;
+    font-size: 14px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+  .top li {
+    margin-top: 15px;
+  }
+  .role-detail {
+    margin-top: 4px;
   }
   .top img {
-    width: 35px;
-    margin-left: 35px;
+    width: 60px;
+    margin-bottom: 15px;
   }
   .two .name-detail {
     display: none;
@@ -88,16 +112,23 @@ h1 {
 }
 
 @media (min-width: 540px) {
+  .role {
+    padding-right: .4em;
+  }
   h1 {
     font-size: 36px;
   }
   .top {
-    font-size: 16px;
+    font-size: 18px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+  }
+  .top li {
+    margin-top: 10px;
   }
   .top img {
     width: 100px;
     margin-right: 40px;
-    margin-bottom: 40px;
   }
   .one .name-detail {
     display: none;
@@ -105,20 +136,6 @@ h1 {
 }
 
 /* Home page. */
-
-.email {
-  color: gray;
-}
-
-.role {
-  font-style: italic;
-  color: gray;
-}
-
-.role a {
-  font-style: italic;
-  color: gray;
-}
 
 .columns {
   -webkit-column-count: 1;
@@ -168,7 +185,8 @@ h1 {
 @media (min-width: 1200px) {
   body {
     max-width: 1000px;
-    margin: 40px auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
@@ -187,10 +205,19 @@ h1 {
   padding-bottom: 40px;
 }
 
-.project img {
+.project main img {
   max-width: 100%;
   display: block;
   margin-bottom: 40px;
+}
+
+@media (max-width: 540px) {
+  .project .email {
+    display: none;
+  }
+  .project .top .two {
+    display: none;
+  }
 }
 
 @media (min-width: 860px) {
@@ -207,5 +234,18 @@ h1 {
     flex-shrink: 0;
     padding-right: 40px;
     padding-bottom: 0;
+  }
+}
+
+
+/* Design page. */
+
+.design .top {
+  opacity: .5;
+}
+
+@media (max-width: 540px) {
+  .design .top .two {
+    display: none;
   }
 }

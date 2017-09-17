@@ -18,4 +18,10 @@
   <meta name="twitter:description" content="{{ site.desc }}">
   <link rel="stylesheet" type="text/css" href="/style.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300" rel="stylesheet">
+  <script>
+    // Hide the main section until all images load to avoid incremental loading.
+    window.onload = function() {
+      document.querySelector("main").classList.remove("hidden");
+    };
+  </script>
 </head>

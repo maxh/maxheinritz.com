@@ -3,11 +3,6 @@
   {% include head.html %}
   <body class="home">
     {% include header.html %}
-    <script>
-      window.onload = function() {
-        document.querySelector("main").classList.remove("hidden");
-      };
-    </script>
     <main class="hidden">
       <div class="columns">
         {% for project in site.projects %}
