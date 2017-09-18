@@ -67,14 +67,12 @@ h1 {
   font-family: "Courier New", Courier, monospace;
 }
 
-.role-detail {
-  font-style: italic;
-  color: gray;
+.role {
+  font-weight: bold;
 }
 
 .role-detail a {
-  font-style: italic;
-  color: gray;
+  color: black;
 }
 
 @media (max-width: 540px) {
