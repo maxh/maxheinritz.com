@@ -1,10 +1,10 @@
 ---
-desc: A chain of LED-lit balloons.
+desc: To celebrate my birthday, a chain of 28 LED-lit balloons atop Bernal Hill.
 images:
-- balloons-dusk.jpg
-- balloons.jpg
-- balloons-long.jpg
-- balloon-close.jpg
-- balloons-light.jpg
+- balloons-gradient.jpg
+- balloons-city.jpg
+- balloons-loko.jpg
+- balloons-crew.jpg
+- balloons-night.jpg
 layout: project
 ---
