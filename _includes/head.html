@@ -18,7 +18,16 @@
   <meta name="twitter:description" content="{{ site.desc }}">
   <link rel="stylesheet" type="text/css" href="/style.css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300" rel="stylesheet">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107992017-1"></script>
   <script>
+    // Set up Google Analytics.
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-107992017-1');
+
     // Hide the main section until all images load to avoid ugly incremental render.
     window.onload = function() {
       const loader = document.querySelector(".loader");
