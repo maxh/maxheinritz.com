@@ -11,3 +11,9 @@ class: home
     </a>
   {% endfor %}
 </div>
+
+## Digital projects
+
+- [Idea Reminder](http://www.ideareminder.org/)
+- [Gratitude Reminder](http://www.gratitudereminder.org/)
+- [Mid-Market Status](http://www.midmarketstatus.com/)
