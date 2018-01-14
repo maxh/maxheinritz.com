@@ -14,11 +14,8 @@ $ bundle exec jekyll serve --livereload
 git push origin master:gh-pages
 ```
 
-## Todo
+## Digital projects
 
-### Personal
-
-- Mid-Market Status
-- React Native FittedText
-- Idea Reminder
-- Gratitude Reminder
+- [Idea Reminder](http://www.ideareminder.org/)
+- [Gratitude Reminder](http://www.gratitudereminder.org/)
+- [Mid-Market Status](http://www.midmarketstatus.com/)
