@@ -141,13 +141,13 @@ h1 {
 .columns {
   -webkit-column-count: 1;
   -webkit-column-gap: 40px;
-  -webkit-column-fill: auto;
+  -webkit-column-fill: balance;
   -moz-column-count: 1;
   -moz-column-gap: 40px;
-  -moz-column-fill: auto;
+  -moz-column-fill: balance;
   column-count: 1;
   column-gap: 40px;
-  column-fill: auto;
+  column-fill: balance;
 }
 
 .pin {
@@ -180,6 +180,10 @@ h1 {
     -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3;
+  }
+  .break {
+    /* Doesn't work: break-after: column; */
+    /* This works but is a hack: margin-bottom: 200px; */
   }
 }
 

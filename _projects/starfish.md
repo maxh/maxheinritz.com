@@ -1,5 +1,5 @@
 ---
-desc: Red, a dancing starfish constructed with 5 tomato planters and LED neon rope lighting.
+desc: A dancing starfish constructed with 5 tomato planters and LED neon rope lighting.
 images:
 - starfish-side.jpg
 - starfish.jpg

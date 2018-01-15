@@ -1,8 +1,7 @@
 ---
-desc: A sign for my camp at Burning Man.
+desc: A sign for my Burning Man camp. Hat tip to Sydney Ligouri for the font.
 images:
 - sign-me-close.jpg
 - sign-behind.jpg
 layout: project
 ---
-Hat tip to [Sydney](http://sydneyligouri.com/) for the font.

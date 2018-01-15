@@ -1,5 +1,5 @@
 ---
-desc: A neon version of the LED starfish.
+desc: A whimsical neon starfish.
 images:
 - neon-small.jpg
 - neon-wall.jpg
