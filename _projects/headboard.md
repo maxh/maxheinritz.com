@@ -1,4 +1,5 @@
 ---
+year: 2015, 2016
 desc: A pair of fabric sound-insulated headboards, red and blue.
 images:
 - headboard-red.jpg

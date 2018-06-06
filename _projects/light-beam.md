@@ -1,4 +1,5 @@
 ---
+year: 2016
 desc: The light beam mounted on the wall above my dining room table moves on an axis to support dining and movie modes.
 images:
 - light-beam.jpg

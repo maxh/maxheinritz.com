@@ -1,4 +1,5 @@
 ---
+year: 2016
 desc: Speaker wires hidden in plain sight, outlining the Transamerica Pyramid and California.
 images:
 - wire-transamerica.jpg

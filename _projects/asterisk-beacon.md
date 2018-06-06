@@ -1,4 +1,5 @@
 ---
+year: 2013
 desc: A Burning Man camp beacon light mounted on a 25-foot tower. Made with wood and bistro lights.
 images:
 - beacon.jpg

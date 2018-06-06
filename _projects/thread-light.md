@@ -1,4 +1,5 @@
 ---
+year: 2014
 desc: A three-orb bulb constructed with paper mache, string, cornstarch, and glue.
 images:
 - thread-light.jpg
