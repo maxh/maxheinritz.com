@@ -1,6 +1,6 @@
 # maxheinritz.com
 
-My homepage.
+My personal website.
 
 ## Live reloading!
 
