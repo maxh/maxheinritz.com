@@ -216,6 +216,10 @@ h1 {
   margin-bottom: 40px;
 }
 
+.project .roles {
+  display: none;
+}
+
 @media (max-width: 540px) {
   .project .email {
     display: none;

@@ -11,3 +11,10 @@ class: home
     </a>
   {% endfor %}
 </div>
+
+<script>
+  const list = document.querySelector('.columns');
+  for (let i = list.children.length; i >= 0; i--) {
+    list.appendChild(list.children[Math.random() * i | 0]);
+  }
+</script>
