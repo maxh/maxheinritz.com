@@ -33,6 +33,9 @@ img {
   color: black;
 }
 
+img {
+  border-radius: 2%;
+}
 /* Header. */
 
 h1 {
