@@ -70,6 +70,11 @@ h1 {
   font-family: "Courier New", Courier, monospace;
 }
 
+a {
+  color: gray;
+  font-family: "Courier New", Courier, monospace;
+}
+
 .role {
   font-weight: bold;
 }
