@@ -1,7 +1,9 @@
 ---
 year: 2013
-desc: A geodesic dome shaped like a sea turtle. Created with lots of help from my burning man camp.
+desc: A geodesic dome shaped like a sea turtle. Created with lots of help from my Burning Man camp, including my mama.
 images:
+- darwin-side.jpg
+- darwin-mama.jpg
 - darwin-night.jpg
 - darwin.jpg
 - darwin-big.jpg
