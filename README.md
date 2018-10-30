@@ -13,7 +13,7 @@ Then go to http://localhost:4000
 ## Deploy
 
 ```
-git push origin master:gh-pages
+git push
 ```
 
 ## Digital projects
