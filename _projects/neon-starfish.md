@@ -7,5 +7,6 @@ images:
 - neon-large.jpg
 - neon-behind-lit.jpg
 - neon-process.jpg
+- neon-paper.jpg
 layout: project
 ---

@@ -14,6 +14,13 @@ class: home
   {% endfor %}
 </div>
 
+
+**Other (less pretty) projects**
+- [Idea Reminder](https://www.ideareminder.org)
+- [Gratitude Reminder](https://www.gratitudereminder.org)
+- [Mid-Market Status](http://midmarketstatus.com)
+- [Church of Silentology](https://churchofsilentology.com)
+
 <script>
   const list = document.querySelector('.columns');
   for (let i = list.children.length; i >= 0; i--) {

@@ -9,5 +9,6 @@ images:
 - led-light.jpg
 - led-small.jpg
 - led-back.jpg
+- led-art.jpg
 layout: project
 ---
