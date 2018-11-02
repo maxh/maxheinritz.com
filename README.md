@@ -15,9 +15,3 @@ Then go to http://localhost:4000
 ```
 git push
 ```
-
-## Digital projects
-
-- [Idea Reminder](http://www.ideareminder.org/)
-- [Gratitude Reminder](http://www.gratitudereminder.org/)
-- [Mid-Market Status](http://www.midmarketstatus.com/)
