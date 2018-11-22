@@ -26,5 +26,5 @@ defaults:
     values:
       sitemap: false
 
-plugins_dir:
+plugins:
   - jekyll-sitemap
