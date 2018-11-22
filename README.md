@@ -8,7 +8,7 @@ My personal website.
 $ bundle exec jekyll serve --livereload
 ```
 
-Then go to http://localhost:4000
+Then go to http://127.0.0.1:4000
 
 ## Deploy
 
