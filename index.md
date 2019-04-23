@@ -21,7 +21,7 @@ class: home
 - [Mid-Market Status](http://midmarketstatus.com)
 - [Church of Silentology](https://churchofsilentology.com)
 
-**A few open source contributions**
+**A few open-source contributions**
 - [RuboCop](https://github.com/rubocop-hq/rubocop/pulls?q=is%3Apr+author%3Amaxh+is%3Aclosed)
 - [Earth Engine layers](https://github.com/google/earthengine-api/tree/master/javascript/src/layers)
 - [Earth Engine forest demo](https://github.com/google/earthengine-api/tree/master/demos/forest)
