@@ -21,6 +21,12 @@ class: home
 - [Mid-Market Status](http://midmarketstatus.com)
 - [Church of Silentology](https://churchofsilentology.com)
 
+**A few open source contributions**
+- [RuboCop](https://github.com/rubocop-hq/rubocop/pulls?q=is%3Apr+author%3Amaxh+is%3Aclosed)
+- [Earth Engine layers](https://github.com/google/earthengine-api/tree/master/javascript/src/layers)
+- [Earth Engine forest demo](https://github.com/google/earthengine-api/tree/master/demos/forest)
+- [Dart VM](https://codereview.chromium.org/search?closed=1&owner=meh%40google.com&reviewer=&cc=&repo_guid=&base=&project=&private=1&commit=1&created_before=&created_after=&modified_before=&modified_after=&order=&format=html&keys_only=False&with_messages=False&cursor=&limit=30)
+
 <script>
   const list = document.querySelector('.columns');
   for (let i = list.children.length; i >= 0; i--) {
