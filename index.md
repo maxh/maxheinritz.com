@@ -29,8 +29,9 @@ class: home
 
 **Misc related internets**
 
-- [faircompanies video](https://www.youtube.com/watch?v=6tYaI3At4fs)
+- [faircompanies apartment tour](https://www.youtube.com/watch?v=6tYaI3At4fs)
 - [Uses This interview](https://usesthis.com/interviews/max.heinritz/)
+- [Built In interview](https://builtin.com/software-engineering-perspectives/how-to-become-a-software-engineer)
 
 <!-- Randomize the order of the project pictures -- just for fun! -->
 <script>
