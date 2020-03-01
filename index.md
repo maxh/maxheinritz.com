@@ -15,17 +15,12 @@ class: home
   {% endfor %}
 </div>
 
-**Other (less pretty) projects**
+**Code etc**
 
-- [Idea Reminder](https://www.ideareminder.org)
-- [Gratitude Reminder](https://www.gratitudereminder.org)
-- [Mid-Market Status](http://midmarketstatus.com)
-- [Church of Silentology](https://churchofsilentology.com)
-
-**A few open-source contributions**
-
-- [RuboCop](https://github.com/rubocop-hq/rubocop/pulls?q=is%3Apr+author%3Amaxh+is%3Aclosed)
-- [Earth Engine layers](https://github.com/google/earthengine-api/commit/7110809ce760ab187afa43cb20e349e54b0f62b3#diff-85588e2d3225963a73d9cf4e21bdf240)
+- [Isolating Rails Engines with RuboCop](https://flexport.engineering/isolating-rails-engines-with-rubocop-210feaba3164)
+- [React Native and Expo at Flexport](https://flexport.engineering/react-native-and-expo-at-flexport-5f4842b2ba20)
+- [Approximating “Prettier for Ruby” with RuboCop](https://flexport.engineering/approximating-prettier-for-ruby-with-rubocop-8b863bd64dc6)
+- [Earth Engine layer framework](https://github.com/google/earthengine-api/commit/7110809ce760ab187afa43cb20e349e54b0f62b3#diff-85588e2d3225963a73d9cf4e21bdf240)
 
 **Misc related internets**
 
