@@ -9,7 +9,7 @@ const shuffleForToday = inputArray => {
 
   let currentIndex = length;
 
-  while (0 !== currentIndex) {
+  while (0 < currentIndex) {
     const semiRandomFactor = semiRandomFactors.pop();
     const randomIndex = Math.floor(semiRandomFactor * currentIndex);
     currentIndex -= 1;
