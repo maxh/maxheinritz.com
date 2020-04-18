@@ -5,9 +5,9 @@
 const shuffleForToday = inputArray => {
   const array = [...inputArray];
   const length = array.length;
+  const semiRandomFactors = getSemiRandomFactorsForToday(length);
 
   let currentIndex = length;
-  let semiRandomFactors = getSemiRandomFactorsForToday(length);
 
   while (0 !== currentIndex) {
     const semiRandomFactor = semiRandomFactors.pop();
