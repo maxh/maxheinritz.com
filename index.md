@@ -30,8 +30,6 @@ class: home
 
 <!-- Randomize the order of the project pictures -- just for fun! -->
 <script>
-  const list = document.querySelector('.columns');
-  for (let i = list.children.length; i >= 0; i--) {
-    list.appendChild(list.children[Math.random() * i | 0]);
-  }
+  const root = document.querySelector('.columns');
+  shuffleForToday(root.children).forEach(child => root.appendChild(child));
 </script>
