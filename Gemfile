@@ -1,11 +1,6 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
 
-gem "github-pages", group: :jekyll_plugins
+# To upgrade, run `bundle update github-pages`.
+gem "github-pages", "~> 219", group: :jekyll_plugins
 
-gem "minima", "~> 2.0"
-
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-sitemap"
-end
+gem "webrick", "~> 1.7"

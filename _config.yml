@@ -3,6 +3,8 @@ title: Max Heinritz
 url: http://maxheinritz.com
 desc: Max Heinritz's personal website and project portfolio.
 collections:
+  essays:
+    output: true
   projects:
     output: true
 

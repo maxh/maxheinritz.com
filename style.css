@@ -213,8 +213,21 @@ h1 {
 
 /* Project page. */
 
-.project .top {
+.detail .top {
   opacity: .5;
+}
+
+.detail .roles {
+  display: none;
+}
+
+@media (max-width: 540px) {
+  .detail .email {
+    display: none;
+  }
+  .detail .top .two {
+    display: none;
+  }
 }
 
 .project main {
@@ -230,19 +243,6 @@ h1 {
   max-width: 100%;
   display: block;
   margin-bottom: 40px;
-}
-
-.project .roles {
-  display: none;
-}
-
-@media (max-width: 540px) {
-  .project .email {
-    display: none;
-  }
-  .project .top .two {
-    display: none;
-  }
 }
 
 @media (min-width: 860px) {
@@ -277,4 +277,8 @@ h1 {
   .consultation .top .two {
     display: none;
   }
+}
+
+.custom-table th, .custom-table td {
+  padding: 5px;
 }

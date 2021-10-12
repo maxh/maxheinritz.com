@@ -15,6 +15,12 @@ class: home
   {% endfor %}
 </div>
 
+**Essays**
+
+{% for essay in site.essays %}
+  - <a href="{{ essay.url }}">{{ essay.title }}</a>
+{% endfor %}
+
 **Code etc**
 
 - [Isolating Rails Engines with RuboCop](https://flexport.engineering/isolating-rails-engines-with-rubocop-210feaba3164)
