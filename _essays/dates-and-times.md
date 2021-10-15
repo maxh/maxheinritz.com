@@ -6,7 +6,7 @@ layout: essay
 
 Dates and times can be tricky to interact with while programming.
 
-As a junior engineer, I skirted the issue by representing all times in [UNIX epoch milleseconds](https://en.wikipedia.org/wiki/Unix_time) and letting frontend code handle conversion to local time. This is a natural approach for historic system-level events like `created_at` or `logged_in_at`, and for some simple business domains, it might be enough.
+One approach is to represent all times in [UNIX epoch milleseconds](https://en.wikipedia.org/wiki/Unix_time) and let frontend code handle conversion to local time. This works well for system-level events like `created_at` or `logged_in_at`, and it might be enough for some simple business domains.
 
 But epoch milliseconds are insufficient for more complicated domains that involve scheduling future times, time ranges, and users coordinating across time zones. International freight deals with of those things, and this led me to spend _a lot_ of time (heh) learning about these concepts at Flexport.
 
