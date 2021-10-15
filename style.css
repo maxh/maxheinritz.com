@@ -230,6 +230,25 @@ h1 {
   }
 }
 
+.essay main {
+  max-width: 600px;
+  font-family: serif;
+}
+
+.essay pre {
+  padding: 10px;
+  background-color: #eee;
+}
+
+.essay pre .c {
+  color: #777;
+}
+
+.essay table {
+  padding: 10px;
+  background-color: #eee;
+}
+
 .project main {
   display: flex;
   flex-direction: column;

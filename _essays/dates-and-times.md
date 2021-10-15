@@ -4,33 +4,126 @@ desc: Properly handling date and date times.
 layout: essay
 ---
 
-Dates and times are tricky to handle correctly in software.
+Dates and times can be tricky to interact with while programming.
 
+As a junior engineer, I skirted the issue by representing all times in [UNIX epoch milleseconds](https://en.wikipedia.org/wiki/Unix_time) and letting frontend code handle conversion to local time. This is a natural approach for historic system-level events like `created_at` or `logged_in_at`, and for some simple business domains, it might be enough.
+
+But epoch milliseconds are insufficient for more complicated domains that involve scheduling future times, time ranges, and users coordinating across time zones. International freight deals with of those things, and this led me to spend _a lot_ of time (heh) learning about these concepts at Flexport.
+
+I've come to follow the terminology defined by the W3C here:
+
+[https://www.w3.org/International/articles/definitions-time](https://www.w3.org/International/articles/definitions-time)
+
+This article is a slightly more whimsical companion to that page with some of my own experience sprinkled in.
+
+## Table of contents
+
+- [Examples](#examples)
+- [Key distinctions](#key-distinctions)
+    - [UTC offset vs time zone](#utc-offset-vs-time-zone)
+    - [Incremental time vs wall time](#incremental-time-vs-wall-time)
+    - [Date vs date time](#date-vs-date-time)
+- [IANA database](#iana-database)
+
+<a name="examples"></a>
 ## Examples
 
-| type | value |
-|:---  |:---  |
-| _date_ with a _time zone_ | `October 21, 2021 in America/Chicago` | 
-| _date time_ with a _time zone_  | `8:30AM on October 21, 2021 in America/Chicago` |
-| _date_ with a _UTC offset_ | `October 21, 2021 UTC-6` |
-| _date time_ with a _UTC offset_ | `8:30AM on October 21, 2021 UTC-6` |
-| _date_ with a _named UTC offset_ | `October 21, 2021 Central Daylight Time` |
-| _date time_ with a _named UTC offset_ | `8:30AM on October 21, 2021 Central Daylight Time` |
-{:.custom-table}
+Let's start with colloquial examples to illustrate a few concepts:
+
+
+```sh
+# date with a time zone
+October 21, 2021 in America/Chicago
+
+# date with a named UTC offset
+October 21, 2021 Central Daylight Time
+
+# date time with a numeric UTC offset
+8:30AM on October 21, 2021 UTC-06:00
+```
+
+Notice the different types: date vs date time and offset vs time zone.
 
 ## Key distinctions
 
 ### UTC offset vs time zone
 
-The concepts of “UTC offset” and “time zone” are distinct. A UTC offset is a positive or negative number indicating the hours offset from UTC. A time zone is a geographic area that is mapped to one or more UTC offset.
+A _UTC offset_ is an hour and minute offset from UTC, represented either as a _numeric offset_ like "UTC+06:00" or a _named offset_ like "Central Daylight Time (CDT)".
 
-An example of a time zone is “America/Chicago”. An example of a UTC offset is UTC-6. A named offset is an alias for a UTC offset. For example, Central Daylight Time (CDT) means UTC-5 and Central Standard Time (CST) menas UTC-6.
+A _time zone_ is a geographic area with a label like "America/Chicago".
 
-The relationship between a time zone and its current UTC offsets usually changes twice per year for daylight savings, but also may be updated due to political decisions. 
+There is a many-to-many relationship between UTC offsets and time zones. A time zone's UTC offset usually changes twice per year for daylight savings, and also may be updated due to political decisions. The authoritative mapping between time zones and offsets is the [IANA database](#iana-database).
+
+### Incremental time vs wall time
+
+_Incremental time_ is based on a progression of fixed integer units that increase monotonically from a specific point in time (called the "epoch"). UTC and offset-based times are different flavors of incremental time, and all can be converted to the UNIX epoch representation:
+
+```sh
+# UTC (Z is shorthand for UTC)
+2021-10-23T10:30:00Z
+
+# numeric offset
+2021-10-23T10:30:00+06:00 
+
+# named offset
+2021-10-23T10:30:00CDT
+
+# seconds since 00:00:00 UTC 1 January 1970
+1634257344
+```
+
+_Wall time_ corresponds to what a person would recognize the time to be if they looked at a clock and/or calendar mounted on a wall in a particular place. In its most basic form it's represented like this:
+
+```sh
+2021-10-01T10:30:00 # no offset
+```
+
+Wall time can be used without a time zone, which can be appropriate for something like "this year my birthday is on Tuesday June 8, 2021", which is true regardless of time zone or UTC offset. But in my experience wall times are most useful when anchored to a specific place, because that's generally what a user intends to convey.
 
 ### Date vs date time
 
-A “date” is not the same as a “date time”. A “date” is a time range from midnight to midnight in a particular time zone. Usually this is a 24-hour range, but there are some exceptions for years with leap seconds and on daylight savings transitions. A “date time” is a particular instant in time, which may or may not be anchored to a time zone.
+A "date" is not the same as a "date time". A "date" is a time range from midnight to midnight in a particular time zone. Usually this is a 24-hour range, but there are some exceptions for years with leap seconds and on daylight savings transitions. A "date time" is a particular instant in time, which may or may not be anchored to a time zone.
+
+## IANA database
+
+The IANA database is standard mapping of time zones to IANA offsets. You can download the dataset here: 
+
+[https://www.iana.org/time-zones](https://www.iana.org/time-zones)
+
+Here's an example of what the rules look like.=:
+
+```txt
+# Zone	NAME		STDOFF	RULES	FORMAT	[UNTIL]
+Zone America/Chicago	-5:50:36 -	LMT	1883 Nov 18 12:09:24
+			-6:00	US	C%sT	1920
+			-6:00	Chicago	C%sT	1936 Mar  1  2:00
+			-5:00	-	EST	1936 Nov 15  2:00
+			-6:00	Chicago	C%sT	1942
+			-6:00	US	C%sT	1946
+			-6:00	Chicago	C%sT	1967
+			-6:00	US	C%sT
+```
+
+## Representing dates in logistics
+
+When updating a delivery ETA, what the user is really trying to convey is something like:
+
+```
+The package is expected to be delivered to
+764 Treat Ave, San Francisco, CA
+by 10:30AM on 2021-10-23.
+```
+
+The most precise way to capture the user's intention might be with a data structure like this:
+
+```js
+{
+    place: "764 Treat Ave, San Francisco, CA, 94110",
+    wall_date_time: "2021-10-23T10:30",
+}
+```
+
+But this rather unwieldy. 
 
 <!-- ## Common sources of confusion
 
