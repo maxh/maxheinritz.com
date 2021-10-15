@@ -6,7 +6,7 @@ layout: essay
 
 Dates and times can be tricky to interact with while programming.
 
-One approach is to represent all times in [UNIX epoch milleseconds](https://en.wikipedia.org/wiki/Unix_time) and let frontend code handle conversion to local time. This works well for system-level events like `created_at` or `logged_in_at`, and it might be enough for some simple business domains.
+One approach is to represent all times in [UNIX epoch milleseconds](https://en.wikipedia.org/wiki/Unix_time) and let a thin layer of frontend code handle the conversion to local time for rendering. This works well for system-level events like `created_at` or `logged_in_at`, and it might be enough for some simple business domains.
 
 But epoch milliseconds are insufficient for more complicated domains that involve scheduling future times, time ranges, and users coordinating across time zones. International freight deals with of those things, and this led me to spend _a lot_ of time (heh) learning about these concepts at Flexport.
 
@@ -14,7 +14,7 @@ I've come to follow the terminology defined by the W3C here:
 
 [https://www.w3.org/International/articles/definitions-time](https://www.w3.org/International/articles/definitions-time)
 
-This article is a slightly more whimsical companion to that page with some of my own experience sprinkled in.
+This article is a companion to that page with some more tactical best practices.
 
 ## Table of contents
 
@@ -24,6 +24,7 @@ This article is a slightly more whimsical companion to that page with some of my
     - [Incremental time vs wall time](#incremental-time-vs-wall-time)
     - [Date vs date time](#date-vs-date-time)
 - [IANA database](#iana-database)
+- [Representing dates in logistics](#representing-dates-in-logistics)
 
 <a name="examples"></a>
 ## Examples
@@ -78,7 +79,7 @@ _Wall time_ corresponds to what a person would recognize the time to be if they 
 2021-10-01T10:30:00 # no offset
 ```
 
-Wall time can be used without a time zone, which can be appropriate for something like "this year my birthday is on Tuesday June 8, 2021", which is true regardless of time zone or UTC offset. But in my experience wall times are most useful when anchored to a specific place, because that's generally what a user intends to convey.
+Wall time can be used without a time zone to represent something like "this year my birthday is on Tuesday June 8, 2021", which is true regardless of time zone or UTC offset. But in my experience, most business use cases for wall times involve anchoring to a specific place. More on this in the section [Representing dates in logistics](#representing-dates-in-logistics).
 
 ### Date vs date time
 
