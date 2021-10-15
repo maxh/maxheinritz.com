@@ -17,8 +17,7 @@ class: home
 
 **Essays**
 
-{% for essay in site.essays %}
-  - <a href="{{ essay.url }}">{{ essay.title }}</a>
+{% for essay in site.essays %}- [{{ essay.title }}]({{ essay.url }})
 {% endfor %}
 
 **Code etc**
