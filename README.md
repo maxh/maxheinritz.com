@@ -2,7 +2,7 @@
 
 My personal website.
 
-## Live reloading!
+## Live reloading
 
 ```sh
 $ bundle exec jekyll serve --incremental
