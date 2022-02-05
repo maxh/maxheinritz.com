@@ -7,7 +7,7 @@ layout: essay
 I’ve come to prefer a directory structure for web application source code that involves three top-level directories, arranged in an ordered dependency hierarchy:
 
 - `app/` - high-level code that ties things together but is largely domain-agnostic
-- `domain/` - domain-specific code for to the relevant problem domain
+- `domain/` - domain-specific code for the relevant problem domain
 - `platform/` - low-level domain-agnostic libraries, utilities, and constants
 
 Code in `app/` can depend on `domain/` and `platform/`. Code in `domain/` can depend on `platform/` but not `app/`. And code in `platform/` cannot depend on anything else. Let’s walk through these in detail, starting from the bottom up.
@@ -17,8 +17,8 @@ Code in `app/` can depend on `domain/` and `platform/`. Code in `domain/` can de
 Examples of platform code include:
 
 - Wrappers around external logging and monitoring libraries
-- Pure function utilities for, say, string manipulation or zip code validation
-- A domain-agnostic entity of revision history tracker
+- Pure function utilities for things like string or list manipulation
+- An entity revision history tracking system
 - Widely used standardized constants such as ISO country codes
 
 One way to think about platform code is: if your startup pivots and you want to start a totally new code base in a different domain, you should be able to copy over all the platform code without needing to refactor anything.
