@@ -1,5 +1,5 @@
 ---
-title: Startup Stack
+title: Startup stack
 desc: Software I'd use when building a startup.
 layout: essay
 ---

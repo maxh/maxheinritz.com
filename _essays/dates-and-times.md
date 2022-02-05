@@ -1,6 +1,6 @@
 ---
-title: Dates and Times (WIP)
-desc: Properly handling date and date times.
+title: Dates and times (WIP)
+desc: Properly handling date and date times
 layout: essay
 ---
 
