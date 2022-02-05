@@ -29,7 +29,7 @@ Within the context of the example system, the domain prefixes "ta" (tenant admin
 
 Qids are globally unique and fully qualified, and these properties offer some advantages over plain UUIDs or serial numeric identifiers.
 
-**Global lookup **– The qid format supports global entity resolution: given a qid, get its value. This is useful for implementing the [GraphQL global object specification](https://graphql.org/learn/global-object-identification/) as well as tooling for developers to quickly load qids and traverse associations. This can work across network-isolated services so long as there is a global registry somewhere.
+**Global lookup** – The qid format supports global entity resolution: given a qid, get its value. This is useful for implementing the [GraphQL global object specification](https://graphql.org/learn/global-object-identification/) as well as tooling for developers to quickly load qids and traverse associations. This can work across network-isolated services so long as there is a global registry somewhere.
 
 **Logs and error messaging** – When searching through logs, you can filter on a qid and see all logs related to that particular entity. Conversely, if you encounter a qid in a log or error message, it’s easy to resolve it to a value using the global lookup.
 
