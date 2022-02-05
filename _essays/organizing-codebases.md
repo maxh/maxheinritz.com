@@ -4,13 +4,15 @@ desc: A three-bucket approach for managing complexity
 layout: essay
 ---
 
-I’ve come to prefer a directory structure for web application source code that involves three top-level directories, arranged in an ordered dependency hierarchy:
+I’ve come to prefer a codebase structure that involves three top-level directories, arranged in an ordered dependency hierarchy:
 
 - `app/` - high-level code that ties things together but is largely domain-agnostic
 - `domain/` - domain-specific code for the relevant problem domain
 - `platform/` - low-level domain-agnostic libraries, utilities, and constants
 
-Code in `app/` can depend on `domain/` and `platform/`. Code in `domain/` can depend on `platform/` but not `app/`. And code in `platform/` cannot depend on anything else. Let’s walk through these in detail, starting from the bottom up.
+Code in `app/` can depend on `domain/` and `platform/`. Code in `domain/` can depend on `platform/` but not `app/`. And code in `platform/` cannot depend on anything else. Dependency restrictions can be enforced with tools such [eslint's `no-restricted-imports`](https://eslint.org/docs/rules/no-restricted-imports) or [ArchUnit for Java](https://www.archunit.org/).
+
+Let’s walk through the three directories in detail, starting from the bottom up.
 
 ## Platform code
 
@@ -21,7 +23,7 @@ Examples of platform code include:
 - An entity revision history tracking system
 - Widely used standardized constants such as ISO country codes
 
-One way to think about platform code is: if your startup pivots and you want to start a totally new code base in a different domain, you should be able to copy over all the platform code without needing to refactor anything.
+One way to think about platform code is: if your startup pivots and you want to start a totally new codebase in a different domain, you should be able to copy over all the platform code without needing to refactor anything.
 
 Another way to think about platform code is: it could be easily bundled up and distributed as packages or libraries on npm, maven, etc. Indeed, reusing open source external packages instead of hand rolling platform code is generally the best approach. But in every codebase I’ve worked on, we’ve ended up with some components that are platform-like in nature (ie domain-agnostic) but still specific to our particular application.
 
