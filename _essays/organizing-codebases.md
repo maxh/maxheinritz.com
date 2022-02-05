@@ -31,7 +31,7 @@ Another way to think about platform code is: it could be easily bundled up and d
 
 ## Domain code
 
-The domain directory will vary based on the use case the application is built for. For example:
+The contents of the domain directory will vary based on the application problem domain. For example:
 
 - For a restaurant app, it could contain components for managing reservations, menus, order tracking, etc
 - For a freight forwarding app, it could contain components for booking management, freight execution, contract and pricing controls, etc
