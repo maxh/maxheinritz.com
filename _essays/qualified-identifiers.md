@@ -53,7 +53,7 @@ Global qid lookup can be implemented with a registry of query services, either g
 
 Having go/ links related to qids can be helpful. For example:
 
-* go/qid/<qid> - open the main product page for the entity that everyday users use
-* go/q/<qid> - opens a web page for in raw entity viewer / traversal UI
+* `go/qid/<qid>` - main product page for the entity that end users visit
+* `go/q/<qid>` - a raw entity viewer / traversal UI with raw JSON
 
-For development, it’s nice to have versions that resolve to the development URL path (for example, localhost:4000) go/dqid/<qid> and go/dq/<qid>.
+For development, it’s nice to have versions that resolve to the development URL path (for example, localhost:4000) `go/dqid/<qid>` and `go/dq/<qid>`.
