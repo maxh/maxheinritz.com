@@ -42,7 +42,7 @@ Qids are globally unique and fully qualified, and these properties offer some ad
 
 ## Persistence
 
-There are two main persistence options. Qids can be stored in full in a primary key `qid` TEXT-type column in Postgres, or just the UUID part can be stored in isolation in a UUID-type column. The latter may offer better [storage and runtime performance](https://stackoverflow.com/a/44101628), but it requires additional application logic to construct/deconstruct qids from UUIDs. To avoid this complexity, I prefer to use dedicated qid columns and have foreign references also held in columns ending in _qid.
+There are two main persistence options. Qids can be stored in full in a primary key `qid` TEXT-type column in Postgres, or just the UUID part can be stored in isolation in a UUID-type column. The latter may offer better [storage and runtime performance](https://stackoverflow.com/a/44101628), but it requires additional application logic to construct/deconstruct qids from UUIDs. To avoid this complexity, I prefer to use dedicated qid columns and have foreign references also held in columns ending in `_qid`.
 
 
 ## Global look up
