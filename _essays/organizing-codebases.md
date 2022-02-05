@@ -12,7 +12,7 @@ I’ve come to prefer a codebase structure that involves three top-level directo
 
 Code in `app/` can depend on `domain/` and `platform/`. Code in `domain/` can depend on `platform/` but not `app/`. And code in `platform/` cannot depend on anything else.
 
-Dependency restrictions can be enforced with tools such [eslint's `no-restricted-imports`](https://eslint.org/docs/rules/no-restricted-imports) or [ArchUnit for Java](https://www.archunit.org/).
+Dependency restrictions can be enforced with tools like [eslint's `no-restricted-imports`](https://eslint.org/docs/rules/no-restricted-imports) or [ArchUnit for Java](https://www.archunit.org/).
 
 Let’s walk through the three directories in detail, starting from the bottom up.
 
