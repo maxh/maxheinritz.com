@@ -4,7 +4,7 @@ desc: A simple approach to documentation
 layout: essay
 ---
 
-Two internal tools I find it hard to work without are go links and a wiki. My solutions of choice are https://www.golinks.io (free) and https://www.atlassian.com/software/confluence (free for small teams).
+Two internal tools I find it hard to work without are go links and a wiki. My solutions of choice are [https://www.golinks.io] (free) and [https://www.atlassian.com/software/confluence] (free for small teams).
 
 Common patterns for go links include:
 
