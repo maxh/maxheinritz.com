@@ -43,7 +43,7 @@ For this reason, I tend to include in the domain directory any modules responsib
 
 ## App code
 
-The app directory is orchestrator of the system. It is spiritually similar to the platform directory in that it doesn’t deal directly with domain concepts, but it differs in that it depends on the domain code. Here are some examples of things that live at the app layer:
+The app directory is the orchestrator of the system. It is like the platform directory in that it doesn’t deal directly with domain concepts, but it differs in that it depends on the domain code. Here are some examples of things that live at the app layer:
 
 - Web server entry point that loads web-facing components and starts listening for requests
 - Command line utility entry point that loads CLI components and dispatches commands to the relevant components
