@@ -22,8 +22,8 @@ Here's an example of how a shipment might appear in such a tool:
     "countryIso2": "US",
     "addressLine1": "510 Kulas Avenue"
   },
-  "shipperQid": "qid::nt:organization:660f48c2-83f7-4bd1-ab46-6bf76b31b0cb",
-  "consigneeQid": "qid::nt:organization:232d872d-cb31-4a84-a236-fbb8b0503994",
+  "shipperOrgQid": "qid::nt:organization:660f48c2-83f7-4bd1-ab46-6bf76b31b0cb",
+  "consigneeOrgQid": "qid::nt:organization:232d872d-cb31-4a84-a236-fbb8b0503994",
   "destination": {
     "city": "Port Sart",
     "state": "CT",
@@ -52,7 +52,7 @@ function SimpleJsonPrettyPrint(props) {
 }
 ```
 
-This works great, except that the qid values are not links. I like to be able to click on e.g. the `shipperOrg` value above and open the relevant org entity on another tab. The `pre` approach could be extended to support links with `dangerouslySetInnerHTML`, but that's risky.
+This works great, except that the qid values are not links. I like to be able to click on e.g. the `shipperOrgQid` value above and open the relevant org entity on another tab. The `pre` approach could be extended to support links with `dangerouslySetInnerHTML`, but that's risky.
 
 This led me to develop a more idiomatic React JSON pretty printer with some fun recursion.
 
