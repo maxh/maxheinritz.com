@@ -8,7 +8,7 @@ Two internal tools I find it hard to work without are go links and a wiki. My so
 
 Common patterns for go links include:
 
-- `go/qid/<qid>` - primary product page for a qid
+- `go/qid/<qid>` - primary product page for a [qid](/essays/qualified-identifiers.html)
 - `go/q/<qid>` - debug page for a qid
 - `go/foo` - the in-app product page for some domain or product
 - `go/foo-wiki` - the wiki page for that domain or product
