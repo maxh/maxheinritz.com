@@ -10,13 +10,13 @@ I like using go links and internal wikis. I was first introduced to these at Goo
 
 Go links make it easy to navigate internal resources with just a keyboard. Example go links include:
 
-- `go/foo-bar` - the in-app product page for some domain or product "foo bar"
-- `go/foo-bar-wiki` - the wiki page for that domain or product
-- `go/foo-bar-dd` - the Datadog metrics page for a domain or product
-- `go/foo-bar-prd` - the product requirements doc for foo
-- `go/foo-bar-erd` - the eng requirements doc for foo
 - `go/qid/<qid>` - primary product page for a [qid](/essays/qualified-identifiers.html)
 - `go/q/<qid>` - debug page for a qid
+- `go/foo-bar` - the in-app product page for some domain or product "foo bar"
+- `go/foo-bar-wiki` - the wiki page for that domain or product
+- `go/foo-bar-dd` - Datadog metrics page
+- `go/foo-bar-prd` - product requirements doc
+- `go/foo-bar-erd` - eng requirements doc
 
 A key use case for go links in Slack channel headers - links to PRDs, metrics, etc.
 
