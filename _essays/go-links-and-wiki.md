@@ -1,10 +1,9 @@
 ---
-title: go links and wiki
-desc: A simple approach to documentation
+title: Internal documentation tools
 layout: essay
 ---
 
-I like using go links and internal wikis. I was first introduced to these at Google and have advocated for their use at the startups I've joined. The best externally available solutions I've found so far are [golinks.io](https://www.golinks.io) (free) and [Atlassian Confluence](https://www.atlassian.com/software/confluence) (free for small teams).
+Two of my favorite tools are go links and wikis. I was first introduced to these at Google and have advocated for their use at the various startups I've joined. The best externally available solutions I've found so far are [golinks.io](https://www.golinks.io) (free) and [Atlassian Confluence](https://www.atlassian.com/software/confluence) (free for small teams).
 
 ## Go links
 
@@ -18,7 +17,7 @@ Go links make it easy to navigate internal resources with just a keyboard. Examp
 - `go/foo-bar-prd` - product requirements doc
 - `go/foo-bar-erd` - eng requirements doc
 
-In Chrome, I hit "cmd+L" to activate the URL bar, then type "go/" and type the link. With Chrome autocompletion it's fast easy to find what I'm looking for. (I'm not sure if this exists, but it would be nice to have the autocomplete include go/ links that exist in the company go link registry, even if I haven't visited it before.) 
+In Chrome, I hit "cmd+L" to activate the URL bar, then type "go/" and type the link. Chrome autocompletion makes it fast and easy to find what I'm looking for. (A product idea is to have the autocomplete include links that exist in the company go link registry, even if they haven't been visited before. Not sure if that already exists.) 
 
 A key use case for go links in Slack channel headers - links to PRDs, metrics, etc.
 
