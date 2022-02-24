@@ -3,7 +3,7 @@ title: Internal documentation tools
 layout: essay
 ---
 
-Two of my favorite tools are go links and wikis. I was first introduced to these at Google and have advocated for their use at the various startups I've joined. The best externally available solutions I've found so far are [golinks.io](https://www.golinks.io) (free) and [Atlassian Confluence](https://www.atlassian.com/software/confluence) (free for small teams).
+Two of my favorite tools are go links and wikis. I was first introduced to these at Google and have advocated for their use at the various startups I've joined. The best externally available solutions I'm aware of are [golinks.io](https://www.golinks.io) (free) and [Atlassian Confluence](https://www.atlassian.com/software/confluence) (free for small teams).
 
 ## Go links
 
@@ -17,15 +17,15 @@ Go links make it easy to navigate internal resources with just a keyboard. Examp
 - `go/foo-bar-prd` - product requirements doc
 - `go/foo-bar-erd` - eng requirements doc
 
-In Chrome, I hit "cmd+L" to activate the URL bar, then type "go/" and type the link. Chrome autocompletion makes it fast and easy to find what I'm looking for. (A product idea is to have the autocomplete include links that exist in the company go link registry, even if they haven't been visited before. Not sure if that already exists.) 
+In Chrome, I hit "cmd+L" to activate the URL bar, then type "go/" and type the link. Chrome autocompletion makes it fast and easy to find what I'm looking for. (A product idea is to autocomplete links that exist in the company go link registry, even if they haven't been visited before. Not sure if that exists.) 
 
 A key use case for go links in Slack channel headers - links to PRDs, metrics, etc.
 
 # Wikis
 
-I like wikis because they encourage incremental documentation as complexity grows. You can start with a single page, then split it into separate pages and include auto-generated descendant lists like table of contents as documentation grows. The latest Confluence WYSIWIG editor is simple and powerful as well.
+I like wikis because they encourage incremental documentation as complexity grows. You can start with a single page, then split it into child pages and include an auto-generated descendant "table of contents" in the parent page. The latest Confluence WYSIWIG editor is simple and powerful as well.
 
-It's helpful to put the fully go link for a wiki page at the top of the wiki page so that it is easy to copy/paste into Slack:
+It's helpful to put the full go link for a wiki page at the top of the wiki page so that it is easy to copy/paste into Slack:
 
 ```
 http://go/foo-wiki
