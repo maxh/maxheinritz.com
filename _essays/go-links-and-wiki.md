@@ -25,7 +25,7 @@ A key use case for go links in Slack channel headers - links to PRDs, metrics, e
 
 I like wikis because they encourage incremental documentation as complexity grows. You can start with a single page, then split it into separate pages and include auto-generated descendant lists like table of contents as documentation grows. The latest Confluence WYSIWIG editor is simple and powerful as well.
 
-Another small thing is that I like to put the go link for a wiki page fully typed out at the top of the wiki page so that it is easy to copy/paste into Slack:
+It's helpful to put the fully go link for a wiki page at the top of the wiki page so that it is easy to copy/paste into Slack:
 
 ```
 http://go/foo-wiki
