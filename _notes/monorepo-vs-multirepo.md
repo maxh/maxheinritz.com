@@ -4,16 +4,16 @@ desc: Monorepo vs multi-repo
 layout: note
 ---
 
-Most Google engineers operate in a monorepo called `google3`. When I worked there in the early 2010s, it was a pleasure to develop in the monorepo environment, and I've heard that it keeps getting better. Google invests heavily in custom tooling for code search, file ownership, version control, testing, commit queue, code review, linting, etc. The code must flow.
+Most Google engineers operate in a monorepo called `google3` with phenomenal internal tooling. It was a joy to work there in the early 2010s, and I've heard that it keeps getting better. Google invests heavily in custom tooling for code search, file ownership, version control, testing, commit queue, code review, linting, etc. The code must flow.
 
-So naturally in my jobs outside of Google I have been inclined to follow the monorepo approach. But over time I've come to appreciate that most tooling outside of Google is built for multi-repo projects, and it's best to embrace rather than fight the tooling. Here are some examples:
+So naturally in my jobs outside of Google I have been inclined to follow the monorepo approach and recapture that magic. But over time I've come to appreciate that most tooling outside of Google is built for multi-repo projects, and it's best to embrace rather than fight the tooling. Here are some examples:
 
-- User permissions on GitHub can be set a repo level but not at a sub-repo level.
 - Many projects expect a single configuration at the project root. Examples include Relay, Jest, ESLint, etc. If you have web code, mobile code, and backend code in the same repo, this can get a bit messy.
 - Git operations start to slow down on large repos. This includes both remote operations (push, pull) and local operations (commit).
-- CI/CD and flaky test management becomes unmanageable in large repositories without custom tooling like Google's.
-- Code ownership across teams becomes unwieldy in large code bases.
-- Dependency management can be enforced more easily with separate repositories.
+- JetBrains IDE autocompletion scales well but behaves best when the open files are well-scoped to say, one backend service or one frontend.
+- User permissions on GitHub can be set a repo level but not at a sub-repo level.
+- CI/CD and flaky test management can become unmanageable in large repositories without custom tooling.
+- Code ownership and dependency management becomes unwieldy in large code bases.
 
 For future projects, I'm inclined towards:
 
