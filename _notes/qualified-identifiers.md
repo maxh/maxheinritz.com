@@ -1,7 +1,7 @@
 ---
 title: Qualified identifiers (qids)
 desc: An ARN-like alternative to UUIDs and serial columns
-layout: essay
+layout: note
 ---
 
 For database IDs, I like to use "qualified identifiers" (or "qids") with a schema as follows:

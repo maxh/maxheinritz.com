@@ -1,7 +1,7 @@
 ---
 title: Dates and times
 desc: Properly handling date and date times
-layout: essay
+layout: note
 ---
 
 Dates and times can be tricky to interact with while programming.

@@ -1,7 +1,7 @@
 ---
 title: Monorepo vs multi-repo
 desc: Monorepo vs multi-repo
-layout: essay
+layout: note
 ---
 
 Most Google engineers operate in a monorepo called `google3`. When I worked there in the early 2010s, it was a pleasure to develop in the monorepo environment, and I've heard that it keeps getting better. Google invests heavily in custom tooling for code search, file ownership, version control, testing, commit queue, code review, linting, etc. The code must flow.

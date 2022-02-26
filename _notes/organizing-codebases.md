@@ -1,7 +1,7 @@
 ---
 title: Organizing application source code
 desc: A three-bucket approach for managing complexity
-layout: essay
+layout: note
 ---
 
 I’ve come to prefer a codebase structure that involves three top-level directories, arranged in an ordered dependency hierarchy:
