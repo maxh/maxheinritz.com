@@ -3,7 +3,7 @@ title: Internal documentation tools
 layout: note
 ---
 
-Two of my favorite internal tools are go links and wikis. I was first exposed to these at Google and have advocated for their use at the all startups I've joined. The best-in-class external offerings seems to be [golinks.io](https://www.golinks.io) and [Atlassian Confluence](https://www.atlassian.com/software/confluence).
+Two of my favorite internal tools are go links and wikis. I was first exposed to these at Google and have advocated for their use at the all startups I've joined. The best-in-class external offerings seem to be [golinks.io](https://www.golinks.io) and [Atlassian Confluence](https://www.atlassian.com/software/confluence).
 
 ## Go links
 
