@@ -15,7 +15,7 @@ A **model** is a way of thinking about something – a "mental model".
 
 Putting these together, a **domain model** is a way of thinking about a particular domain. A domain model is not a specific type of diagram or specification. These artifacts can help teams refine their domain model, but just as ["the map is not the territory"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), we can say "the diagram is not the domain model".
 
-A domain model includes a **ubiquitous language**. Vocabulary should be consistent in software source code, business communication, and everyday conversation. With an expressive ubiquitous language, teams can move quickly without needing to revisit basic definitions.
+A domain model includes a **ubiquitous language**: terminology should be used consistently across software source code, business communication, and everyday conversation. With an expressive ubiquitous language, teams can move quickly without needing to revisit basic definitions.
 
 ## Bounded context
 
