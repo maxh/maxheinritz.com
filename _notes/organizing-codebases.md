@@ -11,7 +11,7 @@ I’ve come to prefer a codebase structure that involves four top-level director
 - `system/` - domain-agnostic stateful code for things like revision history, event log, bots
 - `common/` - low-level stateless domain-agnostic libraries, utilities, and constants
 
-Code in `app/` can depend on all other code. Code in `domain/` can depend on anything except `app/`. Etc.
+Code in `app/` can depend on all other code; code in `domain/` can depend on anything except `app/`; etc.
 
 Dependency restrictions can be enforced with tools like [eslint's `no-restricted-imports`](https://eslint.org/docs/rules/no-restricted-imports) or [ArchUnit for Java](https://www.archunit.org/).
 
