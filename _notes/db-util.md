@@ -7,7 +7,7 @@ layout: note
 I like being able manipulate all tables in my local PostgreSQL instance quickly. There might be a better way, but I've ended up hand-rolling a shell script to run it quickly. It lets me do things like:
 
 ```sh
-# Drop all rows, don't change schema.
+# Drop all rows; don't change schema.
 scripts/db_util.sh delete_rows
 
 # Drop all tables.
