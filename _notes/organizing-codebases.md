@@ -38,7 +38,7 @@ Examples of system code:
 
 The difference between "system" and "common" is stateful vs stateless. When I say "stateful", I mean the component actively reads/writes from a persistent data store like PostgreSQL, Redis, Elasticsearch.
 
-A Redis client library wrapper would live in "common". A durable event system that uses that client library to write messages for consumers to read -- that would be system-level component.
+A Redis client library wrapper would live in "common". A durable event system that uses that client library to write messages for consumers to read -- that would be a system-level component.
 
 ## Domain code
 
