@@ -1,10 +1,10 @@
 ---
-title: Organizing application source code
+title: Organizing backend code
 desc: A three-bucket approach for managing complexity
 layout: note
 ---
 
-I’ve come to prefer a codebase structure that involves four top-level directories, arranged in an ordered dependency hierarchy:
+I’ve come to prefer a backend codebase structure that involves four top-level directories, arranged in an ordered dependency hierarchy:
 
 - `app/` - high-level stateless code that ties things together but is largely domain-agnostic
 - `domain/` - domain-specific stateful code for the relevant problem domain
