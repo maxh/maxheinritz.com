@@ -41,7 +41,9 @@ Protobuf generated code uses it:
 ## Persistence
 
 I've tended to persist enums in TEXT-type columns instead of integers for data readability as outlined here:
-https://softwareengineering.stackexchange.com/questions/284530/why-store-flags-enums-in-a-database-as-strings-instead-of-integers
+
+[https://softwareengineering.stackexchange.com/questions/284530/why-store-flags-enums-in-a-database-as-strings-instead-of-integers]()
 
 Prisma enums are another option:
-https://www.prisma.io/docs/concepts/components/prisma-schema/data-model#defining-enums
+
+[https://www.prisma.io/docs/concepts/components/prisma-schema/data-model#defining-enums]()

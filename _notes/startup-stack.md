@@ -22,12 +22,12 @@ Backend
 
 - TypeScript as the language
 - node.js as the runtime
-- koa as the web server
-- GraphQL.js to define GraphQL schema
+- NestJS as the framework
 - Searchkit for searching, pagination, sorting, etc
 - DataLoader for batch loading of data
-- Prisma as the ORM (?)
-- CASL for authorization (?)
+- Prisma for relational persistence
+- Elasticsearch for search
+- CASL for authorization
 
 API
 

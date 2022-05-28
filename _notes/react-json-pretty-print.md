@@ -10,9 +10,9 @@ Here's an example of how a shipment might appear in such a tool:
 
 ```
 {
-  "qid": "qid::sh:shipment:893febfb-e7ba-4d7c-b576-18f2c907868b",
+  "qid": "qid::shipment:893febfb-e7ba-4d7c-b576-18f2c907868b",
   "createdAt": "2021-08-16T14:03:45Z",
-  "revisedAt": "2021-09-15T05:33:12Z",
+  "revisionCreatedAt": "2021-09-15T05:33:12Z",
   "revisionNumber": 4,
   "pickupDate": "2021-09-20",
   "origin": {
@@ -22,8 +22,8 @@ Here's an example of how a shipment might appear in such a tool:
     "countryIso2": "US",
     "addressLine1": "510 Kulas Avenue"
   },
-  "shipperOrgQid": "qid::nt:organization:660f48c2-83f7-4bd1-ab46-6bf76b31b0cb",
-  "consigneeOrgQid": "qid::nt:organization:232d872d-cb31-4a84-a236-fbb8b0503994",
+  "shipperOrgQid": "qid::organization:660f48c2-83f7-4bd1-ab46-6bf76b31b0cb",
+  "consigneeOrgQid": "qid::organization:232d872d-cb31-4a84-a236-fbb8b0503994",
   "destination": {
     "city": "Port Sart",
     "state": "CT",
@@ -31,7 +31,7 @@ Here's an example of how a shipment might appear in such a tool:
     "countryIso2": "US",
     "addressLine1": "7551 Elizabeth Drive"
   },
-  "transportationMode": "ftl",
+  "transportationMode": "FTL",
 }
 ```
 
