@@ -97,7 +97,6 @@ The following types have proven the most useful in my experience. These can be d
 - Example: `2022-04-23`
 - UTC offset is always undefined. Could be paired with time zone; see below.
 - Usage: domain-specific dates like pick up dates, invoice issue dates.
-- Currently persisted as a string.
 - Persist as date- or string-type column in PostgreSQL.
 
 ### Iso8601DateTime
