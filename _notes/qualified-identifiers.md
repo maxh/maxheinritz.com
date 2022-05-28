@@ -75,4 +75,4 @@ In some iterations, I've used a `<service-or-domain-prefix>` prior to the entity
 qid::ta:tenant:869e7dad-4e92-4e7c-9325-f2e4bc4cbf7b
 ```
 
-But the problem with this is that if you want to rearrange code or shift domain boundaries, it involves a data migration when this prefix changes. Whereas with the entity type only, it's possible to move an entity from one domain to another simply be moving code.
+But the problem with this is that if you want to rearrange code or shift domain boundaries, it involves a data migration when this prefix changes. Whereas with the entity type only, it's possible to move an entity from one domain to another simply by moving code.
