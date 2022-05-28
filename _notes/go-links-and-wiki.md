@@ -19,7 +19,7 @@ Go links make it easy to navigate internal resources with just a keyboard. Examp
 
 In Chrome, I hit "cmd+L" to activate the URL bar, then type "go/" and type the link. Chrome autocompletion makes it fast and easy to find what I'm looking for. (A product idea is to autocomplete links that exist in the company go link registry, even if they haven't been visited before. Not sure if that exists.)
 
-Another use case for go links in Slack channel headers - links to PRDs, metrics, etc.
+Another use case for go links is Slack channel headers - links to PRDs, metrics, etc.
 
 # Wikis
 
