@@ -79,14 +79,14 @@ A "date time" is a particular point in time, which may or may not be anchored to
 
 The poorly name JavaScript `Date` object represents date times, not dates.
 
-## Types
+## Serializable types
 
 I find the following types provide all the functionality I need. These can be defined as opaque types in TypeScript, scalars in GraphQL, etc.
 
 ### Iso8601Timestamp
 
 - A point in incremental time with millisecond resolution.
-- Example: `2022-05-23T23:12:05.123Z`
+- Example: `2022-05-23T23:12:05.123Z` (string)
 - Usage: database and system times (createdAt, revisedAt, etc).
 - Always includes the Z at the end indicating UTC offset of 0.
 - Persist with PostgreSQL’s timestamp(3) type.
@@ -94,7 +94,7 @@ I find the following types provide all the functionality I need. These can be de
 ### Iso8601Date
 
 - A wall time date.
-- Example: `2022-04-23`
+- Example: `2022-04-23` (string)
 - UTC offset is always undefined. Could be paired with time zone; see below.
 - Usage: domain-specific dates like pick up dates, invoice issue dates.
 - Persist as date- or string-type column in PostgreSQL.
@@ -102,7 +102,7 @@ I find the following types provide all the functionality I need. These can be de
 ### Iso8601DateTime
 
 - A point in wall time with millisecond resolution.
-- Example: `2022-05-23T06:00:00.123`
+- Example: `2022-05-23T06:00:00.123` (string)
 - UTC offset is always undefined (i.e. no `Z`). Could be paired with time zone; see below.
 - Usage: domain-specific date times. For example, delivery appointment window for a warehouse could be represented with two of these (9am to 11am on May 5th 2021).
 - Persist as timestamp- or string-typed column in PostgreSQL.
@@ -110,14 +110,14 @@ I find the following types provide all the functionality I need. These can be de
 ### ZonedDate
 
 - A wall time date, paired with a time zone.
-- Example: `{ date: '2022-04-23', timeZone: 'America/Chicago' }`
+- Example: `{ date: '2022-04-23', timeZone: 'America/Chicago' }` (object)
 - UTC offset can be computed via IANA table lookup.
 - Prefer to store as two separate DB columns. (Postgres dates do not allow for time zones.)
 
 ### ZonedDateTime
 
 - A point in wall time with millisecond resolution, paired with a time zone.
-- Example: `{ dateTime: '2022-05-23T06:00:00.000', timeZone: 'America/Chicago' }`
+- Example: `{ dateTime: '2022-05-23T06:00:00.000', timeZone: 'America/Chicago' }` (object)
 - UTC offset can be computed via IANA table lookup.
 - Prefer to store as two separate DB columns. (For consistency with zoned dates.)
 

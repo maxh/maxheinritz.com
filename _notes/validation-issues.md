@@ -3,11 +3,11 @@ title: Validation issues
 layout: note
 ---
 
-Data validation ensures that input provided by a user is acceptable from both a technical and business perspective. For example, a user registration system may include validations to ensure that each user has a non-empty first name and last name and that each user's email address is unique and formatted properly.
+Data validation ensures that inputs provided to a system are acceptable from both a technical and business perspective. For example, a user registration system may include validations to ensure that each user has a non-empty first name and last name and that each user's email address is unique and formatted properly.
 
 ## Validation issues vs errors
 
-Issues discovered during validation are called "validation issues" rather than "errors" because they are different from programming language "errors" in several ways.
+I like to describe issues discovered during validation as "validation issues" rather than "errors" because they are different from programming language "errors" in several ways.
 
 ### Fixable by end users
 
@@ -17,7 +17,7 @@ End users can fix validation issues by editing the input they provide to the sys
 
 Validation issues are expected to occur periodically during the normal usage of the app, whereas system errors are generally not. User input is unpredictable by nature.
 
-### Human readable
+### Human-readable
 
 The messages associated with validation issues are expected to be displayed to end users and should be human-readable.
 
