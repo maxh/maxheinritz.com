@@ -4,11 +4,7 @@ desc: Properly handling enumerated types
 layout: note
 ---
 
-Enums are great. In TypeScript, I like this approach from Sean Nicolay:
-
-https://github.com/kejistan/enum
-
-With UPPER_SNAKE keys and values:
+Enums are great. In TypeScript, I like using Sean Nicolay's [Flow-inspired enum library](https://github.com/kejistan/enum), with UPPER_SNAKE keys and values:
 
 ```typescript
 import { Enum, EnumValue } from "@kejistan/enum";
@@ -26,17 +22,21 @@ type MyStringEnum = EnumValue<typeof MyStringEnum>;
 We want consistency across backend code, frontend code, API definitions, and persistence.
 
 GraphQL spec recommends it:
-http://spec.graphql.org/June2018/#sec-Enum-Value
+
+- [http://spec.graphql.org/June2018/#sec-Enum-Value]()
 
 Google JSON API recommends it:
-https://google.github.io/styleguide/jsoncstyleguide.xml#Enum_Values
+
+- [https://google.github.io/styleguide/jsoncstyleguide.xml#Enum_Values]()
 
 These REST APIs recommend it:
-https://opensource.zalando.com/restful-api-guidelines/#240
+
+- [https://opensource.zalando.com/restful-api-guidelines/#240]()
 
 Protobuf generated code uses it:
-https://developers.google.com/protocol-buffers/docs/proto3#enum
-https://developers.google.com/protocol-buffers/docs/reference/java-generated#enum
+
+- [https://developers.google.com/protocol-buffers/docs/proto3#enum]()
+- [https://developers.google.com/protocol-buffers/docs/reference/java-generated#enum]()
 
 ## Persistence
 
