@@ -37,11 +37,9 @@ Qids are globally unique and fully qualified, and these properties offer some ad
 
 **Clearer field and column names** – The term "id" is overloaded. In the past I’ve seen collisions between the GraphQL global "ID" concept and serial primary database IDs, as well as between the IDs of internal systems and external systems. Or relational database IDs vs Elasticsearch IDs, etc. With qids, it's easier to disambiguate what's what. In GraphQL-related code, an "id" can be an opaque GraphQL-specific concept, while a "qid" means something different and precise in all parts of the system: GraphQL API, database column names, REST API, gRPC, etc.
 
-
 ## Persistence
 
 There are two main persistence options. Qids can be stored in full in a primary key `qid` TEXT-type column in Postgres, or just the UUID part can be stored in isolation in a UUID-type column. The latter may offer better [storage and runtime performance](https://stackoverflow.com/a/44101628), but it requires additional application logic to construct/deconstruct qids from UUIDs. To avoid this complexity, I prefer to use TEXT qid columns and have foreign references also held in columns ending in `_qid`.
-
 
 ## Global look up
 
@@ -51,14 +49,27 @@ Global qid lookup can be implemented with a registry of query services, either g
 
 Having go/ links related to qids can be helpful. For example:
 
-* `go/qid/<qid>` - main product page for the entity that end users visit
-* `go/q/<qid>` - a raw entity viewer / traversal UI with raw JSON
+- `go/qid/<qid>` - main product page for the entity that end users visit
+- `go/q/<qid>` - a raw entity viewer / traversal UI with raw JSON
 
 For development, it’s nice to have versions that resolve to the development URL path (for example, localhost:4000) `go/dqid/<qid>` and `go/dq/<qid>`.
 
+## Opaque TypeScript type
+
+A Qid can be represented with an opaque type like this, rather than just be represented as a string:
+
+```typescript
+export type Qid = string & { readonly [$qid]: true };
+declare const $qid: unique symbol;
+```
+
+## GraphQL custom scalar type
+
+A `Qid` type can be registered as a GraphQL scalar using something like this on [the backend](https://docs.nestjs.com/graphql/scalars) and something [like this](https://rescript-relay-documentation.vercel.app/docs/custom-scalars) on the frontend.
+
 ## Domain prefixes
 
-In some iterations I've used a `<service-or-domain-prefix>` prior to the entity type. For example, the domain prefixes "ta" (tenant administration) and "nt" (transportation network) could be akin to s3 or ec2 in the AWS ecosystem. So a qid might look like:
+In some iterations, I've used a `<service-or-domain-prefix>` prior to the entity type. For example, the domain prefixes "ta" (tenant administration) and "nt" (transportation network) could be akin to s3 or ec2 in the AWS ecosystem. So a qid might look like:
 
 ```
 qid::ta:tenant:869e7dad-4e92-4e7c-9325-f2e4bc4cbf7b
