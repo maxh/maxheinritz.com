@@ -27,7 +27,7 @@ Examples of common code include:
 
 One way to think about common code is: if your startup pivots and you need to start a totally new codebase in a different domain, you should be able to copy over all the common code without needing to refactor anything.
 
-Another way to think about common code is: it could be easily bundled up and distributed as packages or libraries via npm, maven, etc. Indeed, reusing open source external packages instead of hand rolling common code is generally the best approach. But in every codebase I’ve worked on, we’ve ended up with some components that are common-like in nature (ie domain-agnostic) but still specific to our particular application.
+Another way to think about common code is: it could be easily bundled up and distributed as packages or libraries via npm, maven, etc. Indeed, reusing open source external packages instead of hand rolling common code is generally the best approach. But in every codebase I’ve worked in, we’ve ended up with some components that are common-like in nature (ie domain-agnostic) but still specific to our particular application.
 
 ## System code
 
