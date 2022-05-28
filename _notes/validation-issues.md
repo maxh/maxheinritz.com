@@ -22,9 +22,11 @@ Validation issues are expected to occur periodically during the normal usage of 
 The messages associated with validation issues are expected to be displayed to end users and should be human-readable.
 
 ### Multiple at once
-There may be multiple validation issues during a single mutation. To the extent possible, all validation issues should be reported back to the user at once. We should not "throw" or "abort" upon the first validation issue.
+
+There may be multiple validation issues during a single mutation. For example, the phone number may be missing _and_ the email may be incorrectly formatted. To the extent possible, all the validation issues should be reported back to the user at once. This means we should not "throw" or "abort" upon the first validation issue.
 
 ### GraphQL data
+
 In GraphQL, validation issues are included in the "data" part of the response rather than the "errors" part of the response.
 
 Validation issues are not instances of the JavaScript "Error" class.
