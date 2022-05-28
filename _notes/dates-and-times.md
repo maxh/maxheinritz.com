@@ -73,15 +73,15 @@ Wall time can be used without a time zone to represent something like "this year
 
 A "date" is not the same as a "date time".
 
-A "date" is a time range from midnight to midnight in a particular time zone. Usually this is a 24-hour range, but there are some exceptions for years with leap seconds and on daylight savings transitions.
+A "date" is a time range from midnight to midnight, optionally paired with a time zone. Usually this is a 24-hour range, but there are some exceptions for years with leap seconds and on daylight savings transitions.
 
-A "date time" is a particular instant in time, which may or may not be anchored to a time zone.
+A "date time" is a particular point in time, which may or may not be anchored to a time zone.
 
 The poorly name JavaScript `Date` object represents date times, not dates.
 
 ## Types
 
-The following types have proven the most useful in my experience. These can be defined as opaque types in TypeScript, scalars in GraphQL, etc.
+I find the following types provide all the functionality I need. These can be defined as opaque types in TypeScript, scalars in GraphQL, etc.
 
 ### Iso8601Timestamp
 
