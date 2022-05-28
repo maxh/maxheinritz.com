@@ -20,7 +20,6 @@ I've come to follow the terminology defined by the W3C here:
 
 Let's start with colloquial examples to illustrate a few concepts:
 
-
 ```sh
 # date with a time zone
 October 21, 2021 in America/Chicago
@@ -53,7 +52,7 @@ _Incremental time_ is based on a progression of fixed integer units that increas
 2021-10-23T10:30:00Z
 
 # numeric offset
-2021-10-23T10:30:00+06:00 
+2021-10-23T10:30:00+06:00
 
 # named offset
 2021-10-23T10:30:00CDT
@@ -80,9 +79,52 @@ A "date time" is a particular instant in time, which may or may not be anchored 
 
 The poorly name JavaScript `Date` object represents date times, not dates.
 
+## Types
+
+The following types have proven the most useful in my experience. These can be defined as opaque types in TypeScript, scalars in GraphQL, etc.
+
+### Iso8601Timestamp
+
+- A point in incremental time with millisecond resolution.
+- Example: `2022-05-23T23:12:05.123Z`
+- Usage: database and system times (createdAt, revisedAt, etc).
+- Always includes the Z at the end indicating UTC offset of 0.
+- Persist with PostgreSQL’s timestamp(3) type.
+
+### Iso8601Date
+
+- A wall time date.
+- Example: `2022-04-23`
+- UTC offset is always undefined. Could be paired with time zone; see below.
+- Usage: domain-specific dates like pick up dates, invoice issue dates.
+- Currently persisted as a string.
+- Persist as date- or string-type column in PostgreSQL.
+
+### Iso8601DateTime
+
+- A point in wall time with millisecond resolution.
+- Example: `2022-05-23T06:00:00.123`
+- UTC offset is always undefined (i.e. no `Z`). Could be paired with time zone; see below.
+- Usage: domain-specific date times. For example, delivery appointment window for a warehouse could be represented with two of these (9am to 11am on May 5th 2021).
+- Persist as timestamp- or string-typed column in PostgreSQL.
+
+### ZonedDate
+
+- A wall time date, paired with a time zone.
+- Example: `{ date: '2022-04-23', timeZone: 'America/Chicago' }`
+- UTC offset can be computed via IANA table lookup.
+- Prefer to store as two separate DB columns. (Postgres dates do not allow for time zones.)
+
+### ZonedDateTime
+
+- A point in wall time with millisecond resolution, paired with a time zone.
+- Example: `{ dateTime: '2022-05-23T06:00:00.000', timeZone: 'America/Chicago' }`
+- UTC offset can be computed via IANA table lookup.
+- Prefer to store as two separate DB columns. (For consistency with zoned dates.)
+
 ## IANA database
 
-The IANA database is standard mapping of time zones to IANA offsets. You can download the dataset here: 
+The IANA database is standard mapping of time zones to IANA offsets. You can download the dataset here:
 
 [https://www.iana.org/time-zones](https://www.iana.org/time-zones)
 
