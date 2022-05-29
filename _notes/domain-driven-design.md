@@ -9,7 +9,7 @@ It encourages software practitioners and domain practitioners to use consistent 
 
 ## Domain model
 
-A **domain** is an area of knowledge. It is a flexible concept with granularity that varies by use case. For example, supply chain and logistics are large domains. Supply chain can be divided into the subdomains of purchasing, manufacturing, and logistics. Logistics can be further divided into FTL, LTL, ocean, domestic, cross-border, etc. 
+A **domain** is an area of knowledge. It is a flexible concept with granularity that varies by use case. For example, supply chain and logistics are large domains. Supply chain can be divided into the subdomains of purchasing, manufacturing, and logistics. Logistics can be further divided into FTL, LTL, ocean, domestic, cross-border, etc.
 
 A **model** is a way of thinking about something – a "mental model".
 
@@ -26,3 +26,9 @@ For example, the accounts payable department may have one way of thinking about 
 The word "ubiquitous" can be a source of confusion with respect to bounded contexts. The ubiquitous language is ubiquitous in the sense that within a given bounded context, all team members use the same language regardless of their functional role. It is not ubiquitous in the sense that the language should be used across teams working in separate bounded contexts.
 
 One domain model corresponds to one bounded context and one ubiquitous language.
+
+## Global namespace and fully qualified names
+
+At a startup, I feel that it's best to stick with one domain model (and therefore one bounded context) for as long as possible. The reasons for this are both organizational and technical. On the organizational side, we want everyone in the company to be able to collaborate and understand each other’s use of language. On the technical side, key parts of a startup's technical system are usually globally namespaced, notably the GraphQL API schema and our Postgres database schema.
+
+At some point, if the company is successful enough, you'll probaby want to branch out into separate domain models. Amazon and Google are good examples of this. At Google, there are many separate bounded contexts and APIs for Google Maps, Chrome, Google Cloud, Androind, Google Ads, etc. In contrast, Twitter is an example of a company with a relatively simple domain model shared across the company.
