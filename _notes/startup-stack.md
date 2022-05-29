@@ -15,8 +15,7 @@ Frontend
 - React Router for page routing
 - Styled Components for CSS-in-JS
 - Chart.js for charting
-- Webpack for asset bundling
-- Babel for transpilation
+- Vite as build
 
 Backend
 
@@ -33,7 +32,7 @@ API
 
 - GraphQL
 - OpenAPI for external REST APIs
-- Protocol Buffers (maybe)
+- Protocol Buffers for RPC
 
 Infra
 
@@ -46,6 +45,8 @@ Formatting & Linting
 - Eslint
 - Prettier
 
-Editors
+Other tools
 
-- WebStorm
+- WebStorm (for refactoring support)
+- TablePlus
+- Docker
