@@ -47,3 +47,11 @@ I've tended to persist enums in TEXT-type columns instead of integers for data r
 Prisma enums are another option:
 
 [https://www.prisma.io/docs/concepts/components/prisma-schema/data-model#defining-enums]()
+
+In some cases, I like having enums in the database and referencing them by qid. Example with three tables:
+
+- user - a user
+- role - a role (with a label like `CUSTOMER_ADMIN`, `CORP_ADMIN`, etc)
+- user_role - join table between users and role
+
+This makes it easy to rename a role from say `TENANT_QID` to `CUSTOMER_QID`. Only the "label" column with the role table needs to be updated.
