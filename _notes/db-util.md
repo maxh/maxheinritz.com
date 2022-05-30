@@ -1,6 +1,5 @@
 ---
-title: db_util.sh
-desc: Local database utilities
+title: Dev database utility
 layout: note
 ---
 

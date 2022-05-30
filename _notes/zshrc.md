@@ -1,5 +1,5 @@
 ---
-title: .zshrc ideas
+title: Ideas for .zshrc
 layout: note
 ---
 
