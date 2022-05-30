@@ -15,7 +15,7 @@ Code in `app/` can depend on all other code; code in `domain/` can depend on any
 
 Dependency restrictions can be enforced with tools like [eslint's `no-restricted-imports`](https://eslint.org/docs/rules/no-restricted-imports) or [ArchUnit for Java](https://www.archunit.org/).
 
-Let’s walk through the three directories in detail, starting from the bottom up.
+Let’s walk through these directories in detail, starting from the bottom up.
 
 ## Common code
 
