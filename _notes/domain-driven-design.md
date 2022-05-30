@@ -29,6 +29,10 @@ One domain model corresponds to one bounded context and one ubiquitous language.
 
 ## Global namespace and fully qualified names
 
-At a startup, I feel that it's best to stick with one domain model (and therefore one bounded context) for as long as possible. The reasons for this are both organizational and technical. On the organizational side, we want everyone in the company to be able to collaborate and understand each other’s use of language. On the technical side, key parts of a startup's technical system are usually globally namespaced, notably the GraphQL API schema and our Postgres database schema.
+At a startup, I feel that it's best to stick with one domain model (and therefore one bounded context) for as long as possible.
+
+The reasons for this are both organizational and technical. On the organizational side, we want everyone in the company to be able to collaborate and understand each other’s use of language. On the technical side, key parts of a startup's technical system are usually globally namespaced, notably the GraphQL API schema and our Postgres database schema.
 
 At some point, if the company is successful enough, you'll probaby want to branch out into separate domain models. Amazon and Google are good examples of this. At Google, there are many separate bounded contexts and APIs for Google Maps, Chrome, Google Cloud, Androind, Google Ads, etc. In contrast, Twitter is an example of a company with a relatively simple domain model shared across the company.
+
+The consequence of a single domain model is that all names should be globally unique. So for example, if you're building software that supports both accounts receivable and accounts payable workflows, you probably don't want a global "invoice" entity. Instead you want a "payable invoice" and a "receivable invoice". This can lead to verbosity in some cases. But in my view it's worth it for the benefits of a single domain model.
