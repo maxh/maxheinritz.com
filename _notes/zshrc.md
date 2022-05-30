@@ -58,6 +58,11 @@ alias mpr="git push -u origin HEAD && gh pr create -w"
 # Show the 8 most recently committed-to Git branches.
 alias gitrec="git branch --sort=-committerdate | head -n 8"
 
+# Prune local tracking branches that do not exist on remote anymore.
+# https://stackoverflow.com/a/17029936
+alias gitprune="git branch -r | awk '{print $1}' | egrep -v -f /dev/fd/0 <(git branch -v\
+v | grep origin) | awk '{print $1}' | xargs git branch -D"
+
 # Treat text after "#" as a comment in command line input.
 # This is helpful for saving a typed-out command you're not ready to run yet.
 # https://unix.stackexchange.com/a/33995
