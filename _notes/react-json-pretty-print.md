@@ -57,20 +57,25 @@ This works great, except that the qid values are not links. I like to be able to
 This led me to develop a more idiomatic React JSON pretty printer with some fun recursion.
 
 ```tsx
-import React from 'react';
-
 export function JsonPrettyPrint({
   value,
   customValueRenderer,
-  indent = '1em',
+  indent = 2,
   isLast = true,
+  depth = 0,
+  maxDepth = 10,
 }: {
   value: Record<string, any>;
   customValueRenderer?: (value: any) => JSX.Element | undefined;
-  indent?: string;
+  indent?: number;
   isLast?: boolean;
+  depth?: number;
+  maxDepth?: number;
 }) {
-  const maybeTrailingComma = isLast ? '' : ',';
+  if (depth > maxDepth) {
+    return <span>{"..."}</span>;
+  }
+  const maybeTrailingComma = isLast ? "" : ",";
 
   if (customValueRenderer) {
     const renderedValue = customValueRenderer(value);
@@ -90,6 +95,8 @@ export function JsonPrettyPrint({
         value={value}
         customValueRenderer={customValueRenderer}
         indent={indent}
+        depth={depth}
+        maxDepth={maxDepth}
       />
       {maybeTrailingComma}
     </>
@@ -99,11 +106,15 @@ export function JsonPrettyPrint({
 function JsonPrettyPrintValue({
   value,
   customValueRenderer,
-  indent = '1em',
+  indent,
+  depth,
+  maxDepth,
 }: {
   value: Record<string, any>;
   customValueRenderer?: (value: any) => JSX.Element | undefined;
-  indent: string;
+  indent: number;
+  depth: number;
+  maxDepth: number;
 }) {
   if (value === undefined || value === null) {
     return <>null</>;
@@ -113,37 +124,46 @@ function JsonPrettyPrintValue({
     return <>[]</>;
   }
 
-  if (typeof value === 'object' && Object.keys(value).length === 0) {
+  if (typeof value === "object" && Object.keys(value).length === 0) {
     return <>{`{}`}</>;
   }
 
-  if (typeof value === 'string') {
+  if (typeof value === "string") {
     return <>{`"${value}"`}</>;
   }
 
-  if (typeof value === 'number' || typeof value === 'boolean') {
-    return <>{value}</>;
+  if (typeof value === "number" || typeof value === "boolean") {
+    return <>{String(value)}</>;
   }
 
-  const indentStyle = { paddingLeft: indent };
+  const leftSpaces = Array(indent * (depth + 1))
+    .fill(" ")
+    .join("");
+
+  const closingLeftSpaces = Array(indent * depth)
+    .fill(" ")
+    .join("");
 
   if (Array.isArray(value)) {
     return (
       <>
         [
-        <div style={indentStyle}>
+        <div style={{ whiteSpace: "pre-wrap" }}>
           {value.map((item, index) => (
             <div key={index}>
+              <span>{leftSpaces}</span>
               <JsonPrettyPrint
                 value={item}
                 customValueRenderer={customValueRenderer}
                 isLast={index === value.length - 1}
                 indent={indent}
+                depth={depth + 1}
+                maxDepth={maxDepth}
               />
             </div>
           ))}
         </div>
-        ]
+        <span>{closingLeftSpaces}</span>]
       </>
     );
   }
@@ -152,22 +172,26 @@ function JsonPrettyPrintValue({
   const lastKey = keys[keys.length - 1];
   return (
     <>
-      {'{'}
-      <div style={indentStyle}>
+      {"{"}
+      <div style={{ whiteSpace: "pre-wrap" }}>
         {keys.map((key) => {
           return (
             <div key={key}>
+              <span>{leftSpaces}</span>
               {`"${key}": `}
               <JsonPrettyPrint
                 value={value[key]}
                 customValueRenderer={customValueRenderer}
                 isLast={key === lastKey}
                 indent={indent}
+                depth={depth + 1}
+                maxDepth={maxDepth}
               />
             </div>
           );
         })}
       </div>
+      <span>{closingLeftSpaces}</span>
       {`}`}
     </>
   );
@@ -177,11 +201,11 @@ function JsonPrettyPrintValue({
 A `customValueRenderer` can be provided for application-specific things like rendering qid links to resolve to specific routes:
 
 ```tsx
-import React, { useContext } from 'react';
-import { Link } from 'react-router-dom';
-import { JsonPrettyPrint } from 'src/platform/component/JsonPrettyPrint';
-import { isQid } from 'src/platform/util/qid.util';
-import { RouteInfoContext } from 'src/platform/context/route-info/RouteInfoContext';
+import React, { useContext } from "react";
+import { Link } from "react-router-dom";
+import { JsonPrettyPrint } from "src/platform/component/JsonPrettyPrint";
+import { isQid } from "src/platform/util/qid.util";
+import { RouteInfoContext } from "src/platform/context/route-info/RouteInfoContext";
 
 export function JsonPrettyPrintWithQidLinks({
   value,
