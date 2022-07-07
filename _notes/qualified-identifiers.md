@@ -7,7 +7,7 @@ layout: note
 For database IDs, I like to use "qualified identifiers" (or "qids") with a schema as follows:
 
 ```
-qid:<reserved>::<entity-type>:<unique-identifier>
+qid:<reserved>:<entity-type>:<unique-identifier>
 ```
 
 Examples:
@@ -39,7 +39,7 @@ Qids are globally unique and fully qualified, and these properties offer some ad
 
 ## Persistence
 
-There are two main persistence options. Qids can be stored in full in a primary key `qid` TEXT-type column in Postgres, or just the UUID part can be stored in isolation in a UUID-type column. The latter may offer better [storage and runtime performance](https://stackoverflow.com/a/44101628), but it requires additional application logic to construct/deconstruct qids from UUIDs. To avoid this complexity, I prefer to use TEXT qid columns and have foreign references also held in columns ending in `_qid`.
+There are two main persistence options. Qids can be stored in full in a primary key `qid` TEXT-type column in Postgres, or just the UUID part can be stored in isolation in a UUID-type column. The latter offers better [storage and runtime performance](https://stackoverflow.com/a/44101628). But it requires additional application logic to construct/deconstruct qids from UUIDs and also precludes the possibility of using Qids as foreign keys, which means losing some of the benefits of qualification. I prefer to use TEXT qid columns and have foreign references also held in columns ending in `_qid`.
 
 ## Global look up
 
