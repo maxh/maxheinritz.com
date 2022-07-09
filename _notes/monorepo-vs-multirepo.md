@@ -4,7 +4,7 @@ desc: Monorepo vs multi-repo
 layout: note
 ---
 
-Most Google engineers operate in a monorepo called `google3` with phenomenal internal tooling. It was a joy to work there in the early 2010s, and I've heard that it keeps getting better. Google invests heavily in custom tooling for code search, file ownership, version control, testing, commit queue, code review, linting, etc. The code must flow.
+Most Google engineers operate in a monorepo called `google3`. It was a joy to work there in the early 2010s, and I've heard that the tooling keeps getting better. Google invests heavily in the developer experience for code search, file ownership, version control, testing, commit queue, code review, linting, etc. The code must flow.
 
 So naturally, I have been inclined to follow the monorepo approach at later jobs and recapture that magic. But over time I've come to appreciate that most tooling outside of Google is built for multi-repo projects, and it's best to embrace rather than fight the tooling. Here are some examples:
 
