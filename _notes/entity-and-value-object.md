@@ -5,7 +5,7 @@ layout: note
 
 Following the DDD philosophy, I use the term _entity_ to refer to "a set of data with its own identity that remains stable through time even as its attributes change". Or more simply, "a piece of data with a unique identifier".
 
-In contrast to "entity", a "value object" has no unique identifier and simply represents a value akin to a primitive like a string or integer, yet as a more complex object.
+In contrast to "entity", a "value object" has no unique identifier and simply represents a value. A value object is akin to a primitive like a string or integer, yet structured as keys and values.
 
 Entities can be either mutable or immutable. The difference between an immutable entity and value object is simply whether an identifier is assigned.
 
@@ -57,7 +57,7 @@ Example:
 }
 ```
 
-For the logistics domain, an important use case for addresses is analytics to showing all inbound shipments to a particular address both, both looking ahead and looking back. A stable identifier to an address is useful for normalization across shipments, but it should be immutable because old shipment data should not change.
+For the logistics domain, an important use case for addresses is showing all inbound shipments to a particular address, both looking ahead and looking back. A stable identifier to an address is useful for normalization across shipments, but the value referenced by the identifier should be immutable because historic shipment data should not change.
 
 To fix typos and handle rerouted shipments, new address entities can be created and the shipment entities (which can be mutable) should be updated.
 
