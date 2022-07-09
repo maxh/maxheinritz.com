@@ -35,3 +35,7 @@ System ---> Common
 ```
 
 ![Backend Code Organization Diagram](/images/backend-code-organization.png)
+
+Mermaid is another recent competitor in the same family:
+
+https://mermaid-js.github.io/mermaid/#/
