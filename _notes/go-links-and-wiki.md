@@ -1,5 +1,5 @@
 ---
-title: Internal documentation tools
+title: Go links and wikis
 layout: note
 ---
 
