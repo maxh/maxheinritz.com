@@ -6,7 +6,7 @@ layout: note
 
 PlantUML is a wonderful tool for generating diagrams:
 
-[https://plantuml.com/]()
+[https://plantuml.com/](https://plantuml.com/)
 
 ```uml
 @startuml
@@ -38,4 +38,4 @@ System ---> Common
 
 Mermaid is another recent competitor in the same family:
 
-https://mermaid-js.github.io/mermaid/#/
+[https://mermaid-js.github.io/mermaid/#/](https://mermaid-js.github.io/mermaid/#/)

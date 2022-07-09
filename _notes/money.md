@@ -21,6 +21,6 @@ Rounding should be dictated by business rules within domain logic.
 
 Further reading:
 
-[https://wiki.c2.com/?MoneyObject]()
+[https://wiki.c2.com/?MoneyObject](https://wiki.c2.com/?MoneyObject)
 
-[https://www.martinfowler.com/eaaCatalog/money.html]()
+[https://www.martinfowler.com/eaaCatalog/money.html](https://www.martinfowler.com/eaaCatalog/money.html)

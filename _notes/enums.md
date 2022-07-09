@@ -23,30 +23,30 @@ We want consistency across backend code, frontend code, API definitions, and per
 
 GraphQL spec recommends it:
 
-- [http://spec.graphql.org/June2018/#sec-Enum-Value]()
+- [http://spec.graphql.org/June2018/#sec-Enum-Value](http://spec.graphql.org/June2018/#sec-Enum-Value)
 
 Google JSON API recommends it:
 
-- [https://google.github.io/styleguide/jsoncstyleguide.xml#Enum_Values]()
+- [https://google.github.io/styleguide/jsoncstyleguide.xml#Enum_Values](https://google.github.io/styleguide/jsoncstyleguide.xml#Enum_Values)
 
 These REST APIs recommend it:
 
-- [https://opensource.zalando.com/restful-api-guidelines/#240]()
+- [https://opensource.zalando.com/restful-api-guidelines/#240](https://opensource.zalando.com/restful-api-guidelines/#240)
 
 Protobuf generated code uses it:
 
-- [https://developers.google.com/protocol-buffers/docs/proto3#enum]()
-- [https://developers.google.com/protocol-buffers/docs/reference/java-generated#enum]()
+- [https://developers.google.com/protocol-buffers/docs/proto3#enum](https://developers.google.com/protocol-buffers/docs/proto3#enum)
+- [https://developers.google.com/protocol-buffers/docs/reference/java-generated#enum](https://developers.google.com/protocol-buffers/docs/reference/java-generated#enum)
 
 ## Persistence
 
 I've tended to persist enums in TEXT-type columns instead of integers for data readability as outlined here:
 
-[https://softwareengineering.stackexchange.com/questions/284530/why-store-flags-enums-in-a-database-as-strings-instead-of-integers]()
+[https://softwareengineering.stackexchange.com/questions/284530/why-store-flags-enums-in-a-database-as-strings-instead-of-integers](https://softwareengineering.stackexchange.com/questions/284530/why-store-flags-enums-in-a-database-as-strings-instead-of-integers)
 
 Prisma enums are another option:
 
-[https://www.prisma.io/docs/concepts/components/prisma-schema/data-model#defining-enums]()
+[https://www.prisma.io/docs/concepts/components/prisma-schema/data-model#defining-enums](https://www.prisma.io/docs/concepts/components/prisma-schema/data-model#defining-enums)
 
 In some cases, I like having enums in the database and referencing them by qid. Example with three tables:
 
