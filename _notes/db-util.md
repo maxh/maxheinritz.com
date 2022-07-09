@@ -3,7 +3,7 @@ title: Dev database utility
 layout: note
 ---
 
-I like being able manipulate all tables in my local PostgreSQL instance quickly. There might be a better way, but I've ended up hand-rolling a shell script to run it quickly. It lets me do things like:
+I like being able to manipulate all tables in my local PostgreSQL instance quickly. There might be a better way, but I've ended up hand-rolling a shell script to run it quickly. It lets me do things like:
 
 ```sh
 # Truncate all tables; don't change schema.
