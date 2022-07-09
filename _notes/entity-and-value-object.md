@@ -3,17 +3,17 @@ title: Entities and value objects
 layout: note
 ---
 
-Following the DDD philosophy, I use the term _entity_ to refer to "a set of data with its own identity that remains stable through time even as its attributes change". Or more simply, "a piece of data with a unique identifier".
-
-In contrast to "entity", a "value object" has no unique identifier and simply represents a value. A value object is akin to a primitive like a string or integer, yet structured as keys and values.
-
-Entities can be either mutable or immutable. The difference between an immutable entity and value object is simply whether an identifier is assigned.
-
-So we have three options for representing data:
+I consider the following options when thinking about how to represent data:
 
 - Mutable entity
 - Immutable entity
 - Value object
+
+Following DDD, _entity_ refers to "a set of data with its own identity that remains stable through time even as its attributes change". Or more simply, "a piece of data with a unique identifier".
+
+In contrast to "entity", a "value object" has no unique identifier and simply represents a value. A value object is akin to a primitive like a string or integer, yet structured as keys and values.
+
+Entities can be either mutable or immutable. The difference between an immutable entity and value object is simply whether an identifier is assigned.
 
 Data can be represented in any of these ways depending on our use case and domain model. For example, let's consider different ways we could model street addresses.
 
@@ -77,7 +77,7 @@ Example:
 }
 ```
 
-For a routing system built on top of geospatial database, we might have utility services like geocoding or direction routing that take addresses as input. This input will need to be serialized to be received in the system and possible stored as request logs or similar. While the request object may be given a unique identifier, the addresses themselves does not need one and can be treated like any other serialized blob of data. A new request comes in, a new value object is created, etc.
+For a routing system built on top of geospatial database, we might have utility services like geocoding or direction routing that take addresses as input. This input will need to be serialized to be received in the system and possibly stored as request logs or similar. While the request object may be given a unique identifier, the addresses themselves does not need one and can be treated like any other serialized blob of data. A new request comes in, a new value object is created, etc.
 
 ## Revision source
 
@@ -93,7 +93,7 @@ The revision source tracks who created which revisions to entities.
 }
 ```
 
-It's a bit of a misnomer but this can be used for immutable entities even though there aren't "revisions" per se. We can think of the creation of the immutable entitiy as a single "revision". So database columns on entities:
+This can be used for immutable entities as well even. We can think of the creation of the immutable entity as a single "revision". So database columns on entities might include:
 
 ```sh
 # Mutable entity columns:
@@ -102,6 +102,7 @@ createdAt - Timestamp
 revisionNumber - Integer
 revisionCreatedAt - Timestamp
 revisionSource - JSON
+deleted - Boolean (for soft deletion)
 
 # Immutable entity columns:
 qid - Qid
