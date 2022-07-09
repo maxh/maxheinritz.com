@@ -1,0 +1,39 @@
+---
+title: Multi-tenancy and single-tenancy
+layout: note
+---
+
+A tenant is an owner of data in a system. A computing system can be either multi-tenant or single-tenant.
+
+- In a multi-tenant system, data owned by different tenants is stored and processed together.
+- In a single-tenant system, all data is owned by a single tenant.
+
+## Layers of the stack
+
+Different layers of the stack can be multi-tenant vs single-tenant. For example, you might have a single-tenant database architecture wherein each tenant has their own database instance, but a single application instance that processes multiple tenants' data. Or you might have fully separate application instances as well. Other things to consider here are logs, metrics, analytics -- are these resources shared across tenants? Should it be possible for a data analyst to see data from different tenants in the same query?
+
+## Single- vs multi-deploy
+
+There is a separate dimension of "single-deploy" vs "multi-deploy".
+
+A single-tenant, multi-deploy system is deployed multiple times to support multiple tenants, each with their own deployment. From a customer interaction perspective, a "single-tenant, multi-deploy" application might behave the same as a "multi-tenant, single-deploy" application. To the customer it feels like they have their own silo-ed version of the app. The difference is in the implementation, but for some enterprise clients, this separation of data is important.
+
+A single-tenant, single-deploy system is a system in which there is really only one top-level data owner. The data owner may grant some data access controls to users of their application instance, but to a lesser degree than "full ownership".
+
+## Examples
+
+### Single-tenant, single-deploy
+
+I consider Facebook, LinkedIn, and Twitter to be single-tenant, single-deploy systems. These systems are operating against one giant pool of shared data. They offer users privacy control within the single tenant, but ultimately the data is "owned" by the social networks. I mean "own" here in colloquial sense rather than a strict [legal sense](https://www.brookings.edu/blog/techtank/2019/06/26/why-data-ownership-is-the-wrong-approach-to-protecting-privacy/). The expectation when data is uploaded to these networks is that is visible to other users. This is very different than a SaaS product like Turbotax.
+
+### Single-tenant, multi-deploy
+
+[Drata](https://drata.com/) uses a single-tenant database architecture, likely with a multi-tenant application instance. I know this only because they advertise their implementation on their [about page](https://drata.com/about). Functionally it looks the same as a multi-tenant, single-deploy architecture.
+
+### Multi-tenant, single-deploy
+
+Slack is a multi-tenant, single-instance system. When a company signs up for Slack, they get their own isolated “instance” of Slack with their own channels and messages. In Slack, the “#general” channel for Company Foo is separate from the “#general” channel for Company Bar, and each company retains ownership of their data. Other multi-tenant SaaS products include Quickbooks, Stripe, AWS, Oracle TMS, SAP TMS, Google Enterprise. Almost all enterprise SaaS products support multiple tenants.
+
+## Logistics domain
+
+The logistics domain is interesting because customers typically want systems with some sharing capabilities (like LinkedIn) but also retain strict isolation and ownership of other data (like AWS).
