@@ -7,9 +7,9 @@ layout: note
 I’ve come to prefer a backend codebase structure that involves four top-level directories, arranged in an ordered dependency hierarchy:
 
 - `app/` - high-level stateless code that ties things together but is largely domain-agnostic
-- `domain/` - domain-specific stateful code for the relevant problem domain
+- `domain/` - stateful code that is specific to the team's domain model
 - `system/` - domain-agnostic stateful code for things like revision history, event log, bots
-- `common/` - low-level stateless domain-agnostic libraries, utilities, and constants
+- `common/` - low-level stateless libraries, utilities, and constants
 
 Code in `app/` can depend on all other code; code in `domain/` can depend on anything except `app/`; etc.
 
@@ -25,9 +25,11 @@ Examples of common code include:
 - Pure function utilities for things like string or list manipulation
 - Widely used standardized constants such as ISO country codes
 
-One way to think about common code is: if your startup pivots and you need to start a totally new codebase in a different domain, you should be able to copy over all the common code without needing to refactor anything.
+Common code could be easily bundled up and distributed as packages or libraries via npm, maven, etc. Indeed, reusing open source external packages instead of hand rolling common code is generally the best approach. But in every codebase I’ve worked in, we’ve ended up with some components that are library-like in nature but still specific to our particular application.
 
-Another way to think about common code is: it could be easily bundled up and distributed as packages or libraries via npm, maven, etc. Indeed, reusing open source external packages instead of hand rolling common code is generally the best approach. But in every codebase I’ve worked in, we’ve ended up with some components that are common-like in nature (ie domain-agnostic) but still specific to our particular application.
+Common code is usually domain-agnostic, but not always. For example, if you are working on a payments company, you might have a `common/psp-clients` directory that holds client libraries for various payment service providers. These are specific to the payments domain in general, but they are stateless and could be deployed as NPM packages, so make sense within the common domain.
+
+Common code is almost always domain-_model_-agnostic. For example, the client libraries for the PSPs should be written in a way that conforms to the external PSP rather than the team's own domain model. Some exceptions here might be shared enum constants that are conceptually global but defined precisely as part of the domain model: transportation mode, currency code, etc.
 
 ## System code
 
@@ -38,7 +40,7 @@ Examples of system code:
 
 The difference between "system" and "common" is stateful vs stateless. When I say "stateful", I mean the component actively reads/writes from a persistent data store like PostgreSQL, Redis, Elasticsearch.
 
-A Redis client library wrapper would live in "common". A durable event system that uses that client library to write messages for consumers to read -- that would be a system-level component.
+A Redis client library wrapper would live in "common". A durable event system that uses that client library to write messages for consumers to read in our database -- that would be a system-level component.
 
 ## Domain code
 
@@ -48,9 +50,9 @@ The contents of the domain directory will vary based on the application problem 
 - For a freight forwarding app, it could contain components for booking management, freight execution, contract and pricing controls, etc
 - For a property management app, it could contain components leasing, rent payments, work orders, etc
 
-One way to think about domain code is: if a concept is part of your domain model shared with business stakeholders, it should be within the domain directory. If a concept is exposed to end users in the product, it should live within the domain directory. End users do not care about which logging library you use (at the common layer) or which web server runner you use (at the app layer). End users do care about the domain concepts they manipulate through the product (at the domain layer).
+One way to think about `domain` code is: if a concept is part of your domain model shared with business stakeholders, it should be within the domain directory. If a concept is exposed to end users in the product, it should live within the domain directory. End users do not care about which logging library you use (at the common layer) or which web server runner you use (at the app layer). End users do care about the domain concepts they manipulate through the product (at the domain layer).
 
-For this reason, I tend to include in the domain directory any modules responsible for tenants, users, and roles. While on the one hand these modules might be considered domain-agnostic and therefore better fits for the system directory, the behavior of such modules heavily impacts product behavior and therefore can be considered part of the domain model.
+For this reason, I tend to include in the domain directory any modules responsible for tenants, users, and roles. While these are domain-agnostic in the sense that any software system needs them, they are domain-model-specific in that the behavior of such modules heavily impacts product behavior and is an important part of users' mental models of the system.
 
 ## App code
 
