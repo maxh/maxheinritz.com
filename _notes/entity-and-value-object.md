@@ -15,7 +15,7 @@ In contrast to "entity", a "value object" has no unique identifier and simply re
 
 Entities can be either mutable or immutable. The difference between an immutable entity and value object is simply whether an identifier is assigned.
 
-Data can be represented in any of these ways depending on our use case and domain model. For example, let's consider different ways we could model street addresses.
+The same kind of information can be encoded in any of these ways depending on our use case and domain model. For example, let's consider different ways we could model street addresses.
 
 ## Address example
 

@@ -4,9 +4,7 @@ desc: Reasoning about module relationships
 layout: note
 ---
 
-A domain dependency hierarchy is way to describe the interaction between different domains. It helps us break down complexity into easier-to-reason-about chunks.
-
-The simplest dependency hierarchy looks like this, with module A depending on module B.
+A dependency hierarchy is a way to describe interactions among software components. It helps us break down complexity into easier-to-reason-about chunks. The simplest dependency hierarchy looks like this, with A depending on B:
 
 ```
   -----
@@ -19,21 +17,16 @@ The simplest dependency hierarchy looks like this, with module A depending on mo
   -----
 ```
 
-A -> B implies a relationship with the qualities below.
+`A -> B` implies a relationship with the qualities below.
 
 ## Directionality
 
 - A knows about B
 - B doesn’t know about A
 
-## Upstream/downstream
-
-- A is downstream of B
-- B is upstream of A
-
 ## Layering
 
-- A is built "on top" or "above" B
+- A is built "on top of" or "above" B
 - B is a layer "below" A
 
 ## APIs
@@ -55,3 +48,19 @@ A -> B implies a relationship with the qualities below.
 
 - Users interacting with A may know about B
 - Users interacting with B may not be aware of A
+
+## Upstream/downstream
+
+The concepts of "upstream" and "downstream" are defined in relation to the flow of information, which is distinct from dependencies. The terminology is a bit confusing here because upstream/downstream doesn't always match the vertical placement of modules in the dependency diagram.
+
+When information is flowing up the dependency hierarchy (e.g. with events), we can say that:
+
+- Information starts in B and then flows "up the hierarchy" to A
+- A is downstream of B
+- B is upstream of A
+
+When information is flowing down the dependency hierarchy (e.g. with API call), we can say that:
+
+- Information starts in A and then flows "down the hierarchy" to B
+- A is upstream of B
+- B is downstream of A
