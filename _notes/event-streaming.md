@@ -16,7 +16,7 @@ For communication _down_ a dependency hierarchy, high-level modules can directly
 
 What about data flowing the other way? Low-level modules are not allowed to depend on high-level modules, so they cannot invoke their APIs.
 
-Instead, low-level modules can publish events, agnostic to who consumes them. Then higher level modules can consume these events, in doing so they take a dependency on the low-level module, which is fine.
+Instead, low-level modules can publish events, agnostic to who consumes them. Then higher level modules can consume these events; in doing so they take a dependency on the low-level module, which is fine.
 
 ### Performance
 
