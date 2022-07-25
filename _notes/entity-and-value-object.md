@@ -95,7 +95,7 @@ The revision source tracks who created which revisions to entities.
 
 This can be used for immutable entities as well even. We can think of the creation of the immutable entity as a single "revision". So database columns on entities might include:
 
-```sh
+```
 # Mutable entity columns:
 qid - Qid
 createdAt - Timestamp
