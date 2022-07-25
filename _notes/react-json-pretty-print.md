@@ -8,7 +8,7 @@ When building systems with complex domain models, I like having a developer web 
 
 Here's an example of how a shipment might appear in such a tool:
 
-```
+```json
 {
   "qid": "qid::shipment:893febfb-e7ba-4d7c-b576-18f2c907868b",
   "createdAt": "2021-08-16T14:03:45Z",
@@ -31,7 +31,7 @@ Here's an example of how a shipment might appear in such a tool:
     "countryIso2": "US",
     "addressLine1": "7551 Elizabeth Drive"
   },
-  "transportationMode": "FTL",
+  "transportationMode": "FTL"
 }
 ```
 
