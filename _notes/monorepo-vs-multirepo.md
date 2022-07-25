@@ -13,7 +13,7 @@ So naturally, I have been inclined to follow the monorepo approach at later jobs
 - JetBrains IDE autocompletion scales well but behaves best when the open files are well-scoped to say, one backend service or one frontend.
 - User permissions on GitHub can be set a repo level but not at a sub-repo level.
 - CI/CD and flaky test management can become unmanageable in large repositories without custom tooling. It sucks to have to wait 10 minutes for all the backend integration tests to run when you just need to fix a frontend label.
-- Code ownership and dependency management can become unwieldy in large code bases.
+- Culturally, code ownership and dependency management can become unwieldy in large code bases.
 
 For future projects, I'm inclined towards:
 
