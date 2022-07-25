@@ -54,4 +54,4 @@ In some cases, I like having enums in the database and referencing them by qid. 
 - `role` - a role (with a label like `CUSTOMER_ADMIN`, `CORP_ADMIN`, etc)
 - `user_role` - join table between users and role
 
-This makes it easy to rename a role from say `TENANT_ADMIN` to `CUSTOMER_ADMIN`. Only the "label" column with the role table needs to be updated.
+This makes it easy to rename a role from say `TENANT_ADMIN` to `CUSTOMER_ADMIN`. Only the "label" column with the role table needs to be updated. This approach also allows for UI to be built for end users to add/remove options without relying on code changes.
