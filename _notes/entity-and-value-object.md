@@ -39,7 +39,7 @@ Example:
 
 For a global map database such as Google Maps or OpenStreetMap, an address is a first-class concept. When interacting with these systems, users think about "changing an address" to fix typos and keep the map up-to-date with new construction in the real world. And indeed, this is similar how OSM stores "node" data:
 
-https://www.openstreetmap.org/way/98952449
+[https://www.openstreetmap.org/way/98952449](https://www.openstreetmap.org/way/98952449)
 
 ### Immutable entity
 
