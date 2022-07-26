@@ -2,6 +2,7 @@
 title: Monorepo vs multi-repo
 desc: Monorepo vs multi-repo
 layout: note
+tags: ["software patterns"]
 ---
 
 Most Google engineers operate in a monorepo called `google3`. It was a joy to work there in the early 2010s, and I've heard that the tooling keeps getting better. Google invests heavily in the developer experience for code search, file ownership, version control, testing, commit queue, code review, linting, etc. The code must flow.

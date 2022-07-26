@@ -1,6 +1,7 @@
 ---
 title: TablePlus
 layout: note
+tags: ["tools"]
 ---
 
 TablePlus is a tool for viewing the content of a database:

@@ -2,6 +2,7 @@
 title: Dates and times
 desc: Properly handling date and date times
 layout: note
+tags: ["software patterns"]
 ---
 
 Dates and times can be tricky to interact with while programming.

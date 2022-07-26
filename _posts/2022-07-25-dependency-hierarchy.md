@@ -2,6 +2,7 @@
 title: Dependency hierarchy
 desc: Reasoning about module relationships
 layout: note
+tags: ["software patterns", "ddd"]
 ---
 
 A dependency hierarchy is a way to describe interactions among software components. It helps us break down complexity into easier-to-reason-about chunks. The simplest dependency hierarchy looks like this, with A depending on B:

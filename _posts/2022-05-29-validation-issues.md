@@ -1,6 +1,7 @@
 ---
 title: Validation issues
 layout: note
+tools: ["software patterns"]
 ---
 
 Data validation ensures that inputs provided to a system are acceptable from both a technical and business perspective. For example, a user registration system may include validations to ensure that each user has a non-empty first name and last name and that each user's email address is unique and formatted properly.

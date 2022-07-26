@@ -1,6 +1,7 @@
 ---
 title: Go links and wikis
 layout: note
+tags: ["tools", "culture"]
 ---
 
 Two of my favorite internal tools are go links and wikis. I was first exposed to these at Google and have advocated for their use at the all startups I've joined. The best-in-class external offerings seem to be [golinks.io](https://www.golinks.io) and [Atlassian Confluence](https://www.atlassian.com/software/confluence).

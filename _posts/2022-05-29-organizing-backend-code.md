@@ -2,6 +2,7 @@
 title: Organizing backend code
 desc: A three-bucket approach for managing complexity
 layout: note
+tags: ["software patterns"]
 ---
 
 I’ve come to prefer a backend codebase structure that involves four top-level directories, arranged in an ordered dependency hierarchy:

@@ -1,6 +1,7 @@
 ---
 title: Entities and value objects
 layout: note
+tags: ["software patterns", "ddd"]
 ---
 
 I consider the following options when thinking about how to represent data:

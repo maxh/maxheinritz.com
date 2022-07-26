@@ -2,9 +2,10 @@
 title: Event streaming
 desc: Publishing and consuming through an ordered log of events
 layout: note
+tags: ["software patterns"]
 ---
 
-Event streaming is a pattern for communication between software components. Two popular options are Apache Kafka and Amazon Kinesis, but the patterns is implemenation-agnostic.
+Event streaming is a pattern for com munication between software components. Two popular options are Apache Kafka and Amazon Kinesis, but the patterns is implemenation-agnostic.
 
 ## Use cases
 

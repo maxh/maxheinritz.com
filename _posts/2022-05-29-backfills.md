@@ -2,6 +2,7 @@
 title: Backfills
 desc: A pattern for changing production data
 layout: note
+tags: ["software patterns"]
 ---
 
 Backfills are scripts run via the command line that change data in the production database. Backfills should be idempotent. There are two kinds of backfills:

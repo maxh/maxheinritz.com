@@ -2,6 +2,7 @@
 title: Startup stack
 desc: Software I'd use when building a startup.
 layout: note
+tags: ["tools"]
 ---
 
 tl;dr - Facebook's Open Source is incredible.

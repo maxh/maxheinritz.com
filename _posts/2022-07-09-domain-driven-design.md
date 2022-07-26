@@ -1,6 +1,7 @@
 ---
 title: Domain-driven design
 layout: note
+tags: ["software patterns", "culture", "ddd"]
 ---
 
 Domain-driven design is a software development philosophy that emphasizes the importance of shared abstractions.

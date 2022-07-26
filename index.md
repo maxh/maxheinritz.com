@@ -15,9 +15,9 @@ class: home
   {% endfor %}
 </div>
 
-**Notes**
+**Posts**
 
-{% for note in site.notes %}- [{{ note.title }}]({{ note.url }})
+{% for post in site.posts %}- [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 **Code etc**
