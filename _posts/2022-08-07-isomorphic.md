@@ -38,7 +38,7 @@ A related but distinct mechanism is how the code gets built into the deployed ap
 
 I like having the code live in the backend repo and get built directly into the backend app. Then copy the isomorphic directory into the frontend repo.
 
-This keeps the development loop tight on the backend (on PR can update both the backend code and isomorphic at once) and minimizing the overhead of needing bump the version and `yarn install` on every change.
+This keeps the development loop tight on the backend (ons PR can update both the backend code and isomorphic at once) and minimizes the overhead of needing bump the version and `yarn install` on every change.
 
 ## Copying isomorphic code from backend to frontend
 
