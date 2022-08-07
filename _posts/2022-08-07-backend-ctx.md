@@ -5,9 +5,11 @@ layout: note
 tags: ["software patterns"]
 ---
 
-I like to have all backend service class methods take a ctx (short for “context”) parameter, similar to [Go’s context type](https://pkg.go.dev/context).
+I like to have all backend service class methods take a `ctx` parameter, similar to [Go’s context type](https://pkg.go.dev/context).
 
 ## Structure
+
+The `ctx` looks like this:
 
 ```
 export class CtxDto {
@@ -20,7 +22,7 @@ It contains information about the current user (`ctx.user`) as well as the entry
 
 ## Name
 
-Calling it `ctx` instead of `context` helps reify the concept as a first-class idea in the application, separate from other notions of context at the language or framework leve. It's also fewer characters.
+Calling it `ctx` instead of `context` helps reify the concept as a first-class idea in the application, separate from other notions of context at the language or framework level. It's also fewer characters.
 
 ## Usage
 
