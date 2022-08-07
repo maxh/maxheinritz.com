@@ -29,8 +29,9 @@ Calling it `ctx` instead of `context` helps reify the concept as a first-class i
 Idiomatically `ctx` is passed in as the first parameter:
 
 ```
-// ...
 export class FooBarMutateService {
+  // ...
+
   async create(
     ctx: CtxDto,
     createFooBarDto: CreateFooBarDto,
