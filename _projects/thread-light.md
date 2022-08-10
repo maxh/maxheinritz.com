@@ -1,6 +1,6 @@
 ---
 year: 2014
-desc: A three-orb bulb constructed with paper mache, string, cornstarch, and glue.
+desc: A three-orb bulb constructed with papier-mâché, string, cornstarch, and glue.
 images:
   - thread-light-black.jpg
   - thread-light.jpg
