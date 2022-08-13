@@ -11,16 +11,6 @@ As described in the [Domain-driven design post](https://maxheinritz.com/posts/do
 ```ts
 import { Enum, EnumValue } from "@kejistan/enum";
 
-/**
- * We have a global namespace for entities in our system.
- *
- * This namespace is used for Prisma models / database tables, GraphQL types,
- * qid entity types, etc.
- *
- * Please name your entities in a way that avoid global ambiguity. For example,
- * we have "payable invoice" instead of "invoice" to allow the possibility of
- * a "receivable invoice" in the near future.
- */
 export const EntityType = Enum({
   ADDRESS: "ADDRESS",
   ARTIFACT: "ARTIFACT",
@@ -64,9 +54,8 @@ expect(paymentDto.qid).toBeQid(EntityType.PAYMENT);
 
 Constructing qids from uuids in URLs:
 
-https://corp.foo.com/artifacts/28d48a10-33b8-4bfa-a48e-d31e92442609
-
 ```ts
+// https://corp.foo.com/artifacts/28d48a10-33b8-4bfa-a48e-d31e92442609
 const params = useParams();
 const userUuid = params.userUuid;
 const qid = qidFromUuid(EntityType.ARTIFACT, nullthrows(userUuid));
