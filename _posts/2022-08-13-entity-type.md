@@ -4,7 +4,7 @@ layout: note
 tags: ["software patterns"]
 ---
 
-As described in the [Domain-driven design post](https://maxheinritz.com/posts/domain-driven-design.html), I think it's best for startups to have a single domain model with a global entity namespace for as long as possible. A shared global entity type enum helps with this.
+As described in the [domain-driven design post](https://maxheinritz.com/posts/domain-driven-design.html), I think it's best for startups to have a single domain model with a global entity namespace for as long as possible. A shared global entity type enum helps with this.
 
 ## Enum
 
