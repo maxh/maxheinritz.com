@@ -5,19 +5,15 @@ layout: note
 tags: ["software patterns"]
 ---
 
-Event streaming is a pattern for com munication between software components. Two popular options are Apache Kafka and Amazon Kinesis, but the patterns is implemenation-agnostic.
+Event streaming is a pattern for communication between software components. Two popular options are Apache Kafka and Amazon Kinesis, but the pattern itself is implemenation-agnostic.
 
 ## Use cases
 
 ### Respecting domain boundaries
 
-Events allow communication _up_ a dependency hierarchy while still respecting domain boundaries.
+For communication _down_ a [dependency hierarchy](/posts/dependency-hierarchy.html), higher-level modules can directly invoke APIs on low-level modules. For example, if the invoice module needs to check user permissions, it can call down into the user module to retrieve user roles.
 
-For communication _down_ a dependency hierarchy, high-level modules can directly invoke APIs on low-level modules. For example, if the invoice module needs to check user permissions, it can call down into the user module to retrieve user roles.
-
-What about data flowing the other way? Low-level modules are not allowed to depend on high-level modules, so they cannot invoke their APIs.
-
-Instead, low-level modules can publish events, agnostic to who consumes them. Then higher level modules can consume these events; in doing so they take a dependency on the low-level module, which is fine.
+For communication _down_ a dependency hierarchy, lower-level modules are not allowed to depend on high-level modules, so they cannot invoke their APIs. Instead, low-level modules can publish events, agnostic to who consumes them. Then higher level modules can consume these events; in doing so they take a dependency on the low-level module, which is fine.
 
 ### Performance
 
