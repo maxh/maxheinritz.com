@@ -12,7 +12,7 @@ The term "isomorphic" is used to describe JavaScript code that is shared across 
 Generally, I prefer decoupling frontend and backend such that all they need to share is the GraphQL schema. This makes the interface explicit. But I've found two scenarios where sharing code outside of the GraphQL schema can be particularly powerful:
 
 1. Global enums like user roles and entity types
-2. Pure functions for things like with money manipulation and qid parsing
+2. Pure functions for things like money manipulation and qid parsing
 
 While GraphQL does include enums, they are generated for use in code only in the context of queries and fragments, and some enums are useful outside those contexts. For example, safely generating a qid from a uuid in a path like `organizations/<uuid>` or determining visible menu items based on a user's roles.
 
