@@ -8,8 +8,6 @@ As described in the [Domain-driven design post](https://maxheinritz.com/posts/do
 
 ## Enum
 
-To help keep these perspective in mind, I like having a global enum like this:
-
 ```ts
 import { Enum, EnumValue } from "@kejistan/enum";
 
