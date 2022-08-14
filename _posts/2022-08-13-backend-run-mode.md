@@ -70,9 +70,11 @@ In other cases the run mode might be a function of both (a) the runner file and 
 
 Some modules are only relevant in specific run modes.
 
-For example, there’s no need to load all the REST controllers and GraphQL resolvers when running in poller mode:
+For example, there’s no need to load the CLI commands, REST controllers, or GraphQL resolvers when running in poller mode. We only need the pollers and the core business logic they depend on:
 
 ![Backend Running as Poller](/images/posts/backend-running-as-poller.png)
+
+See the [atomic backend modules post](/posts/2022-08-13-atomic-backend-modules.png) for explanation of these submodules.
 
 And there's no need to load the pollers when running in server mode:
 
@@ -80,7 +82,7 @@ And there's no need to load the pollers when running in server mode:
 
 ## PlantUML
 
-### CLI
+### Poller
 
 ```
 @startuml
@@ -173,5 +175,55 @@ rest_tenant --> core_tenant
 cli_tenant ---> core_tenant
 gql_tenant ---> core_tenant
 poll_tenant ---> core_tenant
+@enduml
+```
+
+### CLI
+
+```
+@startuml
+skinparam map {
+  BackgroundColor white
+}
+
+skinparam componentStyle rectangle
+
+component "backend running as CLI from user module" {
+
+  component user {
+    component root #LightBlue
+    component [rest] as rest_user
+    component [gql] as gql_user
+    component [cli] as cli_user #LightBlue
+    component [poll] as poll_user
+    component [core] as core_user #LightBlue
+  }
+
+  component tenant {
+
+    component [rest] as rest_tenant
+    component [gql] as gql_tenant
+    component [cli] as cli_tenant
+    component [poll] as poll_tenant
+    component [core] as core_tenant #LightBlue
+
+  }
+}
+
+
+root --> cli_user
+
+rest_user --> core_user
+cli_user ---> core_user
+gql_user ---> core_user
+poll_user ---> core_user
+
+
+rest_tenant --> core_tenant
+cli_tenant ---> core_tenant
+gql_tenant ---> core_tenant
+poll_tenant ---> core_tenant
+
+core_user ---> core_tenant
 @enduml
 ```
