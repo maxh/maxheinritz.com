@@ -35,8 +35,8 @@ export const BackendUrlContext = createContext<{
   isOtherEnvBackendUrl: boolean;
 }>({
   backendUrl: undefined,
-  setBackendUrl: (_: string) => noop(),
-  checkBackendUrl: () => noop(),
+  setBackendUrl: noop,
+  checkBackendUrl: noop,
   isOtherEnvBackendUrl: false,
 });
 ```
