@@ -10,7 +10,7 @@ During frontend development, it's powerful to be able to connect direcly to the 
 - **Developing against specific shapes of data.** Some production data may be difficult to replicate in the backend dev environment. With a dev frontend talking to a prod backend, you can just load up the relevant page and iterate directly on the behavior. This is has been useful for me to test the rendering for unusual PDFs, for example.
 - **Manually testing a multi-step workflow.** Ideally, the backend dev environment supports faking data needed to complete a full workflow. But sometimes this is not possible, and running through a workflow against a prod demo or dev tenant using a dev frontend is a good way to make sure things work.
 
-### How it works
+## Using cookies
 
 If you are logged in with a cookie-based session on the prod frontend, then a cookie set there can be sent by the browser even when requests are made from the dev frontend at a different URL -- so long as [SameSite](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite) is set to `None`.
 
