@@ -66,7 +66,7 @@ You may need to adjust `.prettierrc.rs` to ensure that import particular import 
 
 In other cases the run mode might be a function of both (a) the runner file and also (b) some environment variable set by the compute environment.
 
-## Module dependencies
+## Conditional module loading
 
 Some modules are only relevant in specific run modes.
 
