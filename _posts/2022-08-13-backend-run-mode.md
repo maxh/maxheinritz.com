@@ -109,7 +109,7 @@ skinparam componentStyle rectangle
 component "backend running as poller" {
   component poller #LightBlue
 
-  component user {
+  package user {
     component [cli] as cli_user
     component [gql] as gql_user
     component [poll] as poll_user #LightBlue
@@ -117,7 +117,7 @@ component "backend running as poller" {
     component [rest] as rest_user
   }
 
-  component tenant {
+  package tenant {
     component [cli] as cli_tenant
     component [gql] as gql_tenant
     component [poll] as poll_tenant #LightBlue
@@ -157,7 +157,7 @@ skinparam componentStyle rectangle
 component "backend running as server" {
   component server #LightBlue
 
-  component user {
+  package user {
     component [rest] as rest_user #LightBlue
     component [gql] as gql_user #LightBlue
     component [cli] as cli_user
@@ -165,7 +165,7 @@ component "backend running as server" {
     component [core] as core_user #LightBlue
   }
 
-  component tenant {
+  package tenant {
 
     component [rest] as rest_tenant #LightBlue
     component [gql] as gql_tenant #LightBlue
@@ -211,8 +211,7 @@ skinparam componentStyle rectangle
 
 component "backend running as CLI from user module" {
 
-  component user {
-    component runner #LightBlue
+  package user {
     component [rest] as rest_user
     component [gql] as gql_user
     component [cli] as cli_user #LightBlue
@@ -220,7 +219,7 @@ component "backend running as CLI from user module" {
     component [core] as core_user #LightBlue
   }
 
-  component tenant {
+  package tenant {
 
     component [rest] as rest_tenant
     component [gql] as gql_tenant
@@ -231,8 +230,6 @@ component "backend running as CLI from user module" {
   }
 }
 
-
-runner --> cli_user
 
 rest_user --> core_user
 cli_user --> core_user

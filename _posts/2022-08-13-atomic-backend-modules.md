@@ -108,7 +108,7 @@ skinparam map {
 
 skinparam componentStyle rectangle
 
-component user {
+package user {
   component cli
   component gql
   component poll
