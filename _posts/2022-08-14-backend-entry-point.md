@@ -88,7 +88,7 @@ export type CtxPollerEntryPoint = {
 };
 
 export type CtxEventHandlerEntryPoint = {
-  root: typeof CtxEntryPointRoot.DURABLE_EVENT_HANDLER;
+  root: typeof CtxEntryPointRoot.EVENT_HANDLER;
   eventHandler: string;
   eventType: string;
   consumerKey: string;
