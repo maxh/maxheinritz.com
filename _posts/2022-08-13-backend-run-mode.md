@@ -70,15 +70,29 @@ In other cases the run mode might be a function of both (a) the runner file and 
 
 Some modules are only relevant in specific run modes.
 
+### Poller
+
 For example, there’s no need to load the CLI commands, REST controllers, or GraphQL resolvers when running in poller mode. We only need the pollers and the core business logic they depend on:
 
 ![Backend Running as Poller](/images/posts/backend-running-as-poller.png)
 
 See the [atomic backend modules post](/posts/2022-08-13-atomic-backend-modules.png) for explanation of these submodules.
 
-And there's no need to load the pollers when running in server mode:
+### Server
+
+Similarly, there's no need to load the pollers when running in server mode:
 
 ![Backend Running as Server](/images/posts/backend-running-as-server.png)
+
+### CLI
+
+To further limit dependencies, separate CLI runners can limit just what's needed for a particular CLI:
+
+```sh
+yarn ts-node src/platform/user/cli/user-cli.runner.ts
+```
+
+![Backend Running as CLI from user module](/images/posts/backend-running-as-cli-from-user-module.png)
 
 ## PlantUML
 
