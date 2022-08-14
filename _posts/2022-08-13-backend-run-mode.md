@@ -86,7 +86,7 @@ Similarly, there's no need to load the pollers when running in server mode:
 
 ### CLI
 
-To further limit dependencies, separate CLI runners can limit just what's needed for a particular CLI:
+To further limit dependencies, separate CLI runners can limit to just what's needed for a particular CLI:
 
 ```sh
 yarn ts-node src/platform/user/cli/user-cli.runner.ts
