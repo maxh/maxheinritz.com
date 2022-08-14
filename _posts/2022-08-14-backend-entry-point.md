@@ -97,7 +97,7 @@ export type CtxEventHandlerEntryPoint = {
 
 ## In the revision source
 
-The entry point appears alongside user information in the revision source:
+The entry point appears alongside user information in a database row's revision source.
 
 ```json
 {
