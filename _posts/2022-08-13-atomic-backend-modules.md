@@ -4,7 +4,7 @@ layout: note
 tags: ["software patterns"]
 ---
 
-The [post on organizing backend code](posts/organizing-backend-code.html) covers the broad strokes of setting up the directory structure for a backend codebase. This post focuses on the leaf-node atomic module. For example, imagine a codebase with the following modules:
+The [post on organizing backend code](/posts/organizing-backend-code.html) covers the broad strokes of setting up the directory structure for a backend codebase. This post focuses on the leaf-node atomic module. For example, imagine a codebase with the following modules:
 
 ```
 domain/
