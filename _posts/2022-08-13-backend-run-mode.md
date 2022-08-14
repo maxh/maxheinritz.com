@@ -72,7 +72,7 @@ Some modules are only relevant in specific run modes.
 
 ### Poller
 
-For example, there’s no need to load the CLI commands, REST controllers, or GraphQL resolvers when running in poller mode. We only need the pollers and the core business logic they depend on:
+For example, there’s no need to load the CLI commands, REST controllers, or GraphQL resolvers when running in poller mode. We only need the pollers and the core business logic they depend on.
 
 ![Backend Running as Poller](/images/posts/backend-running-as-poller.png)
 
