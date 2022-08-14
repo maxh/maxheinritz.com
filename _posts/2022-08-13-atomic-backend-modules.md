@@ -122,3 +122,8 @@ poll --> core
 rest --> core
 @enduml
 ```
+
+## TODO
+
+- Add gRPC
+- Use package in PlantUML diagram
