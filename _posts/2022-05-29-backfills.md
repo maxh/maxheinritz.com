@@ -5,7 +5,7 @@ layout: note
 tags: ["software patterns"]
 ---
 
-Backfills are scripts run via the command line that change data in the production database. Backfills should be idempotent. There are two kinds of backfills:
+Backfills are scripts run via the command line that change production data. Backfills should be idempotent. There are two kinds of backfills:
 
 - One-off backfills - Intended to be run once (example: fix a data quality issue in a particular table). Generally these should be prefixed by date, with old ones deleted periodically.
 - Repeat backfills - Intended to be run multiple times (example: persist the roles defined in code in role.registry.ts to the database – we need to run this each time we add a new role).
