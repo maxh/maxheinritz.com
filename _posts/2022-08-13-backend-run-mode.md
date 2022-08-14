@@ -129,15 +129,18 @@ component "backend running as poller" {
 poller --> poll_user
 poller --> poll_tenant
 
-cli_user ---> core_user
-gql_user ---> core_user
-poll_user ---> core_user
+cli_user --> core_user
+gql_user --> core_user
+poll_user --> core_user
 rest_user --> core_user
 
-cli_tenant ---> core_tenant
-gql_tenant ---> core_tenant
-poll_tenant ---> core_tenant
+cli_tenant --> core_tenant
+
+poll_tenant --> core_tenant
 rest_tenant --> core_tenant
+gql_tenant --> core_tenant
+
+core_user --> core_tenant
 @enduml
 ```
 
@@ -179,16 +182,20 @@ server --> gql_tenant
 server --> rest_user
 server --> gql_user
 
+cli_user --> core_user
+gql_user --> core_user
+poll_user --> core_user
 rest_user --> core_user
-cli_user ---> core_user
-gql_user ---> core_user
-poll_user ---> core_user
 
-
+gql_tenant --> core_tenant
 rest_tenant --> core_tenant
-cli_tenant ---> core_tenant
-gql_tenant ---> core_tenant
-poll_tenant ---> core_tenant
+
+cli_tenant --> core_tenant
+
+poll_tenant --> core_tenant
+
+
+core_user --> core_tenant
 @enduml
 ```
 
@@ -205,7 +212,7 @@ skinparam componentStyle rectangle
 component "backend running as CLI from user module" {
 
   component user {
-    component root #LightBlue
+    component runner #LightBlue
     component [rest] as rest_user
     component [gql] as gql_user
     component [cli] as cli_user #LightBlue
@@ -225,19 +232,19 @@ component "backend running as CLI from user module" {
 }
 
 
-root --> cli_user
+runner --> cli_user
 
 rest_user --> core_user
-cli_user ---> core_user
-gql_user ---> core_user
-poll_user ---> core_user
+cli_user --> core_user
+gql_user --> core_user
+poll_user --> core_user
 
 
 rest_tenant --> core_tenant
-cli_tenant ---> core_tenant
-gql_tenant ---> core_tenant
-poll_tenant ---> core_tenant
+cli_tenant --> core_tenant
+gql_tenant --> core_tenant
+poll_tenant --> core_tenant
 
-core_user ---> core_tenant
+core_user --> core_tenant
 @enduml
 ```
