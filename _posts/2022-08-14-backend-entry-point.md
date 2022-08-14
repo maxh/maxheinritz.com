@@ -31,7 +31,7 @@ export const CtxEntryPointRoot = Enum({
 
 ## Entry point
 
-And the entry point itself is includes request-specific information about the method or endpoint under that root.
+The entry point itself includes the root and request-specific information about the method or endpoint.
 
 ```ts
 import { CtxEntryPointRoot } from "src/common/util/ctx/entry-point-root";
