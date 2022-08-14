@@ -19,11 +19,11 @@ import { Enum, EnumValue } from "@kejistan/enum";
 export const BackendRunMode = Enum({
   // The backend is running in a long-lived capacity as an API server, responding
   // to HTTP requests for the GraphQL or REST APIs.
-  API_SERVER: "API_SERVER",
+  SERVER: "SERVER",
 
   // The backend is running in a short-lived capacity to execute a CLI command
   // triggered by an engineer.
-  CLI_COMMAND: "CLI_COMMAND",
+  CLI: "CLI",
 
   // The backend is running in a long-lived capacity as a poller, with
   // setInterval() calls triggering various pollers to run periodically.
