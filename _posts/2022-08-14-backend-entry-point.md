@@ -4,7 +4,7 @@ layout: note
 tags: ["software patterns"]
 ---
 
-I use the term "entry point" to refer to the action that invoked a particular backend request context. The entry point is set on `ctx.entryPoint` and can be used to write into the entity revision source the details about where a certain database mutation came from.
+I use the term "entry point" to refer to the source of a particular backend execution context. The entry point is set on `ctx.entryPoint` and can be used to write into the entity revision source the details about where a certain database mutation came from.
 
 ## Entry point root
 

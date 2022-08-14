@@ -4,31 +4,35 @@ layout: note
 tags: ["software patterns"]
 ---
 
-A backend codebase be run in different ways:
+A backend application can be instantiated in different ways:
 
 - Command line interface (CLI)
-- HTTP server
+- REST server
+- GraphQL server
 - gRPC server
 - Polling
-- Long-running async jobs
+- Async jobs
 
-I call these “backend run modes”, and I like to make this a first-class concept with an enum:
+I call these “backend run modes”, and I like to make them a first-class concept with an enum.
 
 ```ts
 import { Enum, EnumValue } from "@kejistan/enum";
 
 export const BackendRunMode = Enum({
   CLI: "CLI",
-  HTTP_SERVER: "HTTP_SERVER",
-  GRPC_SERVER: "GRPC_SERVER",
-  JOBS: "JOBS",
-  POLLER: "POLLER",
+  GQL: "GQL",
+  GRPC: "GRPC",
+  JOB: "JOB",
+  POLL: "POLL",
+  REST: "REST",
 });
 
 export type BackendRunMode = EnumValue<typeof BackendRunMode>;
 ```
 
-Deploying separate instances for separate run modes often makes sense, but an application could be started in multiple run modes at once. For example, one instance could expose an HTTP server on port 80 and a gRPC server on port 443. Or during development, a single instance could be running in all modes at once (except CLI).
+## Deployment
+
+In production, it might make sense to have separate instances for the separate run modes. But some run modes are not mutually exclusive. For example, one instance could expose an HTTP server on port 80 and a gRPC server on port 443. Or during development, a single instance could be running in all modes at once (except CLI).
 
 ## Configuring the backend run mode
 
