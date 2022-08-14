@@ -29,7 +29,7 @@ user/
   rest/
 ```
 
-![Backend Code Organization Diagram](/images/posts/user-module.png)
+![Atomic Backend Module Diagram](/images/posts/user-module.png)
 
 ### core/
 

@@ -33,14 +33,6 @@ export const BackendRunMode = Enum({
 export type BackendRunMode = EnumValue<typeof BackendRunMode>;
 ```
 
-## Module dependencies
-
-Some modules and services are necessary regardless of the run mode: database client, user service, tenant service, etc.
-
-Some modules may only be relevant in specific run modes. For example, there’s no need to load all the REST controllers and GraphQL resolvers when executing a CLI command.
-
-To improve loading times, some modules can only be loaded or initialized in certain run modes.
-
 ## Configuring the backend run mode
 
 The backend run mode is set by the “runner” file that gets executed first. So for example if a CLI command is initiated like this:
@@ -73,3 +65,113 @@ You may need to adjust `.prettierrc.rs` to ensure that import particular import 
 ```
 
 In other cases the run mode might be a function of both (a) the runner file and also (b) some environment variable set by the compute environment.
+
+## Module dependencies
+
+Some modules are only relevant in specific run modes.
+
+For example, there’s no need to load all the REST controllers and GraphQL resolvers when running in poller mode:
+
+![Backend Running as Poller](/images/posts/backend-running-as-poller.png)
+
+And there's no need to load the pollers when running in server mode:
+
+![Backend Running as Server](/images/posts/backend-running-as-server.png)
+
+## PlantUML
+
+### CLI
+
+```
+@startuml
+skinparam map {
+  BackgroundColor white
+}
+
+skinparam componentStyle rectangle
+
+component "backend running as poller" {
+  component poller #LightBlue
+
+  component user {
+    component [cli] as cli_user
+    component [gql] as gql_user
+    component [poll] as poll_user #LightBlue
+    component [core] as core_user #LightBlue
+    component [rest] as rest_user
+  }
+
+  component tenant {
+    component [cli] as cli_tenant
+    component [gql] as gql_tenant
+    component [poll] as poll_tenant #LightBlue
+    component [core] as core_tenant #LightBlue
+    component [rest] as rest_tenant
+  }
+}
+
+poller --> poll_user
+poller --> poll_tenant
+
+cli_user ---> core_user
+gql_user ---> core_user
+poll_user ---> core_user
+rest_user --> core_user
+
+cli_tenant ---> core_tenant
+gql_tenant ---> core_tenant
+poll_tenant ---> core_tenant
+rest_tenant --> core_tenant
+@enduml
+```
+
+### Server
+
+```
+@startuml
+skinparam map {
+  BackgroundColor white
+}
+
+skinparam componentStyle rectangle
+
+component "backend running as server" {
+  component server #LightBlue
+
+  component user {
+    component [rest] as rest_user #LightBlue
+    component [gql] as gql_user #LightBlue
+    component [cli] as cli_user
+    component [poll] as poll_user
+    component [core] as core_user #LightBlue
+  }
+
+  component tenant {
+
+    component [rest] as rest_tenant #LightBlue
+    component [gql] as gql_tenant #LightBlue
+    component [cli] as cli_tenant
+    component [poll] as poll_tenant
+    component [core] as core_tenant #LightBlue
+
+  }
+}
+
+
+server --> rest_tenant
+server --> gql_tenant
+server --> rest_user
+server --> gql_user
+
+rest_user --> core_user
+cli_user ---> core_user
+gql_user ---> core_user
+poll_user ---> core_user
+
+
+rest_tenant --> core_tenant
+cli_tenant ---> core_tenant
+gql_tenant ---> core_tenant
+poll_tenant ---> core_tenant
+@enduml
+```
