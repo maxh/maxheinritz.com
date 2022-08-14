@@ -13,7 +13,7 @@ domain/
     tenant/
 ```
 
-How can we organize the internals of the leaf-node modules, i.e. user and tenant here?
+How can we organize the internals of user and tenant here?
 
 ## Directory structure
 
@@ -29,7 +29,7 @@ user/
   rest/
 ```
 
-![Atomic Backend Module Diagram](/images/posts/user-module.png)
+![Atomic Backend Module Diagram](/images/posts/atomic-backend-module.png)
 
 ### core/
 
@@ -116,9 +116,9 @@ component user {
   component rest
 }
 
-gql ---> core
-cli ---> core
-poll ---> core
+gql --> core
+cli --> core
+poll --> core
 rest --> core
 @enduml
 ```
