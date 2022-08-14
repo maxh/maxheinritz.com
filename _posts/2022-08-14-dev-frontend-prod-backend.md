@@ -6,13 +6,13 @@ tags: ["software patterns", "frontend"]
 
 During frontend development, it's powerful to be able to connect direcly to the production backend. Use cases include:
 
-- **Developing against higher volumes of data.** In the development environment you might seed a few fake entities, but in production you can see how pagination behaves with dozens or thousands of entities.
-- **Developing against specific shapes of data.** Some production data may be difficult to replicate in the backend development environment. With a dev frontend talking to a prod backend, you can just load up the relevant page and iterate directly on the behavior. This is has been useful for me to test the rendering for unusual PDFs, for example.
-- **Manually testing a multi-step workflow.** Ideally, the development environment supports faking data needed to complete a full workflow. But sometimes this is not possible, and running through a workflow against a production demo or dev tenant using a development frontend is a good way to make sure things work.
+- **Developing against higher volumes of data.** In the dev environment you might seed a few fake entities, but in production you can see how pagination behaves real-world entity counts.
+- **Developing against specific shapes of data.** Some production data may be difficult to replicate in the backend dev environment. With a dev frontend talking to a prod backend, you can just load up the relevant page and iterate directly on the behavior. This is has been useful for me to test the rendering for unusual PDFs, for example.
+- **Manually testing a multi-step workflow.** Ideally, the backend dev environment supports faking data needed to complete a full workflow. But sometimes this is not possible, and running through a workflow against a prod demo or dev tenant using a dev frontend is a good way to make sure things work.
 
 ### How it works
 
-If you are logged in with a cookie-based session on the production frontend, then the cookie set there can be sent by the browser even when requests are made from the development frontend at a different site -- so long as [SameSite](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite) is set to `None`.
+If you are logged in with a cookie-based session on the prod frontend, then a cookie set there can be sent by the browser even when requests are made from the dev frontend at a different URL -- so long as [SameSite](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite) is set to `None`.
 
 ## Security
 
@@ -41,7 +41,7 @@ export const BackendUrlContext = createContext<{
 });
 ```
 
-Here is the provider.
+And a React provider.
 
 ```tsx
 import { ReactNode, useEffect, useState } from "react";
@@ -106,7 +106,9 @@ export default BackendUrlProvider;
 Then when building the Relay or Apollo environment, the context can be used to initialize the network to use that particular backend.
 
 ```ts
+// ...
 const { backendUrl } = useContext(BackendUrlContext);
+// ...use the backendUrl to configure the GraphQL client.
 ```
 
 ### Backend implementation
