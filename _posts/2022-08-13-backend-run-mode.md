@@ -7,8 +7,9 @@ tags: ["software patterns"]
 A backend codebase be run in different ways:
 
 - Command line interface (CLI)
-- API server
-- Pollers
+- HTTP server
+- gRPC server
+- Polling
 - Long-running async jobs
 
 I call these “backend run modes”, and I like to make this a first-class concept with an enum:
@@ -17,21 +18,17 @@ I call these “backend run modes”, and I like to make this a first-class conc
 import { Enum, EnumValue } from "@kejistan/enum";
 
 export const BackendRunMode = Enum({
-  // The backend is running in a long-lived capacity as an API server, responding
-  // to HTTP requests for the GraphQL or REST APIs.
-  SERVER: "SERVER",
-
-  // The backend is running in a short-lived capacity to execute a CLI command
-  // triggered by an engineer.
   CLI: "CLI",
-
-  // The backend is running in a long-lived capacity as a poller, with
-  // setInterval() calls triggering various pollers to run periodically.
+  HTTP_SERVER: "HTTP_SERVER",
+  GRPC_SERVER: "GRPC_SERVER",
+  JOBS: "JOBS",
   POLLER: "POLLER",
 });
 
 export type BackendRunMode = EnumValue<typeof BackendRunMode>;
 ```
+
+Deploying separate instances for separate run modes often makes sense, but an application could be started in multiple run modes at once. For example, one instance could expose an HTTP server on port 80 and a gRPC server on port 443. Or during development, a single instance could be running in all modes at once (except CLI).
 
 ## Configuring the backend run mode
 
