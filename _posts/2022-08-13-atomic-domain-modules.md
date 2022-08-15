@@ -4,7 +4,7 @@ layout: note
 tags: ["software patterns"]
 ---
 
-The [post on organizing backend code](/posts/organizing-backend-code.html) covers the broad strokes of setting up the directory structure for a backend codebase. This post focuses on "leaf nodes" in the module dependency heirarchy: atomic domain modules. For example, in a codebase with the following modules:
+The [post on organizing backend code](/posts/organizing-backend-code.html) covers the broad strokes of setting up the directory structure for a backend codebase. This post focuses on "leaf nodes" in the module dependency hierarchy: atomic domain modules. For example, in a codebase with the following modules:
 
 ```
 domain/
@@ -17,11 +17,11 @@ The atomic domain modules are `user/` and `tenant/`.
 
 ## Domain encapsulation
 
-An atomic domain module contains all code related to a given domain. It interacts with other modules through well-defined APIs with scalars and data transfer objects (DTOs) rather than raw database records.
+An atomic domain module contains all code related to a given domain. It interacts with other modules through well-defined APIs. For inputs and outputs, scalars and data transfer objects (DTOs) rather than raw database records.
 
 ## Deployment
 
-It's easiest to get up and running with all domain modules deployed as part of a monolith. But I like to design the system in such a way that it is _possible_ to peel off individual domain modules into a separate services. Even if it's not necessary to split out into separate services, aiming for that possibility encourages modularity.
+It's easiest to get up and running with all domain modules deployed as part of a monolith. But I like to design the system in such a way that it is _possible_ to peel off individual domain modules into separate services. Even if it's not necessary to break out into services, aiming for that possibility encourages modularity.
 
 ## Database interactions
 
@@ -69,12 +69,12 @@ user/
       user.dto.ts
       user-revised.payload.dto.ts
 
-    # Service classes for reading from the database.
+    # Service classes for writing into the database.
     mutate/
       user.create.service.ts
       user.update.service.ts
 
-    # Service classes for writing to the database.
+    # Service classes for reading from the database.
     query/
       user.query.service.ts
 
