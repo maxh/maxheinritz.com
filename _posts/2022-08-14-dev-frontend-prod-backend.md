@@ -4,9 +4,9 @@ layout: note
 tags: ["software patterns", "frontend"]
 ---
 
-During frontend development, it's powerful to be able to connect directly to the production backend. For example:
+During frontend development, I like being able to connect directly to the production backend from development frontend. For example:
 
-```
+```sh
 # dev frontend
 https://app.dfoo.xyz:3000
 
@@ -22,9 +22,9 @@ https://api.foo.com
 
 ## Use cases
 
-- **Developing against higher volumes of data.** In the dev environment you might seed a few fake entities, but in production you can see how pagination behaves real-world entity counts.
-- **Developing against specific shapes of data.** Some production data may be difficult to replicate in the backend dev environment. With a dev frontend talking to a prod backend, you can just load up the relevant page and iterate directly on the behavior. This has been useful for me to test the rendering for unusual PDFs, for example.
-- **Manually testing a multi-step workflow.** Ideally, the backend dev environment supports faking data needed to complete full workflows throughout the app. But sometimes this is not feasible, and running through a workflow against a prod demo or dev tenant using a dev frontend is a good way fallback.
+- **Developing against higher volumes of data.** In the dev environment you might seed a few dozen fake entities, but in production you can see how pagination behaves with real-world entity counts -- often many orders of magnitude higher than the fake data.
+- **Developing against specific shapes of data.** Some production data may be difficult to replicate in the backend dev environment. With a dev frontend talking to a prod backend, you can open the relevant page and iterate directly on the behavior with hot reload.
+- **Manually testing a multi-step workflow.** Ideally, the backend dev environment can generate enough fake data to complete full workflows throughout the app. But sometimes this is not feasible, and running through a workflow against a prod demo or dev tenant using a dev frontend is a good fallback for manual testing.
 
 ## Using cookies
 
