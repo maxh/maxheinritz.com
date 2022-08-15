@@ -4,11 +4,27 @@ layout: note
 tags: ["software patterns", "frontend"]
 ---
 
-During frontend development, it's powerful to be able to connect direcly to the production backend. Use cases include:
+During frontend development, it's powerful to be able to connect directly to the production backend. For example:
+
+```
+# dev frontend
+https://app.dfoo.xyz:3000
+
+# use a button in the dev frontend UI
+# to toggle between either:
+
+# (1) dev backend
+https://api.dfoo.xyz:3000
+
+# or (2) prod backend
+https://api.foo.com
+```
+
+## Use cases
 
 - **Developing against higher volumes of data.** In the dev environment you might seed a few fake entities, but in production you can see how pagination behaves real-world entity counts.
-- **Developing against specific shapes of data.** Some production data may be difficult to replicate in the backend dev environment. With a dev frontend talking to a prod backend, you can just load up the relevant page and iterate directly on the behavior. This is has been useful for me to test the rendering for unusual PDFs, for example.
-- **Manually testing a multi-step workflow.** Ideally, the backend dev environment supports faking data needed to complete a full workflow. But sometimes this is not possible, and running through a workflow against a prod demo or dev tenant using a dev frontend is a good way to make sure things work.
+- **Developing against specific shapes of data.** Some production data may be difficult to replicate in the backend dev environment. With a dev frontend talking to a prod backend, you can just load up the relevant page and iterate directly on the behavior. This has been useful for me to test the rendering for unusual PDFs, for example.
+- **Manually testing a multi-step workflow.** Ideally, the backend dev environment supports faking data needed to complete full workflows throughout the app. But sometimes this is not feasible, and running through a workflow against a prod demo or dev tenant using a dev frontend is a good way fallback.
 
 ## Using cookies
 
@@ -16,9 +32,11 @@ If you are logged in with a cookie-based session on the prod frontend, then a co
 
 ## Security
 
-The permissions and security of the production backend still apply when using the development frontend. You are still logged in as your production self.
+The permissions and security of the production backend still apply when using the dev frontend. The developer is logged in as their production user and has the same permissions with the dev frontend as they would have with prod frontend.
 
-### Frontend implementation
+## Implementation
+
+### Frontend
 
 The frontend implementation involves React Context:
 
@@ -111,7 +129,7 @@ const { backendUrl } = useContext(BackendUrlContext);
 // ...use the backendUrl to configure the GraphQL client.
 ```
 
-### Backend implementation
+### Backend
 
 The thing to watch out for on the backend is that cookies need to be HTTPS and have `sameSite: 'none'`.
 
