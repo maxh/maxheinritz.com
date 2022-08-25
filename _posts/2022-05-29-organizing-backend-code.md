@@ -1,16 +1,17 @@
 ---
 title: Organizing backend code
-desc: A three-bucket approach for managing complexity
 layout: note
 tags: ["software patterns"]
 ---
 
-I’ve come to prefer a backend codebase structure that involves four top-level directories, arranged in an ordered dependency hierarchy:
+I’ve come to prefer a backend codebase structure that involves six top-level directories, arranged in an ordered dependency hierarchy:
 
 - `app/` - high-level stateless code that ties things together but is largely domain-agnostic
-- `domain/` - stateful code that is specific to the team's domain model
+- `domain/` - stateful code that is specific to the application domain model
 - `system/` - domain-agnostic stateful code for things like revision history, event log, bots
+- `gateway/` - API clients for external systems include the database, cache, etc as well as remote APIs
 - `common/` - low-level stateless libraries, utilities, and constants
+- `isomorphic/` - common code synced to to the frontend
 
 Code in `app/` can depend on all other code; code in `domain/` can depend on anything except `app/`; etc.
 
@@ -18,19 +19,36 @@ Dependency restrictions can be enforced with tools like [eslint's `no-restricted
 
 Let’s walk through these directories in detail, starting from the bottom up.
 
-## Common code
+## Common and isomophic code
 
-Examples of common code include:
+I've included these two in the same section because the only difference between them is that isomorphic code gets synced to the frontend repo.
 
-- Wrappers around external logging and monitoring libraries
+Examples of code in these layers include:
+
 - Pure function utilities for things like string or list manipulation
 - Widely used standardized constants such as ISO country codes
+- Application-specific constants such as `EntityType` and types such as `Qid`
 
 Common code could be easily bundled up and distributed as packages or libraries via npm, maven, etc. Indeed, reusing open source external packages instead of hand rolling common code is generally the best approach. But in every codebase I’ve worked in, we’ve ended up with some components that are library-like in nature but still specific to our particular application.
 
-Common code is usually domain-agnostic, but not always. For example, if you are working on a payments company, you might have a `common/psp-clients` directory that holds client libraries for various payment service providers. These are specific to the payments domain in general, but they are stateless and could be deployed as NPM packages, so make sense within the common domain.
+Common code is often domain-agnostic, but not always. For example, it might include enums for transportation mode, currency code, etc.
 
-Common code is almost always domain-_model_-agnostic. For example, the client libraries for the PSPs should be written in a way that conforms to the external PSP rather than the team's own domain model. Some exceptions here might be shared enum constants that are conceptually global but defined precisely as part of the domain model: transportation mode, currency code, etc.
+Common and isomorphic code should be stateless and unaware of the dependency-injection system.
+
+## Gateway code
+
+Examples of gateway code include:
+
+- A Redis client
+- A Prisma client
+- A client for talking to a bank's API
+- A observability or logging module that connects to a remote system
+
+Generally these are instantiated in a dependency injection container and available for user throughout the application.
+
+Similar to common code, gateway code is usually but not always domain-agnostic. For example, if you are working on a payments company, you might have a `common/psp-clients` directory that holds client libraries for various payment service providers.
+
+Gateway code is almost always domain-_model_-agnostic. For example, the client libraries for the PSPs should be written in a way that conforms to the external PSP rather than the team's own domain model.
 
 ## System code
 
@@ -38,10 +56,12 @@ Examples of system code:
 
 - An entity revision history tracking system
 - An event logging system backed by Postgres
+- A file upload system
+- A email outbox system
 
-The difference between "system" and "common" is stateful vs stateless. When I say "stateful", I mean the component actively reads/writes from a persistent data store like PostgreSQL, Redis, Elasticsearch.
+The difference between "system" and "common" is stateful vs stateless. When I say "stateful", I mean the component "owns" persistent data store like PostgreSQL, Redis, Elasticsearch.
 
-A Redis client library wrapper would live in "common". A durable event system that uses that client library to write messages for consumers to read in our database -- that would be a system-level component.
+A Redis client library wrapper would live in "gateway". A durable event system that uses the Redis client library to write messages for consumers to read in our database -- that would be a system-level component.
 
 ## Domain code
 
@@ -51,7 +71,7 @@ The contents of the domain directory will vary based on the application problem 
 - For a freight forwarding app, it could contain components for booking management, freight execution, contract and pricing controls, etc
 - For a property management app, it could contain components leasing, rent payments, work orders, etc
 
-One way to think about `domain` code is: if a concept is part of your domain model shared with business stakeholders, it should be within the domain directory. If a concept is exposed to end users in the product, it should live within the domain directory. End users do not care about which logging library you use (at the common layer) or which web server runner you use (at the app layer). End users do care about the domain concepts they manipulate through the product (at the domain layer).
+One way to think about `domain` code is: if a concept is part of your domain model shared with business stakeholders, it should be within the domain directory. If a concept is exposed to end users in the product, it should live within the domain directory. End users do not care about which logging library you use (at the gateway layer) or which web server runner you use (at the app layer). End users do care about the domain concepts they manipulate through the product (at the domain layer).
 
 For this reason, I tend to include in the domain directory any modules responsible for tenants, users, and roles. While these are domain-agnostic in the sense that any software system needs them, they are domain-model-specific in that the behavior of such modules heavily impacts product behavior and is an important part of users' mental models of the system.
 
@@ -92,10 +112,12 @@ system/
   revision-history
   system-bots
 
-common/
+gateway/
   db-client
   metrics-client
   s3-client
+
+common/
   string-util
 ```
 
