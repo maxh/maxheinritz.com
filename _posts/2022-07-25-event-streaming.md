@@ -25,7 +25,7 @@ Two options are shown there: choreography and orchestration.
 
 I dislike that choreography introduces a circular dependency between the customer module and the order module. In particular, the customer module consumes "order created" events, which requires it to know about the order module. Conceptually, I would expect the consumer module to live "below" the order module and not know or care about it.
 
-In contrast, the orchestration patterns shows how events can be used as a transport mechanism while still respecting domain boundaries. The customer module doesn't know anything about the order module: to just consumes command events defined it terms of its own domain language. The customer module doesn't care who published the command event.
+In contrast, the orchestration patterns shows how events can be used as a transport mechanism while still respecting domain boundaries. The customer module doesn't know anything about the order module: it just consumes command events defined it terms of its own domain language. The customer module doesn't care who published the command event.
 
 ## Implementation in PostgreSQL
 

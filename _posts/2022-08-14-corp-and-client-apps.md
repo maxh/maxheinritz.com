@@ -1,5 +1,5 @@
 ---
-title: Corp and customer apps
+title: Corp and client apps
 layout: note
 tags: ["software patterns", "frontend"]
 ---
@@ -7,14 +7,14 @@ tags: ["software patterns", "frontend"]
 I like having separate applications for external vs internal users, something along the lines of:
 
 ```sh
-# External-facing ("customer") application.
+# External-facing ("client") application
 https://app.foo.com
 
-# Internal-facing ("corporate") application.
+# Internal-facing ("corporate") application
 https://corp.foo.com
 ```
 
-With the corp app, teams can move faster with less process when adding new functionality. The customer app can be held to a higher bar for product research and design polish.
+With the corp app, teams can move faster with less process when adding new functionality. The client app can be held to a higher bar for product research and design polish.
 
 Within the corp app, I like to maintain a single cohesive navigational structure that is easy for any engineer to extend with a new web page for their project. The web app's surface area is globally namespaced, and a global navigate heirarchy helps remind engineers of this when adding new pages.
 
@@ -23,6 +23,8 @@ Rather than build a third app for contractors or partners, I find it's best to h
 ## Local development
 
 I like to have both the frontends talking to a backend `api.foo.com` server. But working with this locally is a bit tricky in that it requires a local SSL certificate. A full tutorial is here: [https://web.dev/how-to-use-local-https](https://web.dev/how-to-use-local-https).
+
+I like to register a domain like `dfoo.xyz` for local development. The `d` makes it easier to navigate to the URL with browser type ahead.
 
 As part of the development set up process:
 
@@ -86,5 +88,5 @@ mkdir -p .cert
 mkcert \
   -key-file ./.cert/localhost-key.pem \
   -cert-file ./.cert/localhost-cert.pem \
-  corp.dloop.xyz app.dloop.xyz api.foo.xyz
+  corp.dfoo.xyz app.dfoo.xyz api.foo.xyz
 ```

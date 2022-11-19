@@ -11,7 +11,7 @@ I like to have all backend service class methods take a `ctx` parameter, similar
 
 The `ctx` looks like this:
 
-```
+```ts
 export class CtxDto {
   readonly user?: CtxUserDto;
   readonly entryPoint: CtxEntryPoint;
@@ -28,25 +28,25 @@ Calling it `ctx` instead of `context` helps reify the concept as a first-class i
 
 Idiomatically `ctx` is passed in as the first parameter:
 
-```
+```ts
 export class FooBarMutateService {
   // ...
 
   async create(
     ctx: CtxDto,
-    createFooBarDto: CreateFooBarDto,
+    createFooBarDto: CreateFooBarDto
   ): {
     // ...
-  }
+  };
 }
 ```
 
 The data in `ctx` is also used to populate the `revisionSource` for entity revisions, like this:
 
-```
+```js
 {
   "revisionSource": {
-    "userQid": qid::user:b969be65-8425-46ed-b108-25fbef01ff0e,
+    "userQid": "qid::user:b969be65-8425-46ed-b108-25fbef01ff0e",
     "entryPoint": {
       "root": "cli",
       "runner": "CliSeedCustomerTenant"
