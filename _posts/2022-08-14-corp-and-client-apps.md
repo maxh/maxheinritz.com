@@ -14,11 +14,17 @@ https://app.foo.com
 https://corp.foo.com
 ```
 
+## Corp app
+
 With the corp app, teams can move faster with less process when adding new functionality. The client app can be held to a higher bar for product research and design polish.
 
 Within the corp app, I like to maintain a single cohesive navigational structure that is easy for any engineer to extend with a new web page for their project. The web app's surface area is globally namespaced, and a global navigate heirarchy helps remind engineers of this when adding new pages.
 
 Rather than build a third app for contractors or partners, I find it's best to have external contractors use the corp app. This avoids drift in functionality and also gives flexibility in terms of operations work allocation. Authorization rules can be used to limit access to parts of the application and specific pieces of data.
+
+## Client app
+
+The client app is driven by the sales, product, and design teams rather than the engineering teams. Calling it the client app rather than the customer app leave the word "customer" open for use elsewhere in the domain model. Since many domains involve modeling clients' customer data, have a clear separation between a _client_ of our company and a _customer_ of one of our clients adds precision.
 
 ## Local development
 
