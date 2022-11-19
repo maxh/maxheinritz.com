@@ -40,7 +40,7 @@ The permissions and security of the production backend still apply when using th
 
 The frontend implementation involves React Context:
 
-```tsx
+```ts
 import { noop } from "lodash";
 import { createContext } from "react";
 

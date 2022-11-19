@@ -16,7 +16,7 @@ Generally, I prefer decoupling frontend and backend such that all they need to s
 
 While GraphQL does include enums, they are generated for use in code only in the context of queries and fragments. Some enums are useful outside those contexts. For example, safely generating a qid from a uuid in a path like `organizations/<uuid>` or determining visible menu items based on a user's roles.
 
-For shared types qids and money, having a single set of well-tested pure function utilities can be nice to avoid duplicating code.
+For shared types QIDs and money, having a single set of well-tested pure function utilities can be nice to avoid duplicating code.
 
 ## Repo options
 

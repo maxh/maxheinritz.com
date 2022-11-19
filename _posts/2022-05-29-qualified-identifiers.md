@@ -1,11 +1,11 @@
 ---
-title: Qualified identifiers (qids)
+title: Qualified identifiers (QIDs)
 desc: An ARN-like alternative to UUIDs and serial columns
 layout: note
 tags: ["software patterns"]
 ---
 
-For database IDs, I like to use "qualified identifiers" (or "qids") with a schema as follows:
+For database IDs, I like to use "qualified identifiers" (or "QIDs") with a schema as follows:
 
 ```
 qid:<reserved>:<entity-type>:<unique-identifier>
@@ -26,21 +26,21 @@ The `<unique-identifier>` is typically but not necessarily a [UUID](https://en.w
 
 ## Use cases
 
-Qids are globally unique and fully qualified, and these properties offer some advantages over plain UUIDs or serial numeric identifiers.
+QIDs are globally unique and fully qualified, and these properties offer some advantages over plain UUIDs or serial numeric identifiers.
 
-**Global lookup** – The qid format supports global entity resolution: given a qid, get its value. This is useful for implementing the [GraphQL global object specification](https://graphql.org/learn/global-object-identification/) as well as tooling for developers to quickly load qids and traverse associations. This can work across network-isolated services so long as there is a global registry.
+**Global lookup** – The qid format supports global entity resolution: given a qid, get its value. This is useful for implementing the [GraphQL global object specification](https://graphql.org/learn/global-object-identification/) as well as tooling for developers to quickly load QIDs and traverse associations. This can work across network-isolated services so long as there is a global registry.
 
 **Logs and error messaging** – When searching through logs, it's convenient to filter on a qid and see all logs related to that particular entity. Conversely, if you encounter a qid in a log or error message, it’s easy to resolve it to a value using the global lookup.
 
 **Data analytics** – When joining rows from different tables or services, having qid values instead of unqualified identifiers makes it easier to manage and understand the result of complex joins.
 
-**Data validation** – If you know an association is supposed to be to an entity of a particular type, you can parse qids to validate that expectation, even in situations where database-level foreign key constraints are not possible or desired.
+**Data validation** – If you know an association is supposed to be to an entity of a particular type, you can parse QIDs to validate that expectation, even in situations where database-level foreign key constraints are not possible or desired.
 
-**Clearer field and column names** – The term "id" is overloaded. In the past I’ve seen collisions between the GraphQL global "ID" concept and serial primary database IDs, as well as between the IDs of internal systems and external systems. Or relational database IDs vs Elasticsearch IDs, etc. With qids, it's easier to disambiguate what's what. In GraphQL-related code, an "id" can be an opaque GraphQL-specific concept, while a "qid" means something different and precise in all parts of the system: GraphQL API, database column names, REST API, gRPC, etc.
+**Clearer field and column names** – The term "id" is overloaded. In the past I’ve seen collisions between the GraphQL global "ID" concept and serial primary database IDs, as well as between the IDs of internal systems and external systems. Or relational database IDs vs Elasticsearch IDs, etc. With QIDs, it's easier to disambiguate what's what. In GraphQL-related code, an "id" can be an opaque GraphQL-specific concept, while a "qid" means something different and precise in all parts of the system: GraphQL API, database column names, REST API, gRPC, etc.
 
 ## Persistence
 
-There are two main persistence options. Qids can be stored in full in a primary key `qid` TEXT-type column in Postgres, or just the UUID part can be stored in isolation in a UUID-type column. The latter offers better [storage and runtime performance](https://stackoverflow.com/a/44101628). But it requires additional application logic to construct/deconstruct qids from UUIDs and also precludes the possibility of using Qids as foreign keys, which means losing some of the benefits of qualification. I prefer to use TEXT qid columns and have foreign references also held in columns ending in `_qid`.
+There are two main persistence options. QIDs can be stored in full in a primary key `qid` TEXT-type column in Postgres, or just the UUID part can be stored in isolation in a UUID-type column. The latter offers better [storage and runtime performance](https://stackoverflow.com/a/44101628). But it requires additional application logic to construct/deconstruct QIDs from UUIDs and also precludes the possibility of using QIDs as foreign keys, which means losing some of the benefits of qualification. I prefer to use TEXT qid columns and have foreign references also held in columns ending in `_qid`.
 
 ## Global look up
 
@@ -48,7 +48,7 @@ Global qid lookup can be implemented with a registry of query services, either g
 
 ## Go links
 
-Having go/ links related to qids can be helpful. For example:
+Having go/ links related to QIDs can be helpful. For example:
 
 - `go/qid/<qid>` - main product page for the entity that end users visit
 - `go/q/<qid>` - a raw entity viewer / traversal UI with raw JSON
