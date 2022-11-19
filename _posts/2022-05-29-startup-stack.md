@@ -21,13 +21,13 @@ Frontend
 Backend
 
 - TypeScript as the language
-- node.js as the runtime
+- Node.js as the runtime
 - NestJS as the framework
 - Searchkit for searching, pagination, sorting, etc
 - DataLoader for batch loading of data
 - Prisma for relational persistence
 - Elasticsearch for search
-- CASL for authorization
+- Cerbos for authorization
 
 API
 
