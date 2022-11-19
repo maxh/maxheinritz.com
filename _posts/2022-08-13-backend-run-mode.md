@@ -7,11 +7,9 @@ tags: ["software patterns"]
 A backend application can be instantiated in different ways:
 
 - Command line interface (CLI)
-- REST server
-- GraphQL server
-- gRPC server
-- Polling
-- Async jobs
+- Server-only instance in production
+- Poller-only instance in production
+- A dev instance that both serves and also polls
 
 I call these “backend run modes”, and I like to make them a first-class concept with an enum.
 
@@ -19,24 +17,30 @@ I call these “backend run modes”, and I like to make them a first-class conc
 import { Enum, EnumValue } from "@kejistan/enum";
 
 export const BackendRunMode = Enum({
-  CLI: "CLI",
-  GQL: "GQL",
-  GRPC: "GRPC",
-  JOB: "JOB",
-  POLL: "POLL",
-  REST: "REST",
+  // Different flavors of NODE_ENV = 'development'
+  DEV_INSTANCE: "DEV_INSTANCE",
+  DEV_INSTANCE_INSECURE_BLACK_BOX: "DEV_INSTANCE_INSECURE_BLACK_BOX",
+  DEV_REPL: "DEV_REPL",
+  DEV_CLI: "DEV_CLI",
+
+  // Different flavors of NODE_ENV = 'production'
+  PROD_INSTANCE_SERVER: "PROD_INSTANCE_SERVER",
+  PROD_INSTANCE_POLLER: "PROD_INSTANCE_POLLER",
+  PROD_TUNNEL_CLI: "PROD_TUNNEL_CLI",
+  PROD_TUNNEL_REPL_READ_ONLY: "PROD_TUNNEL_REPL_READ_ONLY",
+
+  // Different flavors of NODE_ENV = 'test'
+  TEST_UNIT: "TEST_UNIT",
+  TEST_BLACK_BOX: "TEST_BLACK_BOX",
+  TEST_INTEGRATION: "TEST_INTEGRATION",
 });
 
 export type BackendRunMode = EnumValue<typeof BackendRunMode>;
 ```
 
-## Deployment
-
-In production, it might make sense to have separate instances for the separate run modes. But some run modes are not mutually exclusive. For example, one instance could expose an HTTP server on port 80 and a gRPC server on port 443. Or during development, a single instance could be running in all modes at once (except CLI).
-
 ## Configuring the backend run mode
 
-The backend run mode is set by the “runner” file that gets executed first. So for example if a CLI command is initiated like this:
+The backend run mode is set by the "runner" file that gets executed first. So for example if a CLI command is initiated like this:
 
 ```sh
 yarn ts-node src/app/app-cli.runner.ts
