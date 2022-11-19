@@ -57,7 +57,7 @@ Which imports a file that sets the run mode.
 ```ts
 import { BackendRunMode } from "src/common/backend-run-mode/backend-run-mode";
 
-global.__BACKEND_RUN_MODE__ = BackendRunMode.CLI_COMMAND;
+global.BACKEND_RUN_MODE = BackendRunMode.CLI_COMMAND;
 ```
 
 You may need to adjust `.prettierrc.rs` to ensure that import particular import comes first:
