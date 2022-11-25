@@ -10,7 +10,7 @@ Two of my favorite internal tools are go links and wikis. I was first exposed to
 
 Go links make it easy to navigate internal resources with just a keyboard. Example go links include:
 
-- `go/qid/<qid>` - primary product page for a [qid](/notes/qualified-identifiers.html)
+- `go/qid/<qid>` - primary product page for a [qid](/posts/qualified-identifiers.html)
 - `go/q/<qid>` - debug page for a qid
 - `go/foo-bar` - the in-app product page for some domain or product "foo bar"
 - `go/foo-bar-wiki` - the wiki page for that domain or product

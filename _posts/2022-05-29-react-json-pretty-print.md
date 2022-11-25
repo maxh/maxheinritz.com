@@ -5,7 +5,7 @@ layout: note
 tags: ["useful code"]
 ---
 
-When building systems with complex domain models, I like having a developer web portal for entity loading and traversal. Given any [QID](/notes/qualified-identifiers.html), the portal allows me to see an entity's value in simple JSON. Bonus features include links to traverse associations and revision history with side-by-side diffing.
+When building systems with complex domain models, I like having a developer web portal for entity loading and traversal. Given any [QID](/posts/qualified-identifiers.html), the portal allows me to see an entity's value in simple JSON. Bonus features include links to traverse associations and revision history with side-by-side diffing.
 
 Here's an example of how a shipment might appear in such a tool:
 
