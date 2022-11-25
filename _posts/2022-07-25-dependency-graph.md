@@ -1,11 +1,11 @@
 ---
-title: Dependency hierarchy
+title: Dependency graph
 desc: Reasoning about module relationships
 layout: note
 tags: ["software patterns", "ddd"]
 ---
 
-A dependency hierarchy is a way to describe interactions among software components. It helps us break down complexity into easier-to-reason-about chunks. The simplest dependency hierarchy looks like this, with A depending on B:
+A dependency graph is a way to describe interactions among software components. It helps us break down complexity into easier-to-reason-about chunks. The simplest dependency graph can be visualized like this, with A depending on B:
 
 ```
   -----
@@ -20,15 +20,17 @@ A dependency hierarchy is a way to describe interactions among software componen
 
 `A -> B` implies a relationship with the qualities below.
 
-## Directionality
-
-- A knows about B
-- B doesn’t know about A
-
 ## Layering
 
 - A is built "on top of" or "above" B
 - B is a layer "below" A
+
+I like to have the arrows pointing down to reflect this visually.
+
+## Directionality
+
+- A knows about B
+- B doesn’t know about A
 
 ## APIs
 
@@ -54,14 +56,14 @@ A dependency hierarchy is a way to describe interactions among software componen
 
 The concepts of "upstream" and "downstream" are defined in relation to the flow of information, which is distinct from dependencies. The terminology is a bit confusing here because upstream/downstream doesn't always match the vertical placement of modules in the dependency diagram.
 
-When information is flowing up the dependency hierarchy (e.g. with events), we can say that:
+When information is flowing up the dependency graph (e.g. with events), we can say that:
 
-- Information starts in B and then flows "up the hierarchy" to A
+- Information starts in B and then flows "up the graph" to A
 - A is downstream of B
 - B is upstream of A
 
-When information is flowing down the dependency hierarchy (e.g. with API call), we can say that:
+When information is flowing down the dependency graph (e.g. with API call), we can say that:
 
-- Information starts in A and then flows "down the hierarchy" to B
+- Information starts in A and then flows "down the graph" to B
 - A is upstream of B
 - B is downstream of A
