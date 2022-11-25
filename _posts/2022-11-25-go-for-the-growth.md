@@ -8,7 +8,7 @@ Regarding his idea to start Amazon, [Jeff Bezos said](https://www.cnbc.com/2020/
 
 > "I found this fact on a website that the web was growing at 2,300 percent per year... Anything growing that fast, even if its baseline usage was tiny, it's going to be big. I looked at that, and I was like 'I should come up with a business idea on the internet and let the internet grow around this.'"
 
-Market growth provides tailwinds to startups. With a growing market, startups can succeed even if it makes a lot of mistakes along the way. With a stagnant or shrinking market, startups can execute everything perfectly and still struggle to reach liftoff velocity.
+Market growth provides tailwinds to startups. In a growing market, startups can succeed even if it makes a lot of mistakes along the way. In a stagnant or shrinking market, startups can execute everything perfectly and still struggle to reach liftoff velocity.
 
 This concept can be thought of as a specific flavor of the broader concept of [step 1 and step 2](/posts/step-1-and-step-2.html): step 1 is to solve a problem for a growing market, step 2 is to let that market expand.
 
