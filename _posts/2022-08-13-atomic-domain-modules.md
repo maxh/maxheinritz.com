@@ -17,7 +17,7 @@ The atomic domain modules are `user/` and `tenant/`.
 
 ## Domain encapsulation
 
-An atomic domain module contains all code related to a given domain. It interacts with other modules through well-defined APIs. For inputs and outputs, scalars and data transfer objects (DTOs) rather than raw database records.
+An atomic domain module contains all code related to a given domain. It interacts with other modules through well-defined APIs. For inputs and outputs, it sends and receives scalars and data transfer objects (DTOs) rather than raw database records.
 
 ## Deployment
 
