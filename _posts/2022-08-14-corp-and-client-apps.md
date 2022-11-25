@@ -14,6 +14,10 @@ https://app.foo.com
 https://corp.foo.com
 ```
 
+## What constitutes an "app"?
+
+All pages within a "app" have a consistent [chrome](https://www.nngroup.com/articles/browser-and-gui-chrome/) (or "UI wrapper"), but different apps can have different chromes. Each app can be implemented in its own codebase, or all apps can be implemented in a single codebase. Within an app, the available pages and menu items may be different for different users based on their permissions and configuration.
+
 ## Corp app
 
 With the corp app, teams can move faster with less process when adding new functionality. The client app can be held to a higher bar for product research and design polish.

@@ -4,7 +4,7 @@ layout: note
 tags: ["software patterns"]
 ---
 
-It's helpful to have a standard script for booting up the application. Here's one such example.
+It's helpful to have a standard script for booting up the application in the development environment. Here's one such example.
 
 ```js
 {
