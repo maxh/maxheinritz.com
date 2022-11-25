@@ -18,8 +18,8 @@ Some examples:
 
 - Google, Amazon rose with the early adoption of the web.
 - YouTube, Facebook rose with broadband distribution.
-- Coinbase, Kraken, Robinhood rose with the cryptocurrency.
+- Coinbase, Kraken, Robinhood rose with cryptocurrency.
 - Uber, Lyft, Airbnb, Instagram rose with smartphone adoption.
-- PagerDuty, Amplitude, Stripe rose with the growth of new startups.
+- PagerDuty, Amplitude, Stripe rose with the growth of the startup economy.
 
 What are the next waves to catch?
