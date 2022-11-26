@@ -17,7 +17,7 @@ class: home
 
 **Posts**
 
-{% for post in site.posts %}- [{{ post.title }}]({{ post.url }})
+{% for post in site.posts %}- [{{ post.date | date: "%Y-%m-%d" }} - {{ post.title }}]({{ post.url }})
 {% endfor %}
 
 **Code etc**

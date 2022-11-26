@@ -4,9 +4,9 @@ layout: note
 tags: ["startups"]
 ---
 
-A technique for generating B2C startup ideas is to find something that only rich people have and make it cheaper and affordable for everyone.
+A technique for generating B2C startup ideas is to find something that only rich people have and make it affordable for everyone.
 
-A similar concept holds for B2B startups: find something that only big companies can afford and make it cheaper and affordable for startups. Or a slight variation: find something that only tech companies can manage to implement and make it accessible to non-tech companies.
+A similar concept holds for B2B startups: find something that only big companies can afford and make it affordable for startups. Or a slight variation: find something that only tech companies can manage to implement and make it accessible to non-tech companies.
 
 Examples:
 
