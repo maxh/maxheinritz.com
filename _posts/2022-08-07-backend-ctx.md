@@ -1,7 +1,7 @@
 ---
 title: Backend ctx
 desc: ctx passed around for backend operation
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

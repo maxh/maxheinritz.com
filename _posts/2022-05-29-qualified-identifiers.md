@@ -1,7 +1,7 @@
 ---
 title: Qualified identifiers (QIDs)
 desc: An ARN-like alternative to UUIDs and serial columns
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

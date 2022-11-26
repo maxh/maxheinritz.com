@@ -1,6 +1,6 @@
 ---
 title: Corp and client apps
-layout: note
+layout: post
 tags: ["software patterns", "frontend"]
 ---
 

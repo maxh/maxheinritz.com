@@ -1,6 +1,6 @@
 ---
 title: Domain-driven design
-layout: note
+layout: post
 tags: ["software patterns", "culture", "ddd"]
 ---
 

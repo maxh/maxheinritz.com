@@ -1,6 +1,6 @@
 ---
 title: Find missing indices
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

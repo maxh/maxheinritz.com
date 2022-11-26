@@ -1,7 +1,7 @@
 ---
 title: Dates and times
 desc: Properly handling date and date times
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

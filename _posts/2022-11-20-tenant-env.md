@@ -1,6 +1,6 @@
 ---
 title: Tenant env
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

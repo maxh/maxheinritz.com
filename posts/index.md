@@ -1,6 +1,6 @@
 ---
 title: Posts
-layout: note
+layout: post
 ---
 
 <ul id="post-list">

@@ -1,6 +1,6 @@
 ---
 title: Entities and value objects
-layout: note
+layout: post
 tags: ["software patterns", "ddd"]
 ---
 

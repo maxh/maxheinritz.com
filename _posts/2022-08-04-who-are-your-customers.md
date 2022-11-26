@@ -1,7 +1,7 @@
 ---
 title: Who are your customers?
 desc: A good starting point
-layout: note
+layout: post
 tags: ["startups"]
 ---
 

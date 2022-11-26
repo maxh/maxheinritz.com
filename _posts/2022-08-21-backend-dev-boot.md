@@ -1,6 +1,6 @@
 ---
 title: Backend dev boot
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

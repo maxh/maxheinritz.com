@@ -1,7 +1,7 @@
 ---
 title: Event streaming
 desc: Publishing and consuming through an ordered log of events
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

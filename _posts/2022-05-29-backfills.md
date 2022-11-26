@@ -1,7 +1,7 @@
 ---
 title: Backfills
 desc: A pattern for changing production data
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: React JSON pretty print
 desc: A simple tool for rendering rich JSON
-layout: note
+layout: post
 tags: ["useful code"]
 ---
 

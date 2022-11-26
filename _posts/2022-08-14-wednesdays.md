@@ -1,6 +1,6 @@
 ---
 title: Wednesdays
-layout: note
+layout: post
 tags: ["project management"]
 ---
 

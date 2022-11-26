@@ -1,6 +1,6 @@
 ---
 title: Atomic domain modules
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

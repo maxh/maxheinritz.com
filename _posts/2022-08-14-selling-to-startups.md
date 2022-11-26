@@ -1,6 +1,6 @@
 ---
 title: Selling to startups
-layout: note
+layout: post
 tags: ["startups"]
 ---
 
@@ -14,34 +14,43 @@ tags: ["startups"]
 Many, many successful startups from the past decade followed this playbook, starting with small businesses, growing as their customer grow, and eventually moving upmarket to enterprise sales:
 
 Observability
+
 - Datadog
 
 Analytics
+
 - Heap
 - Mode
 
 Support
+
 - Zendesk
 
 HR
+
 - Gusto
 - Zenefits
 - Rippling
 - Stripe
 
 Compliance
+
 - Vanta
 - Drata
 
 Accounting
+
 - Pilot
 
 Recruiting
+
 - Greenhouse
 
 Logistics
+
 - Flexport
 
 Data labeling
+
 - Scale
 - CrowdFlower

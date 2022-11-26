@@ -1,6 +1,6 @@
 ---
 title: Tenant type
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

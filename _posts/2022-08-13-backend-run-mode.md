@@ -1,6 +1,6 @@
 ---
 title: Backend run mode
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: A problem you could have
 desc: Good startups
-layout: note
+layout: post
 tags: ["startups"]
 ---
 

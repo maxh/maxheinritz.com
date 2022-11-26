@@ -1,6 +1,6 @@
 ---
 title: Entity type
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

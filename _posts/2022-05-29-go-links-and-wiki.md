@@ -1,6 +1,6 @@
 ---
 title: Go links and wikis
-layout: note
+layout: post
 tags: ["tools", "culture"]
 ---
 

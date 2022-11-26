@@ -1,6 +1,6 @@
 ---
 title: Organizing backend code
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

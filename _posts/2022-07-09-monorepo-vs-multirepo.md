@@ -1,7 +1,7 @@
 ---
 title: Monorepo vs multi-repo
 desc: Monorepo vs multi-repo
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

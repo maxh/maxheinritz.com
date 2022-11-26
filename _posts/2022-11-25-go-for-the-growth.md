@@ -1,6 +1,6 @@
 ---
 title: Go for the growth
-layout: note
+layout: post
 tags: ["startups"]
 ---
 

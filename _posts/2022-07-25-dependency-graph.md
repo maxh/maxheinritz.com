@@ -1,7 +1,7 @@
 ---
 title: Dependency graph
 desc: Reasoning about module relationships
-layout: note
+layout: post
 tags: ["software patterns", "ddd"]
 ---
 

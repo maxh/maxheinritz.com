@@ -1,6 +1,6 @@
 ---
 title: Bootstrap
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

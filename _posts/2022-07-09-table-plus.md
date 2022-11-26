@@ -1,6 +1,6 @@
 ---
 title: TablePlus
-layout: note
+layout: post
 tags: ["tools"]
 ---
 

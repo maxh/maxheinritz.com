@@ -1,6 +1,6 @@
 ---
 title: Rich people, big companies
-layout: note
+layout: post
 tags: ["startups"]
 ---
 

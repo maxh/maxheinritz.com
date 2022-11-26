@@ -1,7 +1,7 @@
 ---
 title: Startup stack
 desc: Software I'd use when building a startup.
-layout: note
+layout: post
 tags: ["tools"]
 ---
 

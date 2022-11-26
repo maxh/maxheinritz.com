@@ -1,7 +1,7 @@
 ---
 title: Isomorphic JavaScript
 desc: Sharing code across environments
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

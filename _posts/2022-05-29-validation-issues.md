@@ -1,6 +1,6 @@
 ---
 title: Validation issues
-layout: note
+layout: post
 tools: ["software patterns"]
 ---
 

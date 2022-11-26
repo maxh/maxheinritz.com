@@ -1,6 +1,6 @@
 ---
 title: Transaction boundaries
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

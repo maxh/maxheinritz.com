@@ -1,6 +1,6 @@
 ---
 title: Prefixed env vars
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

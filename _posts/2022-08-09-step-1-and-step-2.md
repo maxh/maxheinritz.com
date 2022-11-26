@@ -1,6 +1,6 @@
 ---
 title: Step 1 and step 2
-layout: note
+layout: post
 tags: ["startups"]
 ---
 
@@ -17,5 +17,5 @@ Examples:
 - Facebook: step 1 social network for elite college students, step 2 social network for everyone.
 - Google: step 1 web search, step 2 search for anything.
 - Stripe: step 1 payments for startups, step 2 new financial system for all companies.
-- Amazon: step 1 buy books online, step 2 buy anything online. 
+- Amazon: step 1 buy books online, step 2 buy anything online.
 - Robinhood: step 1 trade stocks in mobile app, step 2 mobile bank.

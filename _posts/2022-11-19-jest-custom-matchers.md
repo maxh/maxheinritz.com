@@ -1,6 +1,6 @@
 ---
 title: Jest custom matchers
-layout: note
+layout: post
 tags: ["software patterns"]
 ---
 

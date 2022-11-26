@@ -1,6 +1,6 @@
 ---
 title: Laptop stats
-layout: note
+layout: post
 tags: ["tools"]
 ---
 

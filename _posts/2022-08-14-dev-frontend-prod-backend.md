@@ -1,6 +1,6 @@
 ---
 title: Dev frontend with prod backend
-layout: note
+layout: post
 tags: ["software patterns", "frontend"]
 ---
 
