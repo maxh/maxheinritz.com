@@ -3,8 +3,6 @@ title: Posts
 layout: note
 ---
 
-<h3 id="post-header">Posts</h3>
-
 <ul id="post-list">
     {% for post in site.posts %}
         <li class="{% for tag in post.tags %}{{ tag | slugify }} {% endfor %}">
