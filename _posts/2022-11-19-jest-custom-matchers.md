@@ -4,7 +4,13 @@ layout: post
 tags: ["software patterns"]
 ---
 
-In `backend/jest-setup/custom-matchers.ts`, a file like this:
+Jest [custom matchers](https://jestjs.io/docs/expect#expectextendmatchers) make it easy to extend the test framework's functionality. For example, to assert that a value is a QID of a certain type:
+
+```ts
+  expect(entity.qid).toBeQid(EntityType.USER);
+```
+
+Defining a custom matcher requires a bit of configuration. In, say `backend/jest-setup/custom-matchers.ts`, a file like this:
 
 ```ts
 import { EntityType } from "src/isomorphic/entity/entity-type";
@@ -35,7 +41,7 @@ declare global {
 }
 ```
 
-In `jest.config.ts`:
+And then in `jest.config.ts`:
 
 ```ts
 {
@@ -43,3 +49,5 @@ In `jest.config.ts`:
   setupFilesAfterEnv: ['<rootDir>/jest-setup/custom-matchers.ts'],
 }
 ```
+
+This will make the matchers available in all tests.
