@@ -12,7 +12,7 @@ Complex business operations may be implemented with one or multiple database tra
 
 To keep a system modular, I find it's best to limit the scope of transaction boundaries to the narrowest boundary allowed by business requirements. If two pieces of data do not need to be written in a single transaction, they shouldn't be, especially across domains.
 
-This leaves open the option of pulling out separate microservices for each domain by changing in-memory service calls to gRPC methods, without refactoring transaction boundaries. Broadly, I think of service classes as placeholder microservice boundaries that we may actually want to split into microservices someday to scale.
+This leaves open the option of pulling out separate microservices for each domain by changing in-memory service calls to gRPC methods, without refactoring transaction boundaries.
 
 ## Use cases for database transactions with wide boundaries
 
