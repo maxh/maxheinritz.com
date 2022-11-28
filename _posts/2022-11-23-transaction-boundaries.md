@@ -4,9 +4,9 @@ layout: post
 tags: ["software patterns"]
 ---
 
-Database transactions are useful for making an atomic update that writes multiple pieces of data. The _transaction boundary_ refers to the borders of the transaction -- where it begins and ends.
+Transactions are useful for making atomic updates to database state. The term "transaction boundary" refers to the borders of the transaction -- where it begins and ends.
 
-Complex business operations may be implemented with one or multiple database transactions. Therefore a question arises during implementation as to where to place transaction boundaries.
+Complex business operations may be implemented with one or multiple database transactions. Therefore, a question arises during software design as to where to place transaction boundaries.
 
 ## Narrow transaction boundaries
 
