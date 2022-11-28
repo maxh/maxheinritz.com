@@ -12,9 +12,9 @@ Market growth provides tailwinds to startups. In a growing market, a startup can
 
 This concept can be thought of as a specific flavor of the broader concept of [step 1 and step 2](/posts/step-1-and-step-2.html): step 1 is to solve a problem for a growing market, step 2 is to let that market expand.
 
-The overall story of Silicon Valley for the last several decades has been one of growth as computers make their way into every aspect of our lives. Within that giant wave, there have been smaller waves, and the task when starting a new company is to identify new smaller wave to surf.
+The Silicon Valley's overall story the last few decades has been massive growth in the technology industry as computers make their way into every aspect of our lives. Within that giant wave of growth, there have been smaller waves, and the task when starting a new company is to identify new smaller wave to ride along.
 
-Some examples:
+Some historical examples:
 
 - Google, Amazon rose with the early adoption of the web.
 - YouTube, Facebook rose with broadband distribution.
