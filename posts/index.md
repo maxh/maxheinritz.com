@@ -1,13 +1,13 @@
 ---
 title: Posts
-layout: post
+layout: posts
 ---
 
 <ul id="post-list">
     {% for post in site.posts %}
         <li class="{% for tag in post.tags %}{{ tag | slugify }} {% endfor %}">
             <a href="{{ post.url }}">
-                {{ post.title }}
+                {{ post.date | date: "%Y-%m-%d" }} {{ post.title }}
             </a>
         </li>
     {% endfor %}
