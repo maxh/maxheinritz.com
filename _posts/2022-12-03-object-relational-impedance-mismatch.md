@@ -48,18 +48,18 @@ model User {
 // it easier to rename them. Only one row needs to be
 // backfilled, instead of every user and role.
 model Role {
-  qid       String   @id
+  qid       String @id
   slug      String @unique
   userRoles DbUserRole[]
 }
 
 // A many-to-many join between users and roles.
 model UserRole {
-  qid     String   @id
+  qid     String @id
   roleQid String
   userQid String
-  role    DbRole   @relation(fields: [roleQid], references: [qid])
-  user    DbUser   @relation(fields: [userQid], references: [qid])
+  role    DbRole @relation(fields: [roleQid], references: [qid])
+  user    DbUser @relation(fields: [userQid], references: [qid])
   @@unique([roleQid, userQid])
 }
 ```
