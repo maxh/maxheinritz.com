@@ -54,3 +54,34 @@ The data in `ctx` is also used to populate the `revisionSource` for entity revis
   },
 }
 ```
+
+## Decorator
+
+For GraphQL resolvers and REST controllers, it's helpful to have an `@Ctx()` decorator for usage like:
+
+```tsx
+@Ctx() ctx: CtxDto,
+```
+
+Implementation looks something like:
+
+```tsx
+export const Ctx = createParamDecorator<unknown, ExecutionContext, CtxDto>(
+  (_, context): CtxDto => {
+    if (context.getType() == "http") {
+      return ctxForHttp(context);
+    }
+
+    if (context.getType() === "graphql") {
+      const gqlExecutionContext = GqlExecutionContext.create(context);
+      const { path } = gqlExecutionContext.getInfo();
+      const getCtxForPath: (path: Path) => CtxDto =
+        gqlExecutionContext.getContext().getCtxForPath;
+
+      return getCtxForPath(path);
+    }
+
+    throw new Error(`Unable to get ctx from session: ${context}`);
+  }
+);
+```
