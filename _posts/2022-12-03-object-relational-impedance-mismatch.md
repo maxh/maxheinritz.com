@@ -107,7 +107,7 @@ const getUser = (qid: Qid) => {
 };
 ```
 
-This adds quite a bit of overhead. But it allows idiomatic use of relation tables and also domain-focused entity design.
+This adds quite a bit of overhead. But it allows idiomatic use of relation tables in the database and idiomatic entity design in the code itself.
 
 Another use case is supplementary tables for union data. One central shipment table, with info tables for specific modes: FTL, LTL, parcel, etc. I like to suffix these table names with "info" to make it clear they are not entity tables. So for example, you might have:
 
