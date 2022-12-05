@@ -4,7 +4,7 @@ layout: post
 tags: ["startups"]
 ---
 
-An important question for a startup is whether to solve an existing, well-understood problem (enter a mature market) or to find and solve a new problem (create a new market). In both cases, the size of the opportunity can be roughly assessed by looking at the market caps of the closest incumbent players. The larger the market cap, the bigger the opportunity.
+Startups can either solve an existing, well-understood problem (enter a mature market) or to discover and solve a new problem (create a new market). In both cases, the size of the opportunity can be roughly assessed by looking at the market caps of the closest incumbent players. The larger the market cap, the bigger the opportunity.
 
 It may make sense in some situations to target lower market cap incumbents if there's a compelling narrative about how the market will expand (e.g. by selling to smaller companies) or how your startup can aggregate a previously fragmented market (e.g. similar to Uber with taxis).
 
