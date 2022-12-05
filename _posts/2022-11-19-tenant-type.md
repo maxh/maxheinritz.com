@@ -24,7 +24,7 @@ export const TenantType = Enum({
   /**
    * A client tenant.
    * There are many tenants of this type.
-   * Users in these tenants have CUSTOMER_ roles.
+   * Users in these tenants have CLIENT_ roles.
    * Users in these tenants should have real emails and secure passwords.
    * This tenant type supports all TenantEnvs.
    */
@@ -33,7 +33,7 @@ export const TenantType = Enum({
   /**
    * A demo tenant.
    * There are many tenants of this type.
-   * Users in these tenants have CUSTOMER_ roles.
+   * Users in these tenants have CLIENT_ roles.
    * Users in these tenants may have fake emails and simple passwords.
    * This tenant type only supports TenantEnv.FAKE.
    */
