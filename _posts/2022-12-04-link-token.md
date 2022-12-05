@@ -9,9 +9,9 @@ A common web application use case is allowing unauthenticated users to access sp
 I think of these kinds of pages as "mini apps", where the tokens in the URL serve as the authentication mechanism in lieu of full user credentials. The tokens for these links can be generated and persisted as "link token" entities on the backend. Each link token includes "info" needed to parameterize the mini-application when the link is clicked.
 
 ```
-// Tenant constraints (if any) are defined within the info.
-model DbLinkToken {
-  ///no-tenant-field
+// Tenant constraints (if any) are defined within the info,
+// rather than with LinkToken.tenantQid.
+model LinkToken {
   qid                String    @id
   createdAt          DateTime  @default(now())
   noLongerValidAfter DateTime?
@@ -33,11 +33,9 @@ model DbLinkToken {
   // JSON data relevant to the token, with a standard
   // structure for a given link token type.
   info Json
-
-  @@map(name: "link_token")
 }
 ```
 
-On the frontend, the token is extracted from a URL and passed in a header to the backend. In an authentication middleware, the header is inspected and a value is set on the `request` object, which can then be used to populate `ctx.linkToken` for service calls and authorization purposes.
+On the frontend, the token is extracted from a URL and passed in a header to the backend. In an authentication middleware, the header is inspected, and a value is set on the `request` object, which can then be used to populate `ctx.linkToken` for service calls and authorization purposes.
 
 What happens if a user is authenticated with a cookie and then clicks a tokenized link? The simplest thing to do is treat `ctx.linkToken` and `ctx.user` as mutually exclusive, with the link token taking precedence.
