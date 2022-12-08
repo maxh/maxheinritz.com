@@ -16,7 +16,7 @@ https://corp.foo.com
 
 ## What constitutes an "app"?
 
-All pages within a "app" have a consistent [chrome](https://www.nngroup.com/articles/browser-and-gui-chrome/) (or "UI wrapper"), but different apps can have different chromes. Each app can be implemented in its own codebase, or all apps can be implemented in a single codebase. Within an app, the available pages and menu items may be different for different users based on their permissions and configuration.
+All pages within an "app" have a consistent [chrome](https://www.nngroup.com/articles/browser-and-gui-chrome/) (or "UI wrapper"), but different apps can have different chromes. Each app can be implemented in its own codebase, or all apps can be implemented in a single codebase. Within an app, the available pages and menu items may be different for different users based on their permissions and configuration.
 
 ## Corp app
 
