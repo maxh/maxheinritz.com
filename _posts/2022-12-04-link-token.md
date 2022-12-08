@@ -4,7 +4,7 @@ layout: post
 tags: ["software patterns"]
 ---
 
-A common web application use case is allowing unauthenticated users to access specific pages for a limited purposes. One example is a password reset form, where a user requests to reset their password and receives a short-lived password reset link. The linked page allows them to reset their password. Other examples include generating a link to share shipment tracking data or payment remittance information with external users who may or may not have accounts.
+A common web application use case is allowing unauthenticated users to access specific pages for a limited purpose. One example is a password reset form, where a user requests to reset their password and receives a short-lived password reset link. Other examples include generating a link to share shipment tracking data or payment remittance information with external users who may or may not have accounts.
 
 I think of these kinds of pages as "mini apps", where the tokens in the URL serve as the authentication mechanism in lieu of full user credentials. The tokens for these links can be generated and persisted as "link token" entities on the backend. Each link token includes "info" needed to parameterize the mini-application when the link is clicked.
 
