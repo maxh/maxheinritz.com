@@ -4,7 +4,7 @@ layout: post
 tags: ["software patterns"]
 ---
 
-A nice characteristic of web application development is the speed with which changes can be deployed. Best practice for most applications is continuous deployment, where every commit to the `main` branch kick off a new deploy (with some batching).
+A nice characteristic of web application development is the speed with which changes can be deployed. Continuous deployment is appropriate in most cases, where every commit to the `main` branch kick off a new deploy (with some batching).
 
 For backend code, server instances can be updated in a rolling fashion and guaranteed to be updated. For frontend code, however, users may have an old version of the application running in their browser even after a new version deploys. The user has to reload the web application to get the latest version.
 
