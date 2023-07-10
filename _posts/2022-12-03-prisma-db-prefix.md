@@ -10,7 +10,7 @@ I prefer to write business logic with simpler serializable domain entities. Ther
 
 It's nice to make it clear in naming that the Prisma-generated types are tightly coupled to the database and should be avoided in business logic. You can prefix model names with `Db` and manually define a simple table name:
 
-```
+```prisma
 model DbTenant {
   qid        String @id
   name       String @unique

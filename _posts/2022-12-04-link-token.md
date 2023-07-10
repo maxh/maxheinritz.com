@@ -8,7 +8,7 @@ A common web application use case is allowing unauthenticated users to access sp
 
 I think of these kinds of pages as "mini apps", where the tokens in the URL serve as the authentication mechanism in lieu of full user credentials. The tokens for these links can be generated and persisted as "link token" entities on the backend. Each link token includes "info" needed to parameterize the mini-application when the link is clicked.
 
-```
+```prisma
 // Tenant constraints (if any) are defined within the info,
 // rather than with LinkToken.tenantQid.
 model LinkToken {

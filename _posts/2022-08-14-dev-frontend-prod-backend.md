@@ -8,13 +8,13 @@ During frontend development, I like being able to connect directly to the produc
 
 ```sh
 # dev frontend
-https://app.dfoo.xyz:4000
+https://app.dev.foo.com:4000
 
 # use a button in the dev frontend UI
 # to toggle between either:
 
 # (1) dev backend
-https://api.dfoo.xyz:3000
+https://api.dev.foo.com:3000
 
 # or (2) prod backend
 https://api.foo.com
