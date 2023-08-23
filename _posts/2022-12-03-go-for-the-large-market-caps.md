@@ -52,22 +52,19 @@ Airlines are a famously low-margin business, but I'm surprised by the variance h
 
 ## Logistics
 
-While the largest asset-owning ocean carriers are valuable, pure forwarders and brokerages aren't especially valuable. I'm also surprised how much larger the ocean carriers are relative to the air carriers.
-
-- Maersk - 277.28 billion
-- UPS - 163.81 billion
-- MSC - 100.67 billion
-- FedEx - 47.21 billion
-- DHL - 47.88 billion
-- DSV - 35.30 billion
-- Old Dominion Freight Line, Inc. - 33.33 billion
-- J.B. Hunt - 18.93 billion
-- Expeditors - 18.38 billion
-- C.H. Robinson - 11.38 billion
+- Maersk - 33 billion
+- UPS - 163 billion
+- FedEx - 47 billion
+- DHL - 47 billion
+- DSV - 35 billion
+- Old Dominion Freight Line, Inc. - 33 billion
+- J.B. Hunt - 18 billion
+- Expeditors - 18 billion
+- C.H. Robinson - 11 billion
 
 ## Food
 
-Looks like food is tough unless you're selling something high processed and preservable. 
+Looks like food is tough unless you're selling something high processed and preservable.
 
 - Pepsico - 255.83 billion
 - Sysco Foods - 43.24 billion
