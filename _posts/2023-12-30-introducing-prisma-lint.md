@@ -4,13 +4,12 @@ layout: post
 tags: ["open source"]
 ---
 
-A few months ago I released [prisma-lint](https://github.com/loop-payments/prisma-lint), an open source version of a tool used internally at [Loop](https://loop.com) for a few years. It's a linter for [Prisma](https://www.prisma.io/) schema files.
+A few months ago we released [prisma-lint](https://github.com/loop-payments/prisma-lint), an open source version of a tool used internally at [Loop](https://loop.com) for a few years. It's a linter for [Prisma](https://www.prisma.io/) schema files.
 
 ## Example
 
 A schema file looks like this:
 
-`schema.prisma`
 ```prisma
 model User {
   id String @id @default(uuid())
@@ -28,20 +27,20 @@ model Tenant {
   createdAt DateTime
 }
 ```
+`schema.prisma`
 
 The linter can enforce style preferences like singular model names (`User` not `Users`) as well as behaviors such as requiring all tables to have a `createdAt` field. Here's an example configuration:
 
-`.prismalintrc.json`
 ```json
 { 
   "model-name-grammatical-number": ["error", { "style": "singular" }],
   "require-field": ["error", { "require": [ "createdAt" ]}]
 }
 ```
+`.prismalintrc.json`
 
 The schema file is used to generate database migrations and application-level types. The linter can enforce rules that impact this generated code, such as requiring snake case database table names and a prefix for generated types:
 
-`schema.prisma`
 ```prisma
 model DbUser {
   // ...
@@ -53,8 +52,8 @@ model DbTenant {
   @@map(name: "tenant")
 }
 ```
+`schema.prisma`
 
-`.prismalintrc.json`
 ```json
 { 
   // ...
@@ -62,6 +61,7 @@ model DbTenant {
   "model-name-prefix": ["error", { "prefix": "Db" }],
 }
 ```
+`.prismalintrc.json`
 
 One of the more powerful rules is `require-field-index`, which can be configured to require all fields used in relations be indexed.
 
