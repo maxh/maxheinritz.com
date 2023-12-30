@@ -1,5 +1,5 @@
 ---
-title: Introducing `prisma-lint`
+title: Introducing prisma-lint
 layout: post
 tags: ["open source"]
 ---
