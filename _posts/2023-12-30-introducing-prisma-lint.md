@@ -4,7 +4,7 @@ layout: post
 tags: ["open source"]
 ---
 
-A few months ago we released [prisma-lint](https://github.com/loop-payments/prisma-lint), an open source version of a tool used internally at [Loop](https://loop.com) for a few years. It's a linter for [Prisma](https://www.prisma.io/) schema files.
+A few months ago I released [prisma-lint](https://github.com/loop-payments/prisma-lint), an open source version of a tool we use internally at [Loop](https://loop.com). It's a linter for [Prisma](https://www.prisma.io/) schema files.
 
 ## Example
 
@@ -71,7 +71,7 @@ I was inspired by ESLint (especially for the configuration file schema) as well 
 
 Shout out to [Jeremy Liberman](https://github.com/MrLeebo) for writing the schema [parser](https://github.com/MrLeebo/prisma-ast) used under the hood. We worked together to expose AST node location data for contextual output: [PR #25](https://github.com/MrLeebo/prisma-ast/pull/25), [PR #26](https://github.com/MrLeebo/prisma-ast/pull/26).
 
-Shout outs also to Sean Nicolay, Shu Liu, and Evan Richards -- coworkers at Loop who wrote the initial internal implementations of a few rules.
+Shout outs also to Sean Nicolay, Shu Liu, and Evan Richards -- co-workers at Loop who wrote the initial internal implementations of a few rules.
 
 ## Livestream
 
@@ -79,4 +79,4 @@ The Prisma team asked me to speak about it on their livestream, which you can vi
 
 ## Follow up
 
-Some of the more fun parts of this project include tooling to automate releases and support for neovim diagnostics. I may write follow up posts to go deeper on those. 
+Some of the more fun parts of this project include tooling to automate releases and support for Neovim diagnostics. I may write follow-up posts to go deeper on those. 
