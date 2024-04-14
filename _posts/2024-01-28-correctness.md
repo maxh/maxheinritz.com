@@ -24,7 +24,7 @@ We can extend the pyramid to include all these techniques, forming a "correctnes
 
 * _Metrics monitoring_ - Automated alerts based on metrics thresholds. These can be either business-related (percent of invoices automatically approved in the last 24 hours) or purely technical (error count over period of time, CPU utilization, etc).
 
-* _Metrics dashboards_ - Charts for periodic manual review. Again, these can be either business or technical metrics. Often the line is blurry, for example did we fail to automatically approve invoices because the machine learning pipeline was broken, or because we're seeing new shapes of invoice data for the first time?)
+* _Metrics dashboards_ - Charts for periodic manual review. Again, these can be either business or technical metrics. Often the line is blurry, for example did we fail to automatically approve invoices because the machine learning pipeline was broken, or because we're seeing new shapes of invoice data for the first time?
 
 * _User bug reports_ - Direct feedback from users about what is not working.
 
