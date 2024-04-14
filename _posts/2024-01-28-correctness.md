@@ -4,7 +4,7 @@ layout: post
 tags: []
 ---
 
-The [test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) is a framework for reasoning about the relationships between different testing strategies. The goal of most [0] tests is to ensure correctness. There are other, non-testing techniques for guaranteeing correctness. How do those relate to tests in the context of the pyramid framework?
+The [test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) is a framework for reasoning about the relationships among different testing strategies. The goal of most [0] tests is to ensure correctness. There are other, non-testing techniques for guaranteeing correctness. How do those relate to tests in the context of the pyramid framework?
 
 We can extend the pyramid to include all these techniques, forming a "correctness bucket list." It's not really a pyramid per se, but a list of techniques to consider as scale grows. 
 
