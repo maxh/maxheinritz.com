@@ -30,7 +30,7 @@ Eric Evans later clarified his perspective – that when it comes to defining ag
 ## Examples
 
 - Ruleset and its rules (for digital representation of a contract).
-- Invoices and its line items.
+- Invoice and its line items.
 - Shipment and its route.
 
 ## Ways in which data can be grouped
