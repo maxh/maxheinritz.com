@@ -53,7 +53,7 @@ header h1 {
   opacity: 1;
 }
 
-.top img {
+.top .brand {
   animation: none;
 }
 
@@ -76,10 +76,6 @@ header h1 {
   header h1 {
     font-size: 32px;
   }
-  .top .role-detail {
-    display: block;
-    padding-left: 1em;
-  }
   .comma {
     display: none;
   }
@@ -97,11 +93,8 @@ header h1 {
   .top li {
     margin-top: 15px;
   }
-  .role-detail {
-    margin-top: 4px;
-  }
-  .top img {
-    width: 60px;
+  .top .brand {
+    width: 40px;
     margin-bottom: 15px;
   }
   .two .name-detail {
@@ -110,9 +103,6 @@ header h1 {
 }
 
 @media (min-width: 541px) {
-  .role {
-    padding-right: 0.4em;
-  }
   header h1 {
     font-size: 36px;
   }
@@ -124,23 +114,11 @@ header h1 {
   .top li {
     margin-top: 10px;
   }
-  .top img {
-    width: 100px;
+  .top .brand {
+    width: 60px;
     margin-right: 40px;
   }
   .one .name-detail {
-    display: none;
-  }
-}
-
-@media (max-width: 320px) {
-  .top .role-detail.long {
-    display: none;
-  }
-}
-
-@media (min-width: 321px) {
-  .top .role-detail.brief {
     display: none;
   }
 }
@@ -210,10 +188,6 @@ header h1 {
   opacity: 0.5;
 }
 
-.detail .roles {
-  display: none;
-}
-
 @media (max-width: 540px) {
   .detail .email {
     display: none;
@@ -221,6 +195,10 @@ header h1 {
   .detail .top .two {
     display: none;
   }
+}
+
+.detail .top {
+  display: none;
 }
 
 /* Essay page. */
@@ -260,7 +238,7 @@ header h1 {
 
 /* Project pages */
 
-.project main {
+.project .cols {
   display: flex;
   flex-direction: column;
 }
@@ -269,14 +247,14 @@ header h1 {
   padding-bottom: 40px;
 }
 
-.project main img {
+.project .cols img {
   max-width: 100%;
   display: block;
   margin-bottom: 40px;
 }
 
 @media (min-width: 860px) {
-  .project main {
+  .project .cols {
     display: flex;
     flex-direction: row;
   }
@@ -297,19 +275,3 @@ header h1 {
   font-family: "Courier New", Courier, monospace;
 }
 
-/* consultation page. */
-
-.consultation .top {
-  opacity: 0.5;
-}
-
-@media (max-width: 540px) {
-  .consultation .top .two {
-    display: none;
-  }
-}
-
-.custom-table th,
-.custom-table td {
-  padding: 5px;
-}
