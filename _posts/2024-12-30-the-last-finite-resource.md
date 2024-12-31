@@ -42,7 +42,7 @@ Technology has always reshaped labor markets, replacing some jobs while creating
 
 In such a future, I expect impact to become the primary human pursuit. All other human needs will be provided for by machines. We see early signs among the generationally wealthy and new tech titans, who already live in a world of abundance. Rather than play videogames all day, many of them gravitate toward art, academia, politics, entrepreneurship, and philanthropy—fields that offer impact.
 
-But our collective capacity to be meaningfully influenced is fundamentally finite. Eight billion people, each with 24 hours a day and limited cognitive bandwidth. As more people are unshackled from their jobs to pursue impact directly, and as AI's ability to generates appealing stimulation improves, the competition for impact will intensify. Social media already exhibits these dynamics, with creators chasing attention in an increasingly crowded market. I suspect this offers a preview of what's coming for the broader economy.
+But our collective capacity to be meaningfully influenced is fundamentally finite. Eight billion people, each with 24 hours a day and limited cognitive bandwidth. As more people are unshackled from their jobs to pursue impact directly, and as AI's ability to generate appealing stimulation improves, the competition for impact will intensify. Social media already exhibits these dynamics, with creators chasing attention in an increasingly crowded market. I suspect this offers a preview of what's coming for the broader economy.
 
 ### Preparing
 
