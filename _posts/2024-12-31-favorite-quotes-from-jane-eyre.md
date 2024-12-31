@@ -58,5 +58,5 @@ What has changed? The outward markers of social class, the prominence of religio
 
 ### As innovation
 
-We have to be told how to appreciate how to some art from the past: it was innovative at the time, but doesn’t seem particularly special to modern eyes because it’s been copied so much. Seinfeld comes to mind. But this novel needs no such qualification. It’s strikingly original and resonant nearly 200 years after publication.
+We have to be told how to appreciate some art from the past: it was innovative at the time, but doesn’t seem particularly special to modern eyes because it’s been copied so much. Seinfeld comes to mind. But this novel needs no such qualification. It’s strikingly original and resonant nearly 200 years after publication.
 
