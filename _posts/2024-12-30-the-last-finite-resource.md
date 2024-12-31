@@ -63,6 +63,7 @@ And finally, an abundance mindset. While the competition for impact will increas
 - Kurt Vonnegut's _Player Piano_ - a 1950’s novel about automation's impact on human purpose and meaning
 - Peter Turchin's work on "elite overproduction" - how competition for status intensifies as wealth grows
 - Tyler Cowen's _Average is Over_ - economic implications of human-machine collaboration
+- Co-creator of _The Wire_ David Simon's [perspective on West Baltimore](https://www.youtube.com/watch?v=SL6Jv2Jpnpg&t=330s)
 - Robert Nozick's _Experience Machine_ - what is it that machines cannot offer?
 - Status as a Service (StaaS) by Eugene Wei - on the dynamics of social media
 - Burning Man - an experiment in post-scarcity culture and the human drive for impact
