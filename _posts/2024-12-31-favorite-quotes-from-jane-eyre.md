@@ -8,7 +8,7 @@ I love this book. One of those books I would have skimmed in high school English
 
 ### On appreciation of the natural world
 
-The novel is about human endeavor, yet at interludes Jane turns her attention, the reader’s attention, to the natural world in a spirit of wonder and awe. What a relatable experience. The pace of the novel mirrors the way my own mind dials up and down focus through space and time, from the task at hand to the beauty of the tree outside.
+The novel is about human endeavor, yet at interludes Jane turns her attention, the reader’s attention, to the natural world in a spirit of wonder and awe. So relatable. The pace of the novel mirrors the way my own mind dials up and down focus through space and time, from the task at hand to the beauty of the tree outside.
 
 > I lingered at the gates; I lingered on the lawn; I paced backwards and forwards on the pavement; the shutters of the glass door were closed; I could not see into the interior; and both my eyes and spirit seemed drawn … to that sky expanded before me,--a blue sea absolved from taint of cloud; the moon ascending it in solemn march; her orb seeming to look up as she left the hill-tops, from behind which she had come, far and farther below her, and aspired to the zenith, midnight dark in its fathomless depth and measureless distance; and for those trembling stars that followed her course; they made my heart tremble, my veins glow when I viewed them. Little things recall us to earth; the clock struck in the hall; that sufficed; I turned from moon and stars, opened a side-door, and went in.
 
@@ -28,14 +28,6 @@ Mr Rochester and Jane are both famously unattractive. Their love is forged in ot
 
 >Most true is it that "beauty is in the eye of the gazer." My master's colourless, olive face, square, massive brow, broad and jetty eyebrows, deep eyes, strong features, firm, grim mouth,--all energy, decision, will,--were not beautiful, according to rule; but they were more than beautiful to me; they were full of an interest, an influence that quite mastered me,--that took my feelings from my own power and fettered them in his.
 
-### The irrationality of love 
-
-Something we can all relate to.
-
->But in other points, as well as this, I was growing very lenient to my master; I was forgetting all his faults, for which I had once kept a sharp look-out.
-
->I had not intended to love him; the reader knows I had wrought hard to extricate from my soul the germs of love there detected; and now, at the first renewed view of him, they spontaneously revived, green, and strong! He made me love him without looking at me.
-
 ### On “all is fair in love and war”
 
 The many-layered deceit involved in Mr Rochester’s courtship of Jane irks me: his hiding of Bertha, his feigning interest in other women, his dressing up as a fortune teller. And yet in the end… it worked. Jane forgives it all. The book does not shy away from the undercurrents of impropriety that fuel many of our strongest romantic connections.
@@ -50,21 +42,21 @@ This quote speaks to me as an introvert who finds comfort in socializing in unse
 
 ### On masculine and feminine polarity
 
-Jane is feminine yet strong-willed. There is a tension within her between pursuing independence vs submitting herself. She calls her lover her "master", and she's naturally drawn to his command:
+Jane is feminine yet strong-willed. There is a tension within her between independence and submission. She calls her lover her "master", and she's naturally drawn to his command:
 
 >Mr. Rochester had such a direct way of giving orders, it seemed a matter of course to obey him promptly.
 
-And this spirit reveals itself in relation to her cousin Diana as well:
+And this inclination reveals itself in relation to her cousin Diana as well:
 
 >It was my nature to feel pleasure in yielding to an authority supported like hers, and to bend, where my conscience and self-respect permitted, to an active will.
 
-I find such nuanced duality is more common than discussed in public discourse.
+I find many modern women (and some men) navigate the same duality.
 
 ### As a window into earlier iteration of human society
 
-What has changed? The outward markers of social class, the prominence of religion, the freedoms afforded to women. What has not? Sharp divisions between classes, our experience of beauty in others and the natural world, the mistreatment of mentally ill, power dynamics in social relationships, what it's like to be human.
+What has changed? The outward markers of social class, the prominence of religion, the freedoms afforded to women. What has not? Sharp divisions between classes, our experience of beauty in others and the natural world, the mistreatment of mentally ill, power dynamics in social relationships, what it's like to be alive.
 
 ### As innovation
 
-Some art from the past we have to be reminded to appreciate: it was innovative at the time, but doesn’t seem that original now because it’s been copied so much. Seinfeld comes to mind. But this novel needs no such qualification. It’s strikingly original and resonant nearly 200 years after publication.
+We have to be told how to appreciate how to some art from the past: it was innovative at the time, but doesn’t seem particularly special to modern eyes because it’s been copied so much. Seinfeld comes to mind. But this novel needs no such qualification. It’s strikingly original and resonant nearly 200 years after publication.
 
