@@ -4,7 +4,7 @@ layout: post
 tags: []
 ---
 
-I love this book. One of those books I would have skimmed in high school English but as an adult will read again and again. One of those books that embodies David Foster Wallace’s observation that “fiction’s about what it is to be a fucking human being.” A few quotes that resonated:
+I love this book. One of those books I would have skimmed in high school English but as an adult will read again and again. One of those books that embodies David Foster Wallace’s observation “fiction’s about what it is to be a fucking human being.”
 
 ### On appreciation of the natural world
 
