@@ -67,3 +67,4 @@ And finally, an abundance mindset. While the competition for impact will increas
 - Robert Nozick's _Experience Machine_ - what is it that machines cannot offer?
 - Status as a Service (StaaS) by Eugene Wei - on the dynamics of social media
 - Burning Man - an experiment in post-scarcity culture and the human drive for impact
+- [By default, capital will matter more than ever after AGI](https://www.lesswrong.com/posts/KFFaKu27FNugCHFmh/by-default-capital-will-matter-more-than-ever-after-agi)
