@@ -6,14 +6,6 @@ tags: []
 
 I love this book. One of those books I would have skimmed in high school English but as an adult will read again and again. One of those books that embodies David Foster Wallace’s observation “fiction’s about what it is to be a fucking human being.”
 
-### On the nature of human consciousness
-
-Our cognition is borne of a particular biological substrate -- this is reflected in our input and output channels as well as our emotional reward systems. Jane has such prescient recognition of the nature of mind, a century before science fiction came on the scene to explore these ideas further:
-
-> What a still, hot, perfect day! What a golden desert this spreading moor! Everywhere sunshine. I wished I could live in it and on it. I saw a lizard run over the crag; I saw a bee busy among the sweet bilberries. I would fain at the moment have become bee or lizard, that I might have found fitting nutriment, permanent shelter here. But I was a human being, and had a human being’s wants: I must not linger where there was nothing to supply them. I rose; I looked back at the bed I had left. Hopeless of the future, I wished but this—that my Maker had that night thought good to require my soul of me while I slept; and that this weary frame, absolved by death from further conflict with fate, had now but to decay quietly, and mingle in peace with the soil of this wilderness. Life, however, was yet in my possession, with all its requirements, and pains, and responsibilities. The burden must be carried; the want provided for; the suffering endured; the responsibility fulfilled. I set out.
-
-> We were born to strive and endure -- you as well as I: do so.
-
 ### On appreciation of the natural world
 
 The novel is a story of human life, yet at interludes Jane turns her attention, and the reader’s attention, to the natural world in a spirit of awe. The pace of the novel mirrors the way my own focus dials up and down through space and time, from the task at hand to the beauty of the tree outside.
@@ -41,6 +33,14 @@ Mr. Rochester and Jane are both famously unattractive. Their love is forged in o
 The many-layered deceit involved in Mr Rochester’s courtship of Jane irks me: his hiding of Bertha, his feigning interest in other women, his dressing up as a fortune teller. And yet in the end… it worked. Jane forgives it all. The book does not shy away from the undercurrents of impropriety that fuel many of our strongest romantic connections.
 
 >Well, I feigned courtship of Miss Ingram, because I wished to render you as madly in love with me as I was with you; and I knew jealousy would be the best ally I could call in for the furtherance of that end.
+
+### On the nature of human consciousness
+
+Our cognition is borne of a particular biological substrate -- this is reflected in our input and output channels as well as our emotional reward systems. Jane has such prescient recognition of the nature of mind, a century before science fiction came on the scene to explore these ideas further:
+
+> What a still, hot, perfect day! What a golden desert this spreading moor! Everywhere sunshine. I wished I could live in it and on it. I saw a lizard run over the crag; I saw a bee busy among the sweet bilberries. I would fain at the moment have become bee or lizard, that I might have found fitting nutriment, permanent shelter here. But I was a human being, and had a human being’s wants: I must not linger where there was nothing to supply them. I rose; I looked back at the bed I had left. Hopeless of the future, I wished but this—that my Maker had that night thought good to require my soul of me while I slept; and that this weary frame, absolved by death from further conflict with fate, had now but to decay quietly, and mingle in peace with the soil of this wilderness. Life, however, was yet in my possession, with all its requirements, and pains, and responsibilities. The burden must be carried; the want provided for; the suffering endured; the responsibility fulfilled. I set out.
+
+> We were born to strive and endure -- you as well as I: do so.
 
 ### On the subtler pleasures of socialization
 
