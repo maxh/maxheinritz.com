@@ -6,9 +6,17 @@ tags: []
 
 I love this book. One of those books I would have skimmed in high school English but as an adult will read again and again. One of those books that embodies David Foster Wallace’s observation “fiction’s about what it is to be a fucking human being.”
 
+### On the nature of human consciousness
+
+Our cognition is borne of a particular biological substrate -- this is reflected in our input and output channels as well as our emotional reward systems. Jane has such prescient recognition of the nature of mind, a century before science fiction came on the scene to explore these ideas further:
+
+> What a still, hot, perfect day! What a golden desert this spreading moor! Everywhere sunshine. I wished I could live in it and on it. I saw a lizard run over the crag; I saw a bee busy among the sweet bilberries. I would fain at the moment have become bee or lizard, that I might have found fitting nutriment, permanent shelter here. But I was a human being, and had a human being’s wants: I must not linger where there was nothing to supply them. I rose; I looked back at the bed I had left. Hopeless of the future, I wished but this—that my Maker had that night thought good to require my soul of me while I slept; and that this weary frame, absolved by death from further conflict with fate, had now but to decay quietly, and mingle in peace with the soil of this wilderness. Life, however, was yet in my possession, with all its requirements, and pains, and responsibilities. The burden must be carried; the want provided for; the suffering endured; the responsibility fulfilled. I set out.
+
+> We were born to strive and endure -- you as well as I: do so.
+
 ### On appreciation of the natural world
 
-The novel is a story of human life, yet at interludes Jane turns her attention, the reader’s attention, to the natural world in a spirit of wonder and awe. So relatable. The pace of the novel mirrors the way my own mind dials up and down focus through space and time, from the task at hand to the beauty of the tree outside.
+The novel is a story of human life, yet at interludes Jane turns her attention, and the reader’s attention, to the natural world in a spirit of awe. The pace of the novel mirrors the way my own focus dials up and down through space and time, from the task at hand to the beauty of the tree outside.
 
 > I lingered at the gates; I lingered on the lawn; I paced backwards and forwards on the pavement; the shutters of the glass door were closed; I could not see into the interior; and both my eyes and spirit seemed drawn … to that sky expanded before me,--a blue sea absolved from taint of cloud; the moon ascending it in solemn march; her orb seeming to look up as she left the hill-tops, from behind which she had come, far and farther below her, and aspired to the zenith, midnight dark in its fathomless depth and measureless distance; and for those trembling stars that followed her course; they made my heart tremble, my veins glow when I viewed them. Little things recall us to earth; the clock struck in the hall; that sufficed; I turned from moon and stars, opened a side-door, and went in.
 
@@ -22,7 +30,7 @@ Our brains process the human form subconsciously. Visual stimulation directly ev
 
 ### On attraction beyond physical beauty
 
-Mr Rochester and Jane are both famously unattractive. Their love is forged in other ways.
+Mr. Rochester and Jane are both famously unattractive. Their love is forged in other ways.
 
 >I am sure most people would have thought him an ugly man; yet there was so much unconscious pride in his port; so much ease in his demeanour; such a look of complete indifference to his own external appearance; so haughty a reliance on the power of other qualities, intrinsic or adventitious, to atone for the lack of mere personal attractiveness, that, in looking at him, one inevitably shared the indifference, and, even in a blind, imperfect sense, put faith in the confidence.
 
