@@ -6,7 +6,9 @@ tags: []
 
 I recently learned the word "tetchy". It means irritable or easily annoyed.
 
-My first reaction was mild horror—had I been misusing the similar-sounding "touchy" all these years? Flashbacks to my past malapropisms: "flush out" for "flesh out", "precedence" for "precedent", so on. But interestingly, "touchy" and "tetchy" along with "testy" do in fact all sound the same, look the same, and have comparable meanings.
+My first reaction was mild horror—had I been misusing the similar-sounding "touchy" all these years? Flashbacks to my past malapropisms: "flush out" for "flesh out", "precedence" for "precedent", so on.
+
+But it turns out touchy, tetchy, and testy not only sound alike and look alike, but they also mean roughly the same thing.
 
 - Touchy – Implies emotional sensitivity or defensiveness, often about a specific subject. (He's touchy about his work being criticized.) ([pronounce](https://www.google.com/search?q=touchy))
 - Tetchy – A more British usage, meaning easily annoyed or bad-tempered. (He's been tetchy all morning for no reason.) ([pronounce](https://www.google.com/search?q=tetchy))
