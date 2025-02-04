@@ -16,8 +16,8 @@ Apparently these are what linguists call [paronyms](https://en.wikipedia.org/wik
 
 How deep is this coincidence? Do they come from the same origin? Maybe.
 
-- Touchy - Perhaps derived from tetchy in combination with sensations of touch [etymonline](https://www.etymonline.com/word/touchy).
-- Tetchy - Perhaps from Middle English tatch "a mark, quality," derived via Old French from Vulgar Latin *tecca, from a Germanic source akin to Old English tacen. [etymonline](https://www.etymonline.com/word/tetchy)
-- Testy - Comes from Middle English testif (meaning headstrong or impetuous), which likely derives from Old French testu (meaning stubborn or strong-willed). This, in turn, comes from teste (head), from Latin testa (pot or shell, metaphorically meaning head). [etymonline](https://www.etymonline.com/search?q=testy)
+- Touchy - Perhaps derived from tetchy in combination with sensations of touch. ([etymonline](https://www.etymonline.com/word/touchy))
+- Tetchy - Perhaps from Middle English tatch "a mark, quality," derived via Old French from Vulgar Latin *tecca, from a Germanic source akin to Old English tacen. ([etymonline](https://www.etymonline.com/word/tetchy))
+- Testy - Comes from Middle English testif (meaning headstrong or impetuous), which likely derives from Old French testu (meaning stubborn or strong-willed). This, in turn, comes from teste (head), from Latin testa (pot or shell, metaphorically meaning head). ([etymonline](https://www.etymonline.com/search?q=testy))
 
 TIL. Perhaps someday "techie" will join this cluster.
