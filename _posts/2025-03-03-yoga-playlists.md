@@ -1,12 +1,12 @@
 ---
-title: Yoga Playlists
+title: Yoga playlists
 layout: post
 tags: []
 ---
 
 I have been teaching yoga for almost one year. Part of the craft is constructing music playlists. Here's the strategy I'm following:
 
-- My goal is 26 playlists, one for each week of the year. So I'll recycle every six months. Currently at 16. But some of the older need a revamp.
+- My goal is 26 playlists, one for each week of the year. So I'll recycle every six months. Currently at 16. But some of the older ones need a revamp.
 - Playlists are not attached to any particular sequence. All my sequences and playlists follow the same broad arc so they are interchangeable. This is a privilege of teaching C2 instead of Yoga Sculpt -- matching the beat is much less important in vinyasa flow.
 - The arc of each playlist is: slow instrumental for integration series, then faster instrumental for the transition from integration to Sun A, then pop music, then pop dance, then house music (for core), then reverse order back to savanasa. Maybe an opportunity for a slower instrumental song prior to savasana during spine and hip stretching at the end of class.
 - Prefer a mix of older and newer music. Ideally each person is familiar with at least two songs each class. My friends say I'm pandering to my audience and perhaps that true.
