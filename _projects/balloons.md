@@ -1,6 +1,6 @@
 ---
 year: 2017
-desc: To celebrate my birthday, a chain of 28 LED-lit balloons atop Bernal Hill.
+desc: To celebrate my birthday, a chain of LED-lit balloons atop Bernal Hill.
 images:
   - balloons-gradient.jpg
   - balloons-city.jpg
