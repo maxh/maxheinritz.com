@@ -8,5 +8,4 @@ layout: default
 - [Dwell Magazine article](https://www.dwell.com/home/maxs-apartment-8ea8fae9)
 - [Kristen Dirksen video](https://www.youtube.com/watch?v=6tYaI3At4fs)
 - [Uses This interview](https://usesthis.com/interviews/max.heinritz/)
-- [Built In interview](https://builtin.com/software-engineering-perspectives/how-to-become-a-software-engineer)
 
