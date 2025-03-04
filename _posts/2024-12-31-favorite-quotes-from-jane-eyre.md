@@ -10,7 +10,7 @@ I love this book. One of those books I would have skimmed in high school English
 
 The novel is a story of human life, yet at interludes Jane turns her attention, and the reader’s attention, to the natural world. The pace of the novel mirrors the way my own focus dials up and down through space and time, from the task at hand to the beauty of the tree outside.
 
-> I lingered at the gates; I lingered on the lawn; I paced backwards and forwards on the pavement; the shutters of the glass door were closed; I could not see into the interior; and both my eyes and spirit seemed drawn … to that sky expanded before me,--a blue sea absolved from taint of cloud; the moon ascending it in solemn march; her orb seeming to look up as she left the hill-tops, from behind which she had come, far and farther below her, and aspired to the zenith, midnight dark in its fathomless depth and measureless distance; and for those trembling stars that followed her course; they made my heart tremble, my veins glow when I viewed them. Little things recall us to earth; the clock struck in the hall; that sufficed; I turned from moon and stars, opened a side-door, and went in.
+> I lingered at the gates; I lingered on the lawn; I paced backwards and forwards on the pavement; the shutters of the glass door were closed; I could not see into the interior; and both my eyes and spirit seemed drawn … to that sky expanded before me--a blue sea absolved from taint of cloud; the moon ascending it in solemn march; her orb seeming to look up as she left the hill-tops, from behind which she had come, far and farther below her, and aspired to the zenith, midnight dark in its fathomless depth and measureless distance; and for those trembling stars that followed her course; they made my heart tremble, my veins glow when I viewed them. Little things recall us to earth; the clock struck in the hall; that sufficed; I turned from moon and stars, opened a side-door, and went in.
 
 ### On the power of physical beauty
 
@@ -26,7 +26,7 @@ Mr. Rochester and Jane are both famously unattractive. Their love is forged in o
 
 >I am sure most people would have thought him an ugly man; yet there was so much unconscious pride in his port; so much ease in his demeanour; such a look of complete indifference to his own external appearance; so haughty a reliance on the power of other qualities, intrinsic or adventitious, to atone for the lack of mere personal attractiveness, that, in looking at him, one inevitably shared the indifference, and, even in a blind, imperfect sense, put faith in the confidence.
 
->Most true is it that "beauty is in the eye of the gazer." My master's colourless, olive face, square, massive brow, broad and jetty eyebrows, deep eyes, strong features, firm, grim mouth,--all energy, decision, will,--were not beautiful, according to rule; but they were more than beautiful to me; they were full of an interest, an influence that quite mastered me,--that took my feelings from my own power and fettered them in his.
+>Most true is it that "beauty is in the eye of the gazer." My master's colourless, olive face, square, massive brow, broad and jetty eyebrows, deep eyes, strong features, firm, grim mouth--all energy, decision, will--were not beautiful, according to rule; but they were more than beautiful to me; they were full of an interest, an influence that quite mastered me--that took my feelings from my own power and fettered them in his.
 
 ### On “all is fair in love and war”
 
