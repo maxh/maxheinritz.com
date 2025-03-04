@@ -8,7 +8,7 @@ I love this book. One of those books I would have skimmed in high school English
 
 ### On appreciation of the natural world
 
-The novel is a story of human life, yet at interludes Jane turns her attention, and the reader’s attention, to the natural world in a spirit of awe. The pace of the novel mirrors the way my own focus dials up and down through space and time, from the task at hand to the beauty of the tree outside.
+The novel is a story of human life, yet at interludes Jane turns her attention, and the reader’s attention, to the natural world. The pace of the novel mirrors the way my own focus dials up and down through space and time, from the task at hand to the beauty of the tree outside.
 
 > I lingered at the gates; I lingered on the lawn; I paced backwards and forwards on the pavement; the shutters of the glass door were closed; I could not see into the interior; and both my eyes and spirit seemed drawn … to that sky expanded before me,--a blue sea absolved from taint of cloud; the moon ascending it in solemn march; her orb seeming to look up as she left the hill-tops, from behind which she had come, far and farther below her, and aspired to the zenith, midnight dark in its fathomless depth and measureless distance; and for those trembling stars that followed her course; they made my heart tremble, my veins glow when I viewed them. Little things recall us to earth; the clock struck in the hall; that sufficed; I turned from moon and stars, opened a side-door, and went in.
 
