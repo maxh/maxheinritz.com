@@ -26,7 +26,7 @@ Now contrast this with bodybuilding YouTuber Scooby1961's perspective on food. E
 
 >The first thing you need to do is free yourself of this romantic notion that meals are a social event. They are not. They are a bodily function. There is no time in the day for six sit down meals…. \[you must also\] free yourself of this notion that food must taste good. Food is fuel, not some amusement park ride.
 
-These two influential figures make diametrically opposed claims. As if to continue the (imagined) exchange, Bourdain later used the same metaphor in the opposite way!
+These two influential figures make diametrically opposed claims. As if to continue the (imagined) exchange, Bourdain used the same metaphor in the opposite way!
 
 >Your body is not a temple, it's an amusement park. Enjoy the ride.
 
