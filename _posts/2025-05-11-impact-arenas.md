@@ -68,7 +68,7 @@ The downside of emerging arena selection, of course, is prediction risk. These s
 
 ## Research as arena discovery
 
-Academia, startups, and corporate R\&D function as mechanisms for discovering new impact arenas through systematic exploration.
+Academia, startups, and corporate R&D function as mechanisms for discovering new impact arenas through systematic exploration.
 
 Artificial intelligence began as a niche field within computer science. Over decades, it has evolved into perhaps the most consequential impact arena of our time, reshaping everything. Early researchers like Geoffrey Hinton and Yann LeCun positioned themselves as central players not just by advancing the field, but by actually defining the shape and boundaries of the arena itself.
 
