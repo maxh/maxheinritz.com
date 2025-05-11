@@ -48,7 +48,7 @@ Linklater recognizes a fundamental truth: attention is our scarcest resource. Th
 
 ## Strategic arena selection
 
-Philosopher Kwame Appiah captures it well:
+Philosopher Kwame Appiah nailed it:
 
 >It's not how well you play the game, it's deciding which game you want to play.
 
@@ -80,10 +80,10 @@ Those who excel at research aren't just answering established questions – they
 
 The landscape of impact arenas will transform dramatically in a world where AGI can perform most human cognitive labor. Long-standing arenas from translation to medicine to entertainment will be revolutionized faster than we can adapt. One response is to treat impact pursuit as literally a game – something to engage with seriously and skillfully, but without completely identifying your worth with the outcome.
 
-A passage from Elena Ferrante's Neapolitan Quartet captures this perspective well. The narrator, after achieving professional success, visits a childhood friend and experiences an epiphany:
+A passage from Elena Ferrante's Neapolitan Quartet reminds us of this possibility. The narrator, after achieving professional success, visits a childhood friend and experiences an epiphany:
 
 >I understood that I had arrived there full of pride and realized that—in good faith, certainly, with affection—I had made that whole journey mainly to show her what she had lost and what I had won. But she had known from the moment I appeared, and now, risking tensions with her workmates, and fines, she was explaining to me that I had won nothing, that in the world there is nothing to win, that her life was full of varied and foolish adventures as much as mine, and that time simply slipped away without any meaning, and it was good just to see each other every so often to hear the mad sound of the brain of one echo in the mad sound of the brain of the other.
 
-In the end, impact arenas are just the games we invent to structure our pursuit of meaning. True victory might not be about choosing the right arena or playing it well—but in recognizing the game for what it is. A beautiful, ephemeral dance of brain states echoing across the void.
+In the end, impact arenas are merely the games we invent to structure our pursuit of meaning. True victory might not be about choosing the right arena or playing it well -- but in recognizing the game for what it is. A cosmically insignificant yet beautiful, ephemeral dance of brain states echoing across the void.
 
 
