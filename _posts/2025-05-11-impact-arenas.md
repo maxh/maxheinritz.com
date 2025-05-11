@@ -4,9 +4,9 @@ layout: post
 tags: [future, impact]
 ---
 
-I've been reflecting on impact as a human need, and how it will become increasingly scarce in a world dominated by artificial general intelligence. In the post The Last Finite Resource, I characterized impact as "the number of human brain states changed and by what degree" – meaningful alterations in how other people think, feel, and understand the world.
+I've been reflecting on _impact_ as a human need, and how it will become increasingly scarce in a world dominated by artificial general intelligence. In the post [The Last Finite Resource](/posts/the-last-finite-resource.html), I characterized impact as "the number of human brain states changed and by what degree" – meaningful alterations in how other people think, feel, and understand the world.
 
-One mental model we can build on this foundation is "impact arenas": the distinct spheres of human activity in which we create ripples of influence. These range from the intimate (family life, close friendships) to the professional (work, academic fields) to the recreational (hobbies, social clubs) to the cultural (music, literature, cinema) to the civic (politics, community organizations).
+One mental model we can build on this foundation is _impact arenas_: the distinct spheres of human activity in which we create ripples of influence. These range from the intimate (family life, close friendships) to the professional (work, academic fields) to the recreational (hobbies, social clubs) to the cultural (music, literature, cinema) to the civic (politics, community organizations).
 
 Some impact arenas are hyperlocal: a neighborhood book club or church choir. Others span the globe, like pop music or international sports. The boundaries between arenas are fluid and nested. The tenor section exists within a choir, which exists within a church community, which exists within a neighborhood ecosystem. What begins as impact in a small arena can eventually grow global or cross-pollinate into adjacent spaces, creating unexpected resonances.
 
@@ -14,15 +14,15 @@ To be ambitious is to seek impact in some arena. Success, fame, wealth, status �
 
 ## Examples
 
-Consider Anthony Bourdain's trajectory. His early impact came as executive chef at Brasserie Les Halles, operating within the relatively contained impact arena of the New York fine dining scene. He then translated that specialized influence into a new arena – writing – with his explosive memoir Kitchen Confidential. This success propelled him to television and eventually global cultural impact that transcended both food and travel.
+Consider Anthony Bourdain's trajectory. His early impact came as executive chef at Brasserie Les Halles, operating within the relatively contained impact arena of the New York fine dining scene. He then translated that specialized influence into a new arena – writing – with his memoir _Kitchen Confidential_. This success propelled him to television and eventually global celebrity that transcended both food and travel.
 
-We can glimpse Bourdain's perspective on impact arenas from the first episode of his first show, A Cook's Tour. In Tokyo, reflecting on American dining culture compared to Japan's, he observes:
+We can glimpse Bourdain's perspective on impact arenas from the first episode of his first show, _A Cook's Tour_. In Tokyo, reflecting on American dining culture compared to Japan's, he observes:
 
 >For us, restaurants are like gas stations. You pull in, you fill up and you move on, preferably as quickly as possible. The idea of volume is much more important than quality. . . . 'Hey, did you have a good meal?' 'Yeah, they gave you all the shrimp you could eat\!' . . . That's really silly. You know, bulk. It explains a lot about our culture.
 
-This observation isn't just about food – it's about the relative importance of "fine dining" within American culture. In a subtle way, Bourdain is marketing his particular impact arena as something more people should value: we should invest more time thinking about, appreciating, and savoring our meals. There's an implicit invitation: "this is the impact arena where I've chosen to play (where I happen to excel)... come join me here where it matters."
+This observation isn't just about food – it's about the relative importance of "fine dining" within American culture. In a way, Bourdain is marketing his particular impact arena as something more people should value: we should invest more time thinking about, appreciating, and savoring our meals. There's an implicit invitation: "this is the impact arena where I've chosen to play (where I happen to excel)... come join me here where it matters."
 
-Now contrast this with bodybuilding YouTuber Scooby1961's perspective on food. Elaborating on a quote from fitness pioneer Jack LaLanne – "If it tastes good, spit it out" – Scooby declares:
+Now contrast this with bodybuilding [YouTuber Scooby1961's perspective on food](https://www.youtube.com/watch?v=qRQxIcbIT3A&t=61s). Elaborating on a quote from fitness pioneer [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) – "If it tastes good, spit it out" – Scooby declares:
 
 >The first thing you need to do is free yourself of this romantic notion that meals are a social event. They are not. They are a bodily function. There is no time in the day for six sit down meals…. \[you must also\] free yourself of this notion that food must taste good. Food is fuel, not some amusement park ride.
 
