@@ -78,9 +78,7 @@ Those who excel at research aren't just answering established questions – they
 
 ## The game of life
 
-The landscape of impact arenas will transform dramatically in a world where AGI can perform most human cognitive labor. Long-standing arenas from translation to medicine to entertainment will be revolutionized faster than we can adapt.
-
-One psychological defense is to treat impact pursuit as literally a game – something to engage with seriously and skillfully, but without completely identifying your worth with the outcome.
+The landscape of impact arenas will transform dramatically in a world where AGI can perform most human cognitive labor. Long-standing arenas from translation to medicine to entertainment will be revolutionized faster than we can adapt. One response is to treat impact pursuit as literally a game – something to engage with seriously and skillfully, but without completely identifying your worth with the outcome.
 
 A passage from Elena Ferrante's Neapolitan Quartet captures this perspective well. The narrator, after achieving professional success, visits a childhood friend and experiences an epiphany:
 
