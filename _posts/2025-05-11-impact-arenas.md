@@ -46,13 +46,13 @@ And he goes on:
 
 Linklater recognizes a fundamental truth: attention is our scarcest resource. The mindshare we've surrendered to social media, streaming content, and digital platforms had to come from somewhere. Impact arenas grow and contract in relevance as technology and social values evolve: each generation witnesses a dramatic reshuffling of which arenas matter most. Artificial general intelligence promises to accelerate this reshuffling beyond anything we've experienced so far.
 
-## Arena selection
+## Strategic arena selection
 
-Philosopher Kwame Appiah captured this insight perfectly:
+Philosopher Kwame Appiah expressed this insight perfectly:
 
-"It's not how well you play the game, it's deciding which game you want to play."
+>It's not how well you play the game, it's deciding which game you want to play.
 
-If you aspire to achieve significant impact during your lifetime, you face two fundamental strategies: you can compete within an established arena, or you can identify emerging arenas poised for growth and establish yourself early. With the second approach, even if you're not immediately recognized as a top player, you'll be positioned for outsized influence simply by being there first when the arena expands.
+If you aspire to achieve significant impact during your lifetime, you can choose from two overarching strategies: you can compete within an established arena, or you can identify emerging arenas poised for growth and establish yourself early. With the second approach, even if you're not immediately recognized as a top player, you'll be positioned for outsized influence simply by being there first when the arena expands.
 
 Established arenas offer built-in advantages. They have well-developed distribution channels and audience awareness. Consider music: if your song goes viral, you can rapidly impact billions of minds. People already understand what a "song" is and have frictionless ways to consume and share this form of creative expression. Win this competition, and you win big. But the competition is ferocious, and like Linklater, you might find your chosen arena diminishing in relevance even as you master it.
 
