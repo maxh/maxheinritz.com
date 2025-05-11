@@ -48,7 +48,7 @@ Linklater recognizes a fundamental truth: attention is our scarcest resource. Th
 
 ## Strategic arena selection
 
-Philosopher Kwame Appiah expressed this insight perfectly:
+Philosopher Kwame Appiah captures it well:
 
 >It's not how well you play the game, it's deciding which game you want to play.
 
