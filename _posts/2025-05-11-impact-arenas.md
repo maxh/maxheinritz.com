@@ -8,8 +8,6 @@ I've been reflecting on _impact_ as a human need, and how it will become increas
 
 One mental model we can build on this foundation is _impact arenas_: the distinct spheres of human activity in which we create ripples of influence. These range from the intimate (family life, close friendships) to the professional (work, academic fields) to the recreational (hobbies, social clubs) to the cultural (music, literature, cinema) to the civic (politics, community organizations).
 
-Some impact arenas are hyperlocal: a neighborhood book club or church choir. Others span the globe, like pop music or international sports. The boundaries between arenas are fluid and nested. The tenor section exists within a choir, which exists within a church community, which exists within a neighborhood ecosystem. What begins as impact in a small arena can eventually grow global or cross-pollinate into adjacent spaces, creating unexpected resonances.
-
 To be ambitious is to seek impact in some arena. Success, fame, wealth, status – these are all downstream effects of having significantly changed other human minds.
 
 ## Examples
@@ -44,7 +42,9 @@ And he goes on:
 
 >Some really intelligent, passionate, good citizens just don't have the same need for literature and movies anymore. It doesn't occupy the same space in the brain. I think that's just how we've given over our lives, largely, to this thing that depletes the need for curating and filling ourselves up with meaning from art and fictional worlds. That need has been filled up with — let's face it — advanced delivery systems for advertising.
 
-Linklater recognizes a fundamental truth: attention is our scarcest resource. The mindshare we've surrendered to social media, streaming content, and digital platforms had to come from somewhere. Impact arenas grow and contract in relevance as technology and social values evolve: each generation witnesses a dramatic reshuffling of which arenas matter most. Artificial general intelligence promises to accelerate this reshuffling beyond anything we've experienced so far.
+Linklater recognizes that attention is our scarcest resource. The mindshare we've surrendered to social media, streaming content, and digital platforms had to come from somewhere.
+
+Impact arenas grow and contract in relevance as technology and social values evolve: each generation witnesses a dramatic reshuffling of which arenas matter most. Artificial general intelligence promises to accelerate this reshuffling beyond anything we've experienced so far.
 
 ## Strategic arena selection
 
@@ -54,7 +54,7 @@ Philosopher Kwame Appiah nailed it:
 
 If you aspire to achieve significant impact during your lifetime, you can choose from two overarching strategies: you can compete within an established arena, or you can identify emerging arenas poised for growth and establish yourself early. With the second approach, even if you're not immediately recognized as a top player, you'll be positioned for outsized influence simply by being there first when the arena expands.
 
-Established arenas offer built-in advantages. They have well-developed distribution channels and audience awareness. Consider music: if your song goes viral, you can rapidly impact billions of minds. People already understand what a "song" is and have frictionless ways to consume and share this form of creative expression. Win this competition, and you win big. But the competition is ferocious, and like Linklater, you might find your chosen arena diminishing in relevance even as you master it.
+Established arenas offer built-in advantages. They have well-developed distribution channels and audience awareness. Consider music: if your song goes viral, you can rapidly impact billions of minds. People already understand what a "song" is and have frictionless ways to consume and share this form of creative expression. Win this competition, and you win big. There are also established techniques and skilled craftsmen you can learn from. But the competition is ferocious, and like Linklater, you might find your chosen arena diminishing in relevance even as you master it.
 
 Most outsized success stories, especially among young people, come from the second strategy: hitching their wagon to nascent impact arenas on steep growth trajectories. Larry Page and Sergey Brin grasped what a website was before most people had ever seen one. They recognized the transformative importance of web search when the concept was still foreign to the mainstream. They built tools that made websites accessible before people fully realized how much they would come to rely on them. Their impact through Google expanded in lockstep with the growth of the web itself.
 
@@ -64,23 +64,25 @@ Similarly, YouTube pioneers like MrBeast and PewDiePie entered an emerging arena
 
 Steinberger made a deliberate arena choice based on his analysis of future importance. Combined with his natural talents, this strategic positioning has placed him, now in his mid-20s, at the forefront of what may become this generation's defining impact arena.
 
-The downside of emerging arena selection, of course, is prediction risk. These spaces are inherently difficult to identify in advance. Choose poorly, and like Toyota's massive investment in hydrogen vehicles while the market pivoted decisively toward electric, you might perfect your craft in a space that never achieves the relevance you anticipated.
+The downside of emerging arena selection, of course, is prediction risk. These spaces are inherently difficult to identify in advance. Choose poorly, and like Toyota's massive investment in hydrogen vehicles while the market pivoted decisively toward electric, you might be an expert in a space that never achieves the relevance you anticipated.
+
+At first glance, the emerging arena strategy may seem more risky. The "safe" bet appears to be entering a mature arena. But it's not so simple. The risk cuts both ways. The mature arena may fade in prominence. You might never escape the grind of internal competition.
 
 ## Research as arena discovery
 
-Academia, startups, and corporate R&D function as mechanisms for discovering new impact arenas through systematic exploration.
+Startups, venture capital, and academia function as institutions for discovering new impact arenas through systematic exploration.
 
 Artificial intelligence began as a niche field within computer science. Over decades, it has evolved into perhaps the most consequential impact arena of our time, reshaping everything. Early researchers like Geoffrey Hinton and Yann LeCun positioned themselves as central players not just by advancing the field, but by actually defining the shape and boundaries of the arena itself.
 
 Similarly, the search for startup product-market fit represents a form of economic frontier research. Secular trends like internet adoption, mobile computing, and cloud infrastructure created fertile conditions for entrepreneurs to discover entirely new problem spaces or revolutionary approaches to existing challenges.
 
-Those who excel at research aren't just answering established questions – they're mapping the terrain of possible future impact arenas. To most effectively decide which game to play, think like a researcher at the edge of what's known and what's possible.
+Innovation, novel ideas -- these are the precursors to new impact arenas. To most effectively decide which game to play, think like a researcher at the edge of what's known and what's possible.
 
 ## The game of life
 
-The landscape of impact arenas will transform dramatically in a world where AGI can perform most human cognitive labor. Long-standing arenas from translation to medicine to entertainment will be revolutionized faster than we can adapt. One response is to treat impact pursuit as literally a game – something to engage with seriously and skillfully, but without completely identifying your worth with the outcome.
+The landscape of impact arenas will transform dramatically in a world where AGI can perform most human cognitive labor. Long-standing arenas from translation to medicine to entertainment will be revolutionized faster than we can adapt. In such a world, selecting the right arenas becomes much more important than gaining mastery in any one. What is the value of expertise when artificial agents can do it all?
 
-A passage from Elena Ferrante's Neapolitan Quartet reminds us of this possibility. The narrator, after achieving professional success, visits a childhood friend and experiences an epiphany:
+One response is to treat impact pursuit as literally a game – something to engage with seriously and skillfully, but without completely identifying your worth with the outcome. A passage from Elena Ferrante's Neapolitan Quartet reminds us of this possibility. The narrator, after achieving professional success, visits a childhood friend and experiences an epiphany:
 
 >I understood that I had arrived there full of pride and realized that—in good faith, certainly, with affection—I had made that whole journey mainly to show her what she had lost and what I had won. But she had known from the moment I appeared, and now, risking tensions with her workmates, and fines, she was explaining to me that I had won nothing, that in the world there is nothing to win, that her life was full of varied and foolish adventures as much as mine, and that time simply slipped away without any meaning, and it was good just to see each other every so often to hear the mad sound of the brain of one echo in the mad sound of the brain of the other.
 
