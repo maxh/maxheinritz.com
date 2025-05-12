@@ -48,7 +48,7 @@ Impact arenas grow and contract in relevance as technology and social values evo
 
 ## Strategic arena selection
 
-Philosopher Kwame Appiah nailed it:
+Philosopher Kwame Appiah observed:
 
 >It's not how well you play the game, it's deciding which game you want to play.
 
