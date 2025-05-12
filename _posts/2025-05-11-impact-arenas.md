@@ -68,7 +68,7 @@ The downside of emerging arena selection, of course, is prediction risk. These s
 
 ## Research as arena discovery
 
-Startups, venture capital, and academia function as institutions for discovering new impact arenas through systematic exploration.
+Startups, venture capital, and academia function as mechanisms for discovering new impact arenas through systematic exploration.
 
 Artificial intelligence began as a niche field within computer science. Over decades, it has evolved into perhaps the most consequential impact arena of our time, reshaping everything. Early researchers like Geoffrey Hinton and Yann LeCun positioned themselves as central players not just by advancing the field, but by actually defining the shape and boundaries of the arena itself.
 
@@ -80,7 +80,7 @@ Innovation, novel ideas -- these are the precursors to new impact arenas. To mos
 
 The landscape of impact arenas will transform dramatically in a world where AGI can perform most human cognitive labor. Long-standing arenas from translation to medicine to entertainment will be revolutionized faster than we can adapt. In such a world, selecting the right arenas becomes much more important than gaining mastery in any one. What is the value of expertise when artificial agents can do it all?
 
-One response is to treat impact pursuit as literally a game – something to engage with seriously and skillfully, but without completely identifying your worth with the outcome. A passage from Elena Ferrante's Neapolitan Quartet reminds us of this possibility. The narrator, after achieving professional success, visits a childhood friend and experiences an epiphany:
+A skillful response might be to treat impact pursuit more literally as a game – something to engage with seriously and intentionally, but without completely identifying your worth with the outcome. A passage from Elena Ferrante's Neapolitan Quartet reminds us of this possibility. The narrator, after achieving professional success, visits a childhood friend and experiences an epiphany:
 
 >I understood that I had arrived there full of pride and realized that—in good faith, certainly, with affection—I had made that whole journey mainly to show her what she had lost and what I had won. But she had known from the moment I appeared, and now, risking tensions with her workmates, and fines, she was explaining to me that I had won nothing, that in the world there is nothing to win, that her life was full of varied and foolish adventures as much as mine, and that time simply slipped away without any meaning, and it was good just to see each other every so often to hear the mad sound of the brain of one echo in the mad sound of the brain of the other.
 
