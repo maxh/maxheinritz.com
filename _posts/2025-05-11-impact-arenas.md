@@ -66,8 +66,6 @@ Steinberger made a deliberate arena choice based on his analysis of future impor
 
 The downside of emerging arena selection, of course, is prediction risk. These spaces are inherently difficult to identify in advance. Choose poorly, and like Toyota's massive investment in hydrogen vehicles while the market pivoted decisively toward electric, you might be an expert in a space that never achieves the relevance you anticipated.
 
-At first glance, the emerging arena strategy may seem more risky. The "safe" bet appears to be entering a mature arena. But it's not so simple. The risk cuts both ways. The mature arena may fade in prominence. You might never escape the grind of internal competition.
-
 ## Research as arena discovery
 
 Startups, venture capital, and academia function as institutions for discovering new impact arenas through systematic exploration.
