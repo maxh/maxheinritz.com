@@ -12,7 +12,7 @@ To be ambitious is to seek impact in some arena. Success, fame, wealth, status �
 
 ## Examples
 
-Consider Anthony Bourdain's trajectory. His early impact came as executive chef at Brasserie Les Halles, operating within the relatively contained impact arena of the New York fine dining scene. He then translated that specialized influence into a new arena – writing – with his memoir _Kitchen Confidential_. This success propelled him to television and eventually global celebrity that transcended both food and travel.
+Consider Anthony Bourdain's trajectory. His early impact came as executive chef at Brasserie Les Halles, operating within the relatively contained impact arena of the New York fine dining scene. He then translated that specialized influence into a new arena -- writing -- with his memoir _Kitchen Confidential_. This success propelled him to television and eventually global celebrity that transcended both food and travel.
 
 We can glimpse Bourdain's perspective on impact arenas from the first episode of his first show, _A Cook's Tour_. In Tokyo, reflecting on American dining culture compared to Japan's, he observes:
 
@@ -20,7 +20,7 @@ We can glimpse Bourdain's perspective on impact arenas from the first episode of
 
 This observation isn't just about food – it's about the relative importance of "fine dining" within American culture. In a way, Bourdain is marketing his particular impact arena as something more people should value: we should invest more time thinking about, appreciating, and savoring our meals. There's an implicit invitation: "this is the impact arena where I've chosen to play (where I happen to excel)... come join me here where it matters."
 
-Now contrast this with bodybuilding [YouTuber Scooby1961's perspective on food](https://www.youtube.com/watch?v=qRQxIcbIT3A&t=61s). Elaborating on a quote from fitness pioneer [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) – "If it tastes good, spit it out" – Scooby declares:
+Now contrast this with bodybuilding [YouTuber Scooby1961's perspective on food](https://www.youtube.com/watch?v=qRQxIcbIT3A&t=61s). Elaborating on a quote from fitness pioneer [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) -- "if it tastes good, spit it out" -- Scooby declares:
 
 >The first thing you need to do is free yourself of this romantic notion that meals are a social event. They are not. They are a bodily function. There is no time in the day for six sit down meals…. \[you must also\] free yourself of this notion that food must taste good. Food is fuel, not some amusement park ride.
 
@@ -28,7 +28,7 @@ These two influential figures make diametrically opposed claims. As if to contin
 
 >Your body is not a temple, it's an amusement park. Enjoy the ride.
 
-These public figures have achieved mastery in different impact arenas – fine dining versus fitness – and each is essentially recruiting you to their arena rather than their competitor's. "Don't play his game," they suggest, "play mine instead, where the real value lies."
+These public figures have achieved mastery in different impact arenas -- fine dining versus fitness -- and each is essentially recruiting you to their arena rather than their competitor's. "Don't play his game," they suggest, "play mine instead, where the real value lies."
 
 I deliberately use the word "arena" because it evokes competition and games. And indeed, as global population stabilizes and artificial intelligence increasingly captures human attention, having meaningful impact will feel more like a zero-sum competition. This competition operates both within arenas (who's the most influential chef?) and across arenas (is fine dining or fitness culture more worthy of attention?).
 
@@ -80,9 +80,9 @@ Innovation, novel ideas -- these are the precursors to new impact arenas. To mos
 
 The landscape of impact arenas will transform dramatically in a world where AGI can perform most human cognitive labor. Long-standing arenas from translation to medicine to entertainment will be revolutionized faster than we can adapt. In such a world, selecting the right arenas becomes much more important than gaining mastery in any one. What is the value of expertise when artificial agents can do it all?
 
-A skillful response might be to treat impact pursuit more literally as a game – something to engage with seriously and intentionally, but without completely identifying your worth with the outcome. A passage from Elena Ferrante's Neapolitan Quartet reminds us of this possibility. The narrator, after achieving professional success, visits a childhood friend and experiences an epiphany:
+A skillful response might be to treat impact pursuit more literally as a game -- something to engage with seriously and intentionally, but without completely identifying your worth with the outcome. A passage from Elena Ferrante's Neapolitan Quartet reminds us of this possibility. The narrator, after achieving professional success, visits a childhood friend and experiences an epiphany:
 
->I understood that I had arrived there full of pride and realized that—in good faith, certainly, with affection—I had made that whole journey mainly to show her what she had lost and what I had won. But she had known from the moment I appeared, and now, risking tensions with her workmates, and fines, she was explaining to me that I had won nothing, that in the world there is nothing to win, that her life was full of varied and foolish adventures as much as mine, and that time simply slipped away without any meaning, and it was good just to see each other every so often to hear the mad sound of the brain of one echo in the mad sound of the brain of the other.
+>I understood that I had arrived there full of pride and realized that -- in good faith, certainly, with affection -- I had made that whole journey mainly to show her what she had lost and what I had won. But she had known from the moment I appeared, and now, risking tensions with her workmates, and fines, she was explaining to me that I had won nothing, that in the world there is nothing to win, that her life was full of varied and foolish adventures as much as mine, and that time simply slipped away without any meaning, and it was good just to see each other every so often to hear the mad sound of the brain of one echo in the mad sound of the brain of the other.
 
 In the end, impact arenas are merely the games we invent to structure our pursuit of meaning. True victory might not be about choosing the right arena or playing it well -- but in recognizing the game for what it is. A cosmically insignificant yet beautiful, ephemeral dance of brain states echoing across the void.
 
