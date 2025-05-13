@@ -10,9 +10,9 @@ I spend each winter break pondering the year ahead: reflecting on what I truly v
 
 ### Impact
 
-In recent years, I've found impact to be among my most important values, more so than earlier in my life. I define impact as "the number of human brain states changed and by what degree"—meaning alterations in how other people think, feel, and understand the world. While it sounds stark when stated so plainly, it seems to describe a universal human need.
+In recent years, I've found impact to be among my most important values, more so than earlier in my life. I define impact as "the number of human brain states changed and by what degree" -- meaning alterations in how other people think, feel, and understand the world. While it sounds stark when stated so plainly, it seems to describe a universal human need.
 
-Impact has two dimensions: breadth and depth—the number of people affected and the extent to which they're affected. Parents create impact through profound changes on a small number of children. Pop stars achieve impact differently, through lighter but broader influence on massive audiences.
+Impact has two dimensions: breadth and depth -- the number of people affected and the extent to which they're affected. Parents create impact through profound changes on a small number of children. Pop stars achieve impact differently, through lighter but broader influence on massive audiences.
 
 Different people seek different flavors of impact based on their psychological makeup. Some crave belonging, others power. Some seek love, status, validation, feedback, or respect. Some aspire to broad social impact, others prefer impact within intimate communities. Some want to leave a legacy with lasting contributions to future generations.
 
