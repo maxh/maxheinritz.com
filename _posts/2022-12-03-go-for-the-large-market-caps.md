@@ -81,7 +81,7 @@ The first time I saw these numbers I was shocked how large the biggest players a
 
 ## Cybersecurity
 
-Overall, smaller than I would expect. Perhaps than indication the market has room to grow.
+Overall, smaller than I would expect. Perhaps an indication the market has room to grow.
 
 - Palo Alto Networks - 52.21 billion
 - Cloudflare - 15.89 billion
