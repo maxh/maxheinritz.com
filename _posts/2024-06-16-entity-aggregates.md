@@ -43,7 +43,7 @@ Typically a single entity is stored in a single database table. For example, a `
 
 But sometimes a single entity is stored in multiple tables. For example, data for a `User` entity could be stored in the `user` table as well as role data in a "supplementary" `user_role` table. The mapping between database tables and entities is done through mappers in the application layer such as `dbUserToDto`.
 
-Whether to split a single entity into multiple database tables is an engineering implementation consideration. For any given entity, all data could be shoved into JSONB columns on one table if we wanted. Benefits of separate tables: stricter schema, uniqueness constraints, easier analytics access.
+Whether to split a single entity into multiple database tables is an engineering implementation consideration. For any given entity, all data could be shoved into JSONB columns on one table if we wanted. Benefits of separate tables: stricter schema, uniqueness constraints, easier analytics access. Benefits of one table: performance, colocation.
 
 Database tables should not be queried directly from other domains. Generally service class APIs should be used instead.
 
