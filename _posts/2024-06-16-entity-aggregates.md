@@ -37,7 +37,7 @@ Eric Evans later clarified his perspective – that when it comes to defining ag
 
 How we do we decide which data to consider part of a single entity? How do we decide which entities to group together into single aggregate root? It’s a matter of judgment and satisfying business requirements. There are various dimensions along which data can be grouped, described below.
 
-### Database table (or Prisma model)
+### Database table
 
 Typically a single entity is stored in a single database table. For example, a `Tenant` entity and all its data can be stored in a `tenant` database table.
 
@@ -49,7 +49,7 @@ Database tables should not be queried directly from other domains. Generally ser
 
 ### Prisma schema file
 
-Using Prisma, we can define Prisma models in separate `.prisma` files sprinkled throughout the codebase. Generally it is best practice to keep these files narrowly focused on a single domain. Prisma just release preliminary official [support](https://www.prisma.io/blog/organize-your-prisma-schema-with-multi-file-support) for split schemas a few weeks ago, but we've been doing it for years with custom tooling called [prisma-fuse](https://www.npmjs.com/package/prisma-fuse).
+Using [Prisma](https://www.prisma.io/), we can define Prisma models in separate `.prisma` files sprinkled throughout the codebase. Generally it is best practice to keep these files narrowly focused on a single domain. Prisma just release preliminary official [support](https://www.prisma.io/blog/organize-your-prisma-schema-with-multi-file-support) for split schemas a few weeks ago, but we've been doing it for years with custom tooling called [prisma-fuse](https://www.npmjs.com/package/prisma-fuse).
 
 `prisma-fuse` allows foreign key constraints between models within the same file but not across models in different files, and unlike the official support, it allows colocating Prisma files with domain directories throughout the codebase.
 
