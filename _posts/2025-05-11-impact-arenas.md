@@ -4,7 +4,7 @@ layout: post
 tags: [future, impact]
 ---
 
-I've been reflecting on _impact_ as a human need, and how it will become increasingly scarce in a world dominated by artificial general intelligence. In the post [The Last Finite Resource](/posts/the-last-finite-resource.html), I characterized impact as "the number of human brain states changed and by what degree" – meaningful alterations in how other people think, feel, and understand the world.
+I've been reflecting on _impact_ as a human need, and how it will become increasingly scarce in a world dominated by artificial intelligence. In the post [The Last Finite Resource](/posts/the-last-finite-resource.html), I characterized impact as "the number of human brain states changed and by what degree" – meaningful alterations in how other people think, feel, and understand the world.
 
 One mental model we can build on this foundation is _impact arenas_: the distinct spheres of human activity in which we create ripples of influence. These range from the intimate (family life, close friendships) to the professional (work, academic fields) to the recreational (hobbies, social clubs) to the cultural (music, literature, cinema) to the civic (politics, community organizations).
 
