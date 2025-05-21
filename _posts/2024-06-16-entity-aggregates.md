@@ -25,7 +25,7 @@ The concept comes from domain-driven design, described in the DDD reference:
 >
 > Within an aggregate boundary, apply consistency rules synchronously. Across boundaries, handle updates asynchronously.
 
-Eric Evans later clarified his perspective – that when it comes to defining aggregate roots the "external reference holding" is less important than the transaction boundary. For example, it's not a problem for external systems to hold references to line items even though the payable invoice is the aggregate root.
+Eric Evans later clarified his perspective – that when it comes to defining aggregate roots the "external reference holding" is less important than the transaction boundary. For example, it's not a problem for external systems to hold references to line items even though the receivable invoice is the aggregate root.
 
 ## Examples
 
