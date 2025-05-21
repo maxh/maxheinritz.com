@@ -36,11 +36,11 @@ I deliberately use the word "arena" because it evokes competition and games. And
 
 Film director Richard Linklater offers a poignant reflection on how technology has diminished his chosen impact arena:
 
->With a changing culture and changing technology, it's hard to see cinema slipping back into the prominence it once held. I think we could feel it coming on when they started calling films 'content' … but that's what happens when you let tech people take over your industry. It's hard to imagine indie cinema in particular having the cultural relevance that it did.
+>With a changing culture and changing technology, it's hard to see cinema slipping back into the prominence it once held. I think we could feel it coming on when they started calling films "content" ... but that's what happens when you let tech people take over your industry. It's hard to imagine indie cinema in particular having the cultural relevance that it did.
 
 And he goes on:
 
->Some really intelligent, passionate, good citizens just don't have the same need for literature and movies anymore. It doesn't occupy the same space in the brain. I think that's just how we've given over our lives, largely, to this thing that depletes the need for curating and filling ourselves up with meaning from art and fictional worlds. That need has been filled up with — let's face it — advanced delivery systems for advertising.
+>Some really intelligent, passionate, good citizens just don't have the same need for literature and movies anymore. It doesn't occupy the same space in the brain. I think that's just how we've given over our lives, largely, to this thing that depletes the need for curating and filling ourselves up with meaning from art and fictional worlds. That need has been filled up with -- let's face it -- advanced delivery systems for advertising.
 
 Linklater recognizes that attention is our scarcest resource. The mindshare we've surrendered to social media, streaming content, and digital platforms had to come from somewhere.
 
