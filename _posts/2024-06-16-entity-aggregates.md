@@ -73,4 +73,4 @@ An aggregate has:
 
 Over the REST API, the full aggregate is returned by default when the root entity is fetched.
 
-All data within the aggregate can be queried in full directly from other domains for batch data loading. Root entities like shipment and payable invoice can be queried as an “entity” in isolation, without fetching the whole aggregate.
+All data within the aggregate can be queried in full directly from other domains for batch data loading. Root entities like shipment and receivable invoice can be queried as an "entity" in isolation, without fetching the whole aggregate.
