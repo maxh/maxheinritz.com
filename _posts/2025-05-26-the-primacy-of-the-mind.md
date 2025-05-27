@@ -14,11 +14,11 @@ Both perspectives seem valid and non-conflicting, useful in their own ways. My f
 
 The reductive materialist view is the third-person perspective: the universe exists, your parents exist, you grow from embryo to fetus to baby and somewhere along the way your brain develops and you “feel like something” – you are conscious. The universe came first, then your mind.
 
-The primacy of mind is the first-person perspective: there is nothing, then there is something. Sensation. Phenomenon. Appearances. Temperature, pressure, color, light, shadow, sound. From these raw sensations, we construct concepts such as sky, blanket, tree, sun, house, water. And in time higher abstractions like good, bad, fun, boring, school, science, history, space, time. The raw sensory inputs and the concepts you layer on top – these are, in fact, your lived experience of the universe.
+The primacy of mind is the first-person perspective: there is nothing, then there is something. Sensation. Phenomenon. Appearances. Temperature, pressure, color, light, shadow, sound. From these raw sensations, we construct concepts such as sky, blanket, tree, sun, house, water. And in time higher abstractions like good, bad, fun, boring, school, science, history, space, time. The raw sensory inputs and the concepts you layer on top – these are, in fact, the universe to you.
 
 ## Practical value
 
-The value of the materialist view is its power to explain and predict our lived experience. Explain: Why are you tired? You didn't get enough sleep and your brain is physiologically unwell. Predict: Didn't sleep last night? In the coming hours you may feel tired. Science, culture, the economy – everything is built on this materialist understanding, to great effect.
+The value of the materialist view is its power to explain and predict what happens to us. Explain: Why are you tired? You didn't get enough sleep and your brain is physiologically unwell. Predict: Didn't sleep last night? In the coming hours you may feel tired. Science, culture, the economy – everything is built on this materialist understanding, to great effect.
 
 The value of the primacy view is different: its power is to illuminate the distinction between consciousness and its contents, and the liberation to be found in that recognition.
 
