@@ -28,7 +28,7 @@ A metaphor here is movie theater. Absorbed in cinema, we forget that we are mere
 
 ## Sensory input
 
-A simple exercise to invite the shift in perspective is to slowly walk forward and backward in space and – rather than conceptualize that as your body moving – instead imagine your mind as still and the visual change occurring around your still mind as if on a screen.
+A simple exercise to invite the shift in perspective is to slowly walk forward and backward in space and – rather than conceptualize that as your body moving – instead imagine your mind as still and the visual change occurring around your still mind as if on a screen. Movement, space, your body, steps... these are concepts you have layered on top of your raw sensory inputs to form a model of the world around you.
 
 Another exercise is to sit still and look at an object before you. Then in your visual field soften the distance between you and the object, look ahead as if at a flat image. Indeed, you are receiving two-dimensional visual input and conceptualizing a three-dimensional environment. Can you soften your absorption with that concept and see the raw image before you?
 
