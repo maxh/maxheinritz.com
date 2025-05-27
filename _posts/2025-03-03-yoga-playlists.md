@@ -17,7 +17,7 @@ I have been teaching yoga for almost one year. Part of the craft is constructing
 - Hack for playing popular but profane or sad songs: use an instrumental cover. People who know the song will appreciate it, those who don't will just find it a nice instrumental.
 - Hack for playing good songs that are just a bit to slow for class: use a "workout" remix. There are a lot of these on Spotify and they are pretty upbeat and also tend to be cleaned up a bit.
 - To stay relevant with the next generation I sometimes play TikTok viral songs and current pop XD
-- Something to watch out: songs very heterogeneous in tempo or volume. Can be distracting to teach to, distracting to practice to.
+- Something to watch out for: songs very heterogeneous in tempo or volume. Can be distracting to teach to, distracting to practice to.
 - Overall I end up playing a lot of what I like to listen to: 80s pop music, saxophone, house, jazz, classical, hip hop, classic rock, chillwave, country.
 - I'd like to explore themed playlists. For example only songs related to Chicago. Perhaps after I finish the standard set of 26.
 - But I'm always seeking inspiration. In airports, grocery stores, and yes elevators. Always curious what people like, what to use for inspiration.
