@@ -4,7 +4,7 @@ layout: post
 tags: [meditation]
 ---
 
-When it comes to understanding how consciousness arises, I am most convinced by the reductive materialist view: all mental states correspond to some physical arrangement of matter and energy. There is no need to invoke a soul, spirit, or anything magical. Emergent phenomena appear to be reducible in principle, even if our current tools can’t yet fully account for them.
+When it comes to understanding how consciousness arises, I am most convinced by the reductive materialist view: all mental states correspond to some physical arrangement of matter and energy. There is no need to invoke a soul, spirit, or anything magical. Emergent phenomena appear to be reducible in principle, even if our current tools can't yet fully account for them.
 
 But when it comes to navigating the lived experience of being conscious, I find it more useful to focus on the primacy of the mind: the mind exists first, and your experience of what you know to be the universe is borne of sensations within it.
 
@@ -18,7 +18,7 @@ The primacy of mind is the first-person perspective: there is nothing, then ther
 
 ## Practical value
 
-The value of the materialist view is its power to explain and predict our lived experience. Explain: Why are you tired? You didn’t get enough sleep and your brain is physiologically unwell. Predict: Didn’t sleep last night? In the coming hours you may feel tired. Science, culture, the economy – everything is built on this materialist understanding, to great effect.
+The value of the materialist view is its power to explain and predict our lived experience. Explain: Why are you tired? You didn't get enough sleep and your brain is physiologically unwell. Predict: Didn't sleep last night? In the coming hours you may feel tired. Science, culture, the economy – everything is built on this materialist understanding, to great effect.
 
 The value of the primacy view is different: its power is to illuminate the distinction between consciousness and its contents, and the liberation to be found in that recognition.
 
