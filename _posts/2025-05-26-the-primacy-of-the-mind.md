@@ -6,7 +6,7 @@ tags: [meditation]
 
 When it comes to understanding how consciousness arises, I am most convinced by the reductive materialist view: all mental states correspond to some physical arrangement of matter and energy. There is no need to invoke a soul, spirit, or anything magical. Emergent phenomena appear to be reducible in principle, even if our current tools can't yet fully account for them.
 
-But when it comes to navigating the lived experience of being conscious, I find it more useful to focus on the primacy of the mind: the mind exists first, and your experience of what you know to be the universe is borne of sensations within it.
+But when it comes to navigating the lived experience of being conscious, I find it more useful to focus on the primacy of the mind: the mind exists first, and your experience of what you know to be the universe is borne of sensations within your consciousness.
 
 Both perspectives seem valid and non-conflicting, useful in their own ways. My focus here is less on their philosophical implications and more on their pragmatic value. A practitioner's musings, as it were.
 
