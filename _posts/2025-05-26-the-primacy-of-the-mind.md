@@ -8,7 +8,7 @@ When it comes to understanding how consciousness arises, I am most convinced by 
 
 But when it comes to navigating the actual lived experience of being conscious, I find it more useful to focus on the primacy of the mind: the mind exists first, and the "universe" is borne of sensations within it.
 
-Both perspectives seem valid and non-conflicting, useful in their own ways. My aim here around their philosophical implications and more about their pragmatic value. A practitioner's musings, as it were.
+Both perspectives seem valid and non-conflicting, useful in their own ways. My aim here is less to explore the philosophy and more about pragmatic value. A practitioner's musings, as it were.
 
 ## First- vs third-person
 
