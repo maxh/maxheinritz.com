@@ -35,7 +35,7 @@ Eric Evans later clarified his perspective – that when it comes to defining ag
 
 ## Ways in which data can be grouped
 
-How we do we decide which data to consider part of a single entity? How do we decide which entities to group together into single aggregate root? It’s a matter of judgment and satisfying business requirements. There are various dimensions along which data can be grouped, described below.
+How do we decide which data to consider part of a single entity? How do we decide which entities to group together into single aggregate root? It’s a matter of judgment and satisfying business requirements. There are various dimensions along which data can be grouped, described below.
 
 ### Database table
 
