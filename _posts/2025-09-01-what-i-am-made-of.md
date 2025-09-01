@@ -25,12 +25,12 @@ The diet is described as “nutrient-dense paleo” – foods available to hunte
 Do eat:
 
 - Three cups leafy green vegetables (spinach, kale, etc)
-- Three cups sulfur-rich vegetables (broccoli, cabbage, Brussels sprouts, cauliflower, garlic, onions, and leeks)
+- Three cups sulfur-rich vegetables (broccoli, cabbage, Brussels sprouts, cauliflower, garlic, onions)
 - Three cups colorful vegetables and fruits (sweet potato, beets, berries, carrots)
 - Grass-fed meats, wild-caught fish, poultry, organ meats
 - Olive oil, coconut oil, avocado, nuts, and seeds
 - Limit fruits to berries
-- Seaweed and algae for minerals and iodine.
+- Seaweed and algae for minerals and iodine
 - Fermented foods like sauerkraut, kimchi, kombucha (for probiotics)
 - Bone broth
 
@@ -44,25 +44,25 @@ Do not eat:
 
 This is a very restrictive diet. I don’t follow it that closely, especially the “do not eat” section. I eat most of those foods regularly. But I continue to consider any departure from this list to be a sacrifice of my “health” goal for some other goal such as “convenience” or “deliciousness.”
 
-Eat to live vs live to eat
+## Eat to live vs live to eat
 
-I approach food on two tracks: “eat to live” mode and “live to eat” mode. The Wahl’s Protocol characterizes the former. Delicious pizza from Uncle Jerry’s characterizes the latter. I do both.
+I approach food on two tracks: “eat to live” mode and “live to eat” mode. The Wahl’s Protocol characterizes the former. Delicious pizza from [Uncle Jerry’s](https://www.unclejerryspizzacompany.com) characterizes the latter. I do both.
 
-Eat-to-live mode is useful for establishing my recurring habits: meal prepping for lunch, what I buy each week at the grocery store, etc. Here I optimize for health while keeping things sustainable from the perspective of the other goals.
+Eat-to-live mode is useful a baseline for my recurring habits: meal prepping for lunch, what I buy each week at the grocery store, etc. Here I optimize for health while keeping things sustainable from the perspective of the other goals.
 
 Live-to-eat mode is appropriate when out with friends and family, when traveling, at nice restaurants, when a coworker bakes a cake, etc. Here I try to eat in moderation, but really there are no hard rules.
 
 ## Super veggie
 
-In defiance of the Wahl’s Protocol, a few years ago I started to meal prep a variation of Brian Johnson’s super veggie for lunch: lentils, broccoli, cauliflower, ginger, garlic, mushrooms, lime juice, apple cider vinegar, oil olive, cumin.
+In defiance of the Wahl’s Protocol, a few years ago I started to meal prep a variation of [Brian Johnson’s super veggie](https://www.youtube.com/watch?v=wHx51zMqmcg) for lunch: lentils, broccoli, cauliflower, ginger, garlic, mushrooms, lime juice, apple cider vinegar, oil olive, cumin.
 
 Most of the ingredients are approved on the Wahl’s Protocol. The big exception is lentils. They are an agricultural product. Still, I find that I feel fairly good eating them, they are inexpensive, delicious, and morally unambiguous.
 
 ## Veganism and morality
 
-I was vegan during 2020. Though I now consume animal products, I continue to find the arguments in favor of veganism compelling, especially with respect to animal rights.
+I was vegan during 2020. Though I now consume animal products, I continue to find the arguments in favor of veganism compelling, especially with respect to animal rights. My mind was first opened to these possibilities by the post [Is Eating Meat A Net Harm?](https://slatestarcodex.com/2019/12/11/acc-is-eating-meat-a-net-harm/).
 
-I believe most agriculturally useful animals experience suffering, especially mammals. So when eating I ask: is/was the life of the animal whose product I’m consuming preferable to non-existence, and by what degree? (The practical alternative to not eating animal products is non-existence of the relevant animals. If everyone ate vegan, we would not allocate resources at scale to the propagation of livestock. There would be billions fewer agricultural animal lives lived.)
+I believe most agriculturally useful animals experience suffering. So when eating I ask: is/was the life of the animal whose product I’m consuming preferable to non-existence, and by what degree? (The practical alternative to not eating animal products is non-existence of the relevant animals. If everyone ate vegan, we would not allocate resources at scale to the propagation of livestock. There would be billions fewer agricultural animal lives lived.)
 
 I also believe that the vast majority of animal products – not just meat but also milk and eggs – come from factory farming environments where non-existence is almost certainly preferable to life. Cows seem to have it better than other animals in industrial settings because they spend time in pasture.
 
