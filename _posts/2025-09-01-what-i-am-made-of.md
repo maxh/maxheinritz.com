@@ -80,7 +80,7 @@ So where it doesn’t require much sacrifice on my part, I try to eat in a way t
 - I’ll use the whole animal, e.g. bones for bone broth.
 - In general, I try to buy animal products at Whole Foods.
 
-But at restaurants, if the best options on the menu are meat, I generally for it despite the moral negative that the meat almost certainly came a factory farming environment. Multiple goals, tradeoffs... 
+But at restaurants, if the best options on the menu are meat, I usually go for it despite the moral negative that the meat almost certainly came a factory farming environment. Multiple goals, tradeoffs...
 
 ## Organic vs non-organic
 
