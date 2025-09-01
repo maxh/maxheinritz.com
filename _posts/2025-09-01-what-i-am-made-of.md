@@ -62,7 +62,9 @@ Most of the ingredients are approved on the Wahl’s Protocol. The big exception
 
 I was vegan during 2020. Though I now consume animal products, I continue to find the arguments in favor of veganism compelling, especially with respect to animal rights. My mind was first opened to these possibilities by the post [Is Eating Meat A Net Harm?](https://slatestarcodex.com/2019/12/11/acc-is-eating-meat-a-net-harm/).
 
-I believe most agriculturally useful animals experience suffering. So when eating I ask: is/was the life of the animal whose product I’m consuming preferable to non-existence, and by what degree? (The practical alternative to not eating animal products is non-existence of the relevant animals. If everyone ate vegan, we would not allocate resources at scale to the propagation of livestock. There would be billions fewer agricultural animal lives lived.)
+I believe most agriculturally useful animals experience suffering. So when eating I ask: is/was the life of the animal whose product I’m consuming preferable to non-existence, and by what degree?
+
+(The practical alternative to not eating animal products is non-existence of the relevant animals. If everyone ate vegan, we would not allocate resources at scale to the propagation of livestock. There would be billions fewer agricultural animal lives lived.)
 
 I also believe that the vast majority of animal products – not just meat but also milk and eggs – come from factory farming environments where non-existence is almost certainly preferable to life. Cows seem to have it better than other animals in industrial settings because they spend time in pasture.
 
