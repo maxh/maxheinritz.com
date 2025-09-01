@@ -136,9 +136,9 @@ Trader Joe’s
 - Lightly smoked canned oysters
 - Lightly smoked canned salmon
 - Sauces
-- Vegan pesto - Italian
-- Chimichurri - Argentine
-- Zhoug - Yemeni 
+  - Vegan pesto - Italian
+  - Chimichurri - Argentine
+  - Zhoug - Yemeni 
 - Vegan ravioli
 - Vegan frozen meatballs
 - Frozen spinach
