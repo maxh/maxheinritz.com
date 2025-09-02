@@ -116,6 +116,9 @@ ALDI
 - Onions
 - Limes
 - Lemons
+- Ginger
+- Garlic
+- Mushrooms
 - Bono olive oil
 - Sunflower seeds
 - Ginger turmeric tea
