@@ -84,7 +84,7 @@ But at restaurants, if the best options on the menu are meat, I usually go for i
 
 ## Organic vs non-organic
 
-I try to eat organic where it matters and am less selective where it’s not as important, per the [EWG Shopper's Guide](https://www.ewg.org/foodnews/dirty-dozen.php). Always organic: berries, apples, bell peppers, leafy greens, green beans, celery, potatoes. Don’t need to be organic: avocados, onions, sweet potato , watermelon, mushroom, asparagus.
+I try to eat organic where it matters and am less selective where it’s not as important, per the [EWG Shopper's Guide](https://www.ewg.org/foodnews/dirty-dozen.php). Always organic: berries, apples, bell peppers, leafy greens, green beans, celery, potatoes. Don’t need to be organic: avocados, onions, sweet potato, watermelon, mushroom, asparagus.
 
 ## Smoothies
 
