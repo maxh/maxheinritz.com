@@ -8,7 +8,7 @@ It took me until my early twenties to appreciate the literal meaning of the expr
 
 ## Journey
 
-Looking back, starting adulthood as a big tech employee likely delayed my maturation in this regard. Monday through Friday I ate three delicious hot meals per day at the office. On the weekends, social plans often dictated my food, and when they didn’t, Taqueria Cancun super burritos filled the void. Yum. I’m grateful for those times.
+Looking back, starting adulthood as a big tech employee likely delayed my maturation in this regard. Monday through Friday I ate three delicious hot meals per day at the office. On the weekends, social plans often dictated food, and when they didn’t, Taqueria Cancun super burritos filled the void. Yum. I’m grateful for those times.
 
 Only during COVID lockdown did I start to purchase all the food I ate. This led to more intentionality and a period of experimentation. First with veganism, then instant pot, intermittent fasting, farm-to-freezer meat, Huel, the Wahl’s protocol, paleo generally, continuous blood glucose monitoring, and more. Turns out it’s fairly easy to be precise about what you eat when you never socialize in person.
 
