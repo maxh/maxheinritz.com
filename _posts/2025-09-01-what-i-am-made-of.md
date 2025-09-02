@@ -29,7 +29,7 @@ Do eat:
 - Three cups colorful vegetables and fruits (sweet potato, beets, berries, carrots)
 - Grass-fed meats, wild-caught fish, poultry, organ meats
 - Olive oil, coconut oil, avocado, nuts, and seeds
-- Limit fruits to berries
+- Limit fruits to berries, cherries, plums, peaches, pomegranates, citrus
 - Seaweed and algae for minerals and iodine
 - Fermented foods like sauerkraut, kimchi, kombucha (for probiotics)
 - Bone broth
@@ -75,7 +75,7 @@ So where it doesn’t require much sacrifice on my part, I try to eat in a way t
 - Substituting sufficiently tasty vegan alternatives eg Trader Joe’s Vegan Kale Pesto.
 - Choosing pasture-raised eggs rather than cage-free or free-range.
 - Eating wild-caught rather than farm-raised fish.
-- Opting for beef rather than chicken, because cows generally have better lives.
+- Opting for beef rather than chicken, because cows generally have better lives, and because one cow life supports many more calories than one chicken life.
 - Consuming mussels because their capacity for suffering is likely limited.
 - I’ll use the whole animal, e.g. bones for bone broth.
 - In general, I try to buy animal products at Whole Foods.
@@ -84,24 +84,7 @@ But at restaurants, if the best options on the menu are meat, I usually go for i
 
 ## Organic vs non-organic
 
-I try to eat organic where it matters and am less selective where it’s not as important.
-
-Always organic
-- Berries
-- Apples
-- Bell peppers
-- Leafy greens
-- Green beans
-- Celery
-- Potatoes
-
-Don’t need to be organic
-- Avocados
-- Onions
-- Sweet potato 
-- Watermelon
-- Mushroom
-- Asparagus
+I try to eat organic where it matters and am less selective where it’s not as important, per the [EWG Shopper's Guide](https://www.ewg.org/foodnews/dirty-dozen.php). Always organic: berries, apples, bell peppers, leafy greens, green beans, celery, potatoes. Don’t need to be organic: avocados, onions, sweet potato , watermelon, mushroom, asparagus.
 
 ## Smoothies
 
@@ -111,10 +94,13 @@ Most days I drink a smoothie. The ingredients are almond milk, a ton of frozen g
 
 Whole Foods
 
+- Spring mix salad greens
 - Bubbie’s sauerkraut
 - Bubbie’s pickles
-- Organic sun dried tomatoes
-- Bones for bone broth
+- Organic canned sun dried tomatoes
+- Organic frozen kale
+- Organic apple cider vinegar
+- Frozen beef bones for bone broth
 - Miyoko’s vegan cheese
 
 ALDI
@@ -125,6 +111,8 @@ ALDI
 - Organic blueberries
 - Organic gala apples
 - Organic baby carrots
+- Organic broccoli heads
+- Cauliflower (I wish they had organic)
 - Onions
 - Limes
 - Lemons
@@ -132,19 +120,21 @@ ALDI
 - Sunflower seeds
 - Ginger turmeric tea
 - Avocados
+- Lentils
+- Canned wild-caught Alaskan salmon
 
 Trader Joe’s
 
 - Lightly smoked canned oysters
 - Lightly smoked canned salmon
-- Sauces
-  - Vegan pesto - Italian
-  - Chimichurri - Argentine
-  - Zhoug - Yemeni 
 - Vegan ravioli
 - Vegan frozen meatballs
 - Frozen spinach
 - Indian lentil packets
+- Sauces
+  - Vegan pesto - Italian
+  - Chimichurri - Argentine
+  - Zhoug - Yemeni 
 
 Powders
 
