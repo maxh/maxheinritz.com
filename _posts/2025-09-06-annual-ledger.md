@@ -50,7 +50,7 @@ I have a separate spreadsheet for each year.
 
 Daily, or near daily, I manually enter my expenses into the sheet. This typically involves inserting a new row, copy/pasting data from an existing row, tweaking the data to match. New transactions go at the top of the sheet so that I don't have to scroll down all the time.
 
-The nice thing about it being manual is that the process is the same regardless of payment method. I don't need to worry about certain accounts syncing or not syncing. I try to save paper receipts and use them as a physical reminder about what to pay. For online purchases, it's easy to log because I'm already on my computer.
+The nice thing about it being manual is that the process is the same regardless of payment method. I don't need to worry about certain accounts syncing or not syncing. I try to save paper receipts and use them as a physical reminder about what to log. For online purchases, it's easy to log because I'm already on my computer.
 
 If I have known upcoming expenses, I keep them as rows at the top with an empty row between them and past transactions. I drag the empty row up/down as future expenses take place.
 
