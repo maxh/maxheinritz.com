@@ -6,7 +6,7 @@ tags: [money]
 
 For the past few years I've been tracking my income and expenses in a Google Spreadsheet. I find that it provides a liberating sense of "controlling my own destiny" when it comes to money.
 
-Previously, I used [mint.com](https://en.wikipedia.org/wiki/Intuit_Mint). Mint was a decent but imperfect product: connections required constant maintenance, it didn't support all my accounts, and it was hard to customize. So when its shutdown was announced in late 2023, I took that time as an opportunity to reevaluate my goals when it comes to this sort of thing.
+Previously, I used [mint.com](https://en.wikipedia.org/wiki/Intuit_Mint). Mint was decent but imperfect: connections required constant maintenance, it didn't support all my accounts, and it was hard to customize. So when its shutdown was announced in late 2023, I took that as an opportunity to reevaluate my goals when it comes to this sort of thing.
 
 ## Link to template
 
