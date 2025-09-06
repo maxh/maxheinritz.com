@@ -42,6 +42,8 @@ On the income side, we have:
 - Income transaction
 - Income source
 
+<img src="/images/annual-ledger-erd.png" alt="annual ledger erd" style="width:600px;"/>
+
 ## Usage
 
 I have a separate spreadsheet for each year.
@@ -141,3 +143,68 @@ function setColorsForChart(sheet, headerCell, chart) {
 }
 ```
 
+## Entity relationship diagram
+
+```
+erDiagram
+    USER ||--o{ EXPENSE_TRANSACTION : "owns"
+    USER ||--o{ EXPENSE_METHOD : "owns"
+    USER ||--o{ EXPENSE_CATEGORY : "owns"
+    USER ||--o{ EXPENSE_CATEGORY_GROUP : "owns"
+
+    EXPENSE_METHOD ||--o{ EXPENSE_TRANSACTION : "used for"
+    EXPENSE_TRANSACTION ||--|{ EXPENSE_CATEGORY : "belongs to"
+    EXPENSE_CATEGORY_GROUP ||--o{ EXPENSE_CATEGORY : "belongs to"
+
+    USER {
+        string qid
+        string name
+        string email
+        string passwordHash
+    }
+    EXPENSE_METHOD {
+        string userQid
+        string qid
+        string name
+        decimal defaultRewardsPercentage
+        string color
+    }
+    EXPENSE_TRANSACTION {
+        string userQid
+        string qid
+        decimal amount
+        date expenseDate
+        string expenseCategoryQid
+        string expenseMethodQid
+        decimal rewardsPercentage
+        string note
+    }
+    EXPENSE_CATEGORY_GROUP {
+        string userQid
+        string qid
+        string name
+    }
+    EXPENSE_CATEGORY {
+        string userQid
+        string qid
+        string name
+    }
+
+    USER ||--o{ INCOME_TRANSACTION : "owns"
+    USER ||--o{ INCOME_SOURCE : "owns"
+
+    INCOME_SOURCE ||--o{ INCOME_TRANSACTION : "provides"
+    
+    INCOME_TRANSACTION {
+        string userQid
+        string qid
+        decimal amount
+        string incomeSource
+        string note
+    }
+    INCOME_SOURCE {
+        string userQid
+        string qid
+        string name
+    }
+```
