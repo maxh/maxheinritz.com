@@ -145,6 +145,8 @@ function setColorsForChart(sheet, headerCell, chart) {
 
 ## Entity relationship diagram
 
+With [Mermaid](https://mermaid.js.org/):
+
 ```
 erDiagram
     USER ||--o{ EXPENSE_TRANSACTION : "owns"
