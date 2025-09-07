@@ -66,7 +66,7 @@ The personal ledger sheet has created this sort of feedback loop for my financia
 
 ## Behavior change
 
-In terms to tactical changes, here are some changes I've made since starting to track expenses:
+Here are some tactical changes I've made since starting to track expenses:
 
 - Switched from Walgreens to Mark Cuban's Cost Plus Pharmacy for pharmaceuticals. It's much cheaper and way more convenient.
 - Applied for and started using new credit cards. For example, I use the Bilt Rewards card to earn 1% rewards on HOA dues. More to talk about here but maybe I'll save that for another post.
