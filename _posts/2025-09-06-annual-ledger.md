@@ -62,7 +62,7 @@ I enjoy tight feedback loops, especially visual ones. It's so rewarding to want 
 
 Programming, of course, offers this experience in spades. Writing, drawing, and other forms of creative expression like cooking offer feedback loops as well.
 
-The personal ledger sheet has created this sort of feedback loop for my financial health. It's gratifying to see the connection between my day-to-day activity and my savings rate. It's useful to compare my expense category breakdown to my values, and see whether I'm spending on what that actually brings me joy.
+The personal ledger sheet has created this sort of feedback loop for my financial health. It's gratifying to see the connection between my day-to-day activity and my savings rate. It's useful to compare my expense category breakdown to my values, and see whether I'm spending on what actually brings me joy.
 
 ## Behavior change
 
