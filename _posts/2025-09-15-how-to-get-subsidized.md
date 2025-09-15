@@ -4,9 +4,9 @@ layout: post
 tags: [personal finance]
 ---
 
-The retail finance industry offers us an expansive, complex interface: credit cards, debit cards, checkings/saving accounts, brokerage accounts, retirement accounts, CDs, mortgages, home equity line of credit, cryptocurrencies, joint accounts, insurance, rewards, incentives of all kinds, etc. There are vast ranges of possible personal decisions and outcomes based on how one engages with this interface.
+The retail finance industry offers us an expansive, complex interface: credit cards, debit cards, checkings/saving accounts, brokerage accounts, retirement accounts, CDs, mortgages, home equity line of credit, cryptocurrencies, joint accounts, insurance, rewards, incentives of all kinds, etc. There are vast ranges of possible personal decisions and outcomes based on how one engages here.
 
-This landscape leads to a game of “subsidize or get subsidized.” Either you are among those generating revenue for these companies, or you shrewdly walk away with part of the wealth transferred from the others. I wish it were not this way, but alas, one cannot choose to opt out of the money game, as one can with other competitive games.
+This landscape has created a game of “subsidize or get subsidized.” Either you are among those generating revenue for these companies, or you shrewdly walk away with part of the wealth transferred from the others. I wish it were not this way, but alas, one cannot choose to opt out of the money game, as one can with other competitive games.
 
 How to play depends on your goals.
 
