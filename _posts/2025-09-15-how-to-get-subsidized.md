@@ -78,12 +78,14 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 - ~4% yield Cash Management Account
 - The only checking-like account with money market yield
 - Global ATM fee reimbursement
+- Does not support Zelle
 
 **US Bank**
 - 4% Rewards Cash Back Credit Card
-- Highest flat cashback offering
-- Requires $100k invested in US Bancorp brokerage account
-- $10k monthly cap
+  - Highest flat cashback offering
+  - Requires $100k invested in US Bancorp brokerage account
+  - $10k monthly cap
+- Supports Zelle connected to high-yield savings account
 
 **Bank of America**
 - 5.25% Rewards Customized Cash Rewards Credit Card
