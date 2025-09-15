@@ -48,7 +48,7 @@ Some of these goals are in conflict and require balance. My hope with this post 
 
 ## Non-goal: personal finance 101
 
-I assume basic knowledge around avoiding debt, making use of taxable accounts, index-based investing, diversification, etc. If any of these concepts are unfamiliar I suggest starting here:
+I assume basic knowledge around avoiding credit card debt, making use of tax-advantaged accounts, index-based investing, asset allocation, etc. If any of these concepts are unfamiliar I suggest starting here:
 
 <https://www.bogleheads.org/wiki/Getting_started>
 
