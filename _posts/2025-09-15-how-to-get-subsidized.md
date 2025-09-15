@@ -39,7 +39,7 @@ Store money in high-yield accounts.
 I do not use credit cards that require me to pay an annual fee just for the card, even if nominally I would receive equal-but-illiquid value back.
 
 **Retain “free” services.**
-Access to in-person banking services such as safe deposit box, quarters, etc
+Access to in-person banking services such as safe deposit box, quarters, etc.
 Zero-cost global ATM access.
 Access to Zelle.
 Rental car collision damage waiver.
