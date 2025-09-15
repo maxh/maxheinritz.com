@@ -82,13 +82,17 @@ So where it doesn’t require much sacrifice on my part, I try to eat in a way t
 
 But at restaurants, if the best options on the menu are meat, I usually go for it despite the moral negative that the meat almost certainly came a factory farming environment. Multiple goals, tradeoffs...
 
+## Wild animals as nutrient harvesters
+
+I use a mental model to motivate my preference for non-farmed animals such as wild-caught Alaskan salmon. In this model, my body needs certain hard-to-acquire compounds out there in the universe, and the animals are little robots either scavenging or producing them. Iodine, zinc, selenium, magnesium, copper, omega 3s they scavenge. Vitamin D, heme iron, B12 are produced lower down the food chain.
+
 ## Organic vs non-organic
 
-I try to eat organic where it matters and am less selective where it’s not as important, per the [EWG Shopper's Guide](https://www.ewg.org/foodnews/dirty-dozen.php). Always organic: berries, apples, bell peppers, leafy greens, green beans, celery, potatoes. Don’t need to be organic: avocados, onions, sweet potato, watermelon, mushroom, asparagus.
+I try to eat organic where it matters and am less selective where it’s not as important, per the [EWG Shopper's Guide](https://www.ewg.org/foodnews/dirty-dozen.php). Always organic: berries, apples, bell peppers, leafy greens, green beans, celery, potatoes. Don’t need to be organic: avocados, onions, sweet potato, watermelon, mushrooms, asparagus. This is fortunate because ALDI doesn't have organic versions of all of these.
 
 ## Smoothies
 
-Most days I drink a smoothie. The ingredients are almond milk, a ton of frozen greens, pea protein, collagen powder, greens powder, and sometimes frozen broccoli sprouts. I use nutribullet to blend it all up. For a while I consumed AG1 but I’ve come to prefer Evolved Greens for its added ingredients and affordability.
+Most days I drink a smoothie. The ingredients are almond milk, a ton of frozen greens, pea protein, collagen powder, greens powder, and sometimes frozen broccoli sprouts. I use Nutribullet to blend it all up. For a while I consumed AG1 but I’ve come to prefer Evolved Greens for its added ingredients and affordability.
 
 ## Grocery staples
 
