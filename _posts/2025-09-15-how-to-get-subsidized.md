@@ -22,17 +22,17 @@ But your checking account also earns you effectively no interest, 0.01% at BoA a
 
 I’ve landed on the following goals:
 
-**Minimize recurring cognitive overhead**
+**Minimize recurring cognitive overhead.**
 I’m happy to invest time upfront researching and configuring. But I don’t want to be burdened with thinking about how to optimize my finances all the time. I’m looking for something closer to “set and forget.”
 
-**Minimize number of financial institutions and accounts**
+**Minimize number of financial institutions and accounts.**
 Related to the first point, simplicity is indeed desirable and also reduces surface area for identity theft and cyberattacks.
 
-**Maximize rewards percentage per transaction**
+**Maximize rewards percentage per transaction.**
 Where possible, use credit cards instead of other payment options.
 For each transaction, use credit cards in a way that maximizes rewards.
 
-**Maximize earned interest on cash**
+**Maximize earned interest on cash.**
 Store money in high-yield accounts.
 
 **Avoid “pay to play” setups.**
