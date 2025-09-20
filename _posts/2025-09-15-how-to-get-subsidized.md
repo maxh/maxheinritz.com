@@ -84,7 +84,7 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 **US Bank**
 - 4% Rewards Cash Back Credit Card
   - Highest flat cashback offering
-  - Requires $100k invested in ~US Bancorp brokerage account~ a US Bank Savings Account 
+  - Requires $100k invested in ~~US Bancorp brokerage account~~ a US Bank Savings Account 
   - [Unfortunately for new folks, the requirements stiffened after I signed up.](https://www.nerdwallet.com/article/credit-cards/u-s-bank-smartly-overhaul-makes-it-harder-to-earn-higher-rates)
   - $10k monthly cap
 - Supports Zelle connected to high-yield savings account
