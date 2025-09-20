@@ -4,7 +4,7 @@ layout: post
 tags: [personal finance]
 ---
 
-The retail finance industry offers us an expansive, complex interface: credit cards, debit cards, checkings/saving accounts, brokerage accounts, retirement accounts, CDs, mortgages, home equity line of credit, cryptocurrencies, joint accounts, insurance, rewards, incentives of all kinds, etc. There are vast ranges of possible personal decisions and outcomes based on how one engages here.
+The retail finance industry offers us an expansive, complex interface: credit/debit cards, checkings/saving accounts, brokerage accounts, retirement accounts, CDs, mortgages, home equity lines of credit, cryptocurrencies, joint accounts, insurance, rewards, incentives of all kinds, etc. There are vast ranges of possible personal decisions and outcomes depending on how one engages here.
 
 This landscape has created a game of “subsidize or get subsidized.” Either you are among those generating revenue for these companies, or you shrewdly walk away with part of the wealth transferred from the others. I wish it were not this way, but alas, one cannot choose to opt out of the money game, as one can with other competitive games.
 
@@ -75,21 +75,23 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 - Getting points for HOA requires at least five other transactions per month. It earns 3% on restaurants so I tend to use it for that.
 
 **Fidelity**
-- ~4% yield Cash Management Account
+- ~4% yield Cash Management Account for checking
 - The only checking-like account with money market yield
-- Global ATM fee reimbursement
+- Debit card with global ATM fee reimbursement
 - Does not support Zelle
+- Robinhood and Wealthfront offer similar programs
 
 **US Bank**
 - 4% Rewards Cash Back Credit Card
   - Highest flat cashback offering
-  - Requires $100k invested in US Bancorp brokerage account
+  - Requires $100k invested in ~US Bancorp brokerage account~ a US Bank Savings Account 
+  - [Unfortunately for new folks, the requirements stiffened after I signed up.](https://www.nerdwallet.com/article/credit-cards/u-s-bank-smartly-overhaul-makes-it-harder-to-earn-higher-rates)
   - $10k monthly cap
 - Supports Zelle connected to high-yield savings account
 
 **Bank of America**
 - 5.25% Rewards Customized Cash Rewards Credit Card
-  - Highest category-specific cashback offering
+  - Highest category-specific cashback offering (I use it for online shopping)
   - Requires $100k invested in Merrill Lynch
   - $2.5k / quarter cap
 - Physical banking
