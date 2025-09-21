@@ -14,7 +14,7 @@ How to play depends on your goals.
 
 One possible goal is “simplicity” aka the “this isn’t worth my time” mindset. This might lead to minimizing the number of financial institutions and accounts, for example, to just have one checking account with one debit card at Bank of America. In our increasingly cashless society, something like that is the bare minimum personal finance setup.
 
-But this option makes you a sucker. Your debit card earns you no per-transaction reward, but the bank earns around $.25/transaction. They are making money off you. You could open a credit card with Bank of America that earns you a flat 1.5% cashback, or more with Preferred Rewards status from reaching certain account balance minimum thresholds.
+But this option leaves money on the table. Your debit card earns you no per-transaction reward, but the bank earns around $.25/transaction. They are making money off you. You could open a credit card with Bank of America that earns you a flat 1.5% cashback, or more with Preferred Rewards status from reaching certain account balance minimum thresholds.
 
 But your checking account also earns you effectively no interest, 0.01% at BoA as of time writing. You could move your money to a savings account at the same institution and earn a whopping 0.03%. Or if you can tolerate slightly more complexity you could open a savings account at Ally online bank and get 3.5% on your cash. With $10k saved, that’s $350/year. But now the setup is more complex… where to strike a balance?
 
@@ -48,7 +48,7 @@ Some of these goals are in conflict and require balance. My hope with this post 
 
 ## Non-goal: personal finance 101
 
-I assume basic knowledge around avoiding credit card debt, making use of tax-advantaged accounts, index-based investing, asset allocation, etc. If any of these concepts are unfamiliar I suggest starting here:
+I assume basic knowledge around avoiding credit card debt, making use of tax-advantaged accounts, self-managed index-based investing, asset allocation, etc. If any of these concepts are unfamiliar I suggest starting here:
 
 <https://www.bogleheads.org/wiki/Getting_started>
 
@@ -70,19 +70,20 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 
 **BILT**
 - 1% rewards on HOA (or rent), $100k/year cap
-- There is no other option for earning rewards on this portion of my spend
+- Why? There is no other option for earning rewards on this portion of my spend
 - This is my only card that yields points instead of cashback. I just transfer them to United and book award airfare once or twice per year.
 - Getting points for HOA requires at least five other transactions per month. It earns 3% on restaurants so I tend to use it for that.
 
 **Fidelity**
-- ~4% yield Cash Management Account for checking
+- Money-market yield Cash Management Account for checking
+- Why? This is one of the only high yield _checking_ accounts
 - Debit card with global ATM fee reimbursement
 - Does not support Zelle
 - Robinhood and Wealthfront offer similar programs
 
 **US Bank**
 - 4% Rewards Cash Back Credit Card
-  - Highest flat cashback offering
+  - Why? Highest flat cashback offering
   - Requires $100k invested in ~~a US Bancorp brokerage account~~ a US Bank Savings Account 
   - [Unfortunately for new folks, the requirements stiffened after I signed up.](https://www.nerdwallet.com/article/credit-cards/u-s-bank-smartly-overhaul-makes-it-harder-to-earn-higher-rates)
   - $10k monthly cap
@@ -90,7 +91,7 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 
 **Bank of America**
 - 5.25% Rewards Customized Cash Rewards Credit Card
-  - Highest category-specific cashback offering (I use it for online shopping)
+  - Why? Highest category-specific cashback offering (I use it for online shopping)
   - Requires $100k invested in Merrill Lynch
   - $2.5k / quarter cap
 - Physical banking
@@ -99,13 +100,14 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 
 **Robinhood Gold**
 - $50 / year annual fee
-- $7,000 IRA contributions x 3% match = $210 right away
+- Why? $7,000 IRA contributions x 3% match = $210 right away
 - 2% transfer bonus offered periodically, no cap
+- I build up accounts from wage income elsewhere and transfer to Robinhood during the bonus window
 
 **Chase Amazon Prime Rewards Visa**
 - $139 / year annual fee for Prime overall
-- 5% cashback on Amazon and Whole Foods purchases, no cap
+- Why? 5% cashback on Amazon and Whole Foods purchases, no cap
 
 **Wells Fargo Autograph**
-- 3% on travel, no cap
-- Rental car collision damage coverage
+- 3% on all travel, no cap
+- Why? High, unlimited cashback and rental car collision damage coverage
