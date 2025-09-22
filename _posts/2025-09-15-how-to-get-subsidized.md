@@ -70,7 +70,8 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 **BILT**
 - 1% rewards on HOA (or rent, maybe mortgage soon), $100k/year cap
 - Why? There is no other option for earning rewards on this portion of spend
-- This is my only card that yields points instead of cashback. I just transfer them to United and book award airfare once or twice per year. (You can redeem point for statement credit but at unfavorable rates.)
+- This is my only card that yields points instead of cashback. I just transfer them to United and book award airfare once or twice per year.
+- (You can redeem points for statement credit but at unfavorable rates.)
 - BILT requires at least five other monthly transactions to earn points. I primarily use it for 3% cashback at restaurants.
 - How it works: cardholders are issued a custom bank account number to pay for housing expenses.
 
