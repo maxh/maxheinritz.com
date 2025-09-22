@@ -112,7 +112,7 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 
 **Fidelity**
 - Money-market yield Cash Management Account for checking
-- Why? This is one of the only high yield _checking_ accounts
+- Why? This is one of the only high-yield _checking_ accounts
 - Debit card with global ATM fee reimbursement
 - Does not support Zelle
 - Robinhood and Wealthfront offer similar programs
