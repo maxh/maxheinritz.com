@@ -4,9 +4,9 @@ layout: post
 tags: [personal finance]
 ---
 
-The retail finance industry offers us an expansive, complex interface: credit/debit cards, checkings/saving accounts, brokerage accounts, retirement accounts, CDs, mortgages, home equity lines of credit, cryptocurrencies, joint accounts, insurance, rewards, incentives of all kinds, etc. There are vast ranges of possible personal decisions and outcomes depending on how one engages here.
+The retail finance industry offers us an expansive, complex interface: credit/debit cards, checking/savings accounts, brokerage accounts, retirement accounts, CDs, mortgages, home equity lines of credit, cryptocurrencies, joint accounts, insurance, rewards, incentives of all kinds, etc. There are vast ranges of possible personal decisions and outcomes depending on how one engages here.
 
-This landscape has created a game of “subsidize or get subsidized.” Either you are among those generating revenue for these companies, or you shrewdly walk away with part of the wealth transferred from the others. I wish it were not this way, but alas, one cannot choose to opt out of the money game, as one can with other competitive games.
+This landscape has created a game: subsidize, or get subsidized. Either you generate revenue for these companies -- or you extract a portion of wealth transferred from others. I wish it were not this way, but alas, one cannot choose to opt out of the money game, as one can with other competitive games.
 
 How to play depends on your goals.
 
@@ -65,21 +65,14 @@ But for travel points, you can optimize both the “earn” and “redeem” sid
 
 The line has to be drawn somewhere... for me, I consider my time to be more valuable than point optimization. I’ll take the money in the bank.
 
-## My approach
+## Good credit cards
 
 **BILT**
-- 1% rewards on HOA (or rent), $100k/year cap
+- 1% rewards on HOA (or rent, maybe mortgage soon), $100k/year cap
 - Why? There is no other option for earning rewards on this portion of spend
 - This is my only card that yields points instead of cashback. I just transfer them to United and book award airfare once or twice per year. (You can redeem point for statement credit but at unfavorable rates.)
-- Receiving points for HOA requires at least five other transactions per month. It earns 3% on restaurants so I tend to use it for that.
+- BILT requires at least five other monthly transactions to earn points. I primarily use it for 3% cashback at restaurants.
 - How it works: cardholders are issued a custom bank account number to pay for housing expenses.
-
-**Fidelity**
-- Money-market yield Cash Management Account for checking
-- Why? This is one of the only high yield _checking_ accounts
-- Debit card with global ATM fee reimbursement
-- Does not support Zelle
-- Robinhood and Wealthfront offer similar programs
 
 **US Bank**
 - 4% Rewards Smartly Cash Back Credit Card
@@ -113,6 +106,15 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 **Wells Fargo Autograph**
 - 3% on all travel, no cap
 - Why? High, unlimited cashback and rental car collision damage coverage
+
+## Good options for stashing cash
+
+**Fidelity**
+- Money-market yield Cash Management Account for checking
+- Why? This is one of the only high yield _checking_ accounts
+- Debit card with global ATM fee reimbursement
+- Does not support Zelle
+- Robinhood and Wealthfront offer similar programs
 
 **Treasury Direct I-bonds**
 - Government savings program
