@@ -87,20 +87,20 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 - 5.25% Rewards Customized Cash Rewards Credit Card
   - Why? Highest category-specific cashback offering (I use it for online shopping)
   - Requires $100k invested in Merrill Lynch
-  - $2.5k / quarter cap
+  - $2.5k/quarter cap
 - Physical banking
   - Zero-cost safety deposit box (from Preferred Rewards)
   - Access to quarters
 
 **Robinhood Gold**
-- $50 / year annual fee for generous rewards
+- $50/year annual fee for generous rewards
 - Why? Robinhood takes money wasted in the legacy brokerage model and just gives it to consumers
 - $7,000 IRA contributions x 3% match = $210 right away
 - 2%-3% transfer bonus offered periodically, no cap
 - I build up savings from wage income elsewhere and transfer to Robinhood during the bonus window
 
 **Chase Amazon Prime Rewards Visa**
-- $139 / year annual fee for Prime overall
+- $139/year annual fee for Prime overall
 - Why? 5% cashback on Amazon and Whole Foods purchases, no cap
 - 6% cashback with slower shipping is sometimes offered on Amazon
 
