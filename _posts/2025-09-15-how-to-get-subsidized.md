@@ -61,7 +61,7 @@ There are a couple reasons for this. First, I don’t particularly value or spen
 
 For cashback, I dedicate recurring but limited mental energy on the “earn” side: that is, which card to use for which purchase to get the most reward. Once the rewards are earned, I just redeem them to my account.
 
-But for travel points, you can optimize both the “earn” and “redeem” sides, the latter by looking for the best reward travel availability on the best airlines at the right times. There is effectively infinite time one could spend to squeeze the most out of points.
+But for travel points, you can optimize both the “earn” and “redeem” sides, the latter by looking for the best award travel availability on the best airlines at the right times. There is effectively infinite time one could spend to squeeze the most out of points.
 
 The line has to be drawn somewhere... for me, I consider my time to be more valuable than point optimization. I’ll take the money in the bank.
 
