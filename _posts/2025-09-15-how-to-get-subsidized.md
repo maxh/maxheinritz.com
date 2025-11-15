@@ -35,7 +35,7 @@ Store money in high-yield accounts.
 Related to the first point, simplicity is indeed desirable and also reduces surface area for identity theft and cyberattacks.
 
 **Avoid “pay to play” setups.**
-I generally eschew credit cards and memberships that require an annual fee, even if nominally I would receive equal-but-illiquid value back. I don't want to have to keep track of squeezing all the benefits out of an annual fee each year. Some exceptions below though.
+I generally avoid credit cards and memberships that require an annual fee, even if nominally I would receive equal-but-illiquid value back. I don't want to have to keep track of squeezing all the benefits out of an annual fee each year. Some exceptions below though.
 
 **Retain “free” services.**
 Access to in-person banking services such as safe deposit box, quarters, etc.
