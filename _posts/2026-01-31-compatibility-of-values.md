@@ -4,7 +4,7 @@ layout: post
 tags: [culture, future]
 ---
 
-# Values
+_Co-authored by Claude._
 
 Attraction and circumstance bring people together, but _compatibility of values_ is what determines whether a relationship will last. This holds for friends, lovers, coworkers, and to some extent families. So what are values? What makes them good, and what makes them compatible?
 
