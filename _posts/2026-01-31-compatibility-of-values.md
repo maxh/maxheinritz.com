@@ -12,11 +12,11 @@ Attraction and circumstance bring people together, but _compatibility of values_
 
 Values are our differentiating, deep-rooted preferences about how to live.
 
-Everybody wants water when they're thirsty, so hydration doesn't tell you much about a person. But silence vs stimulation, novelty vs routine, optimization vs ease, rootedness vs mobility... these reveal something, because they lead to genuinely different decisions and ultimately different lives. The sharpest way to express a value is often as a tradeoff: "I care more about acknowledging what is true than about keeping other people at ease."
+Everybody wants water when they're thirsty, so a preference for hydration doesn't tell you much about a person. But silence vs stimulation, novelty vs routine, optimization vs ease, rootedness vs mobility... these reveal something, because they lead to genuinely different decisions and ultimately different lives. The sharpest way to express a value is often as a tradeoff: "I care more about acknowledging what is true than about keeping other people at ease."
 
 And deep-rooted here means durable and salient: preferences that persist across years and surface almost daily. For example, I'm most productive in complete silence: no music, no background noise. I wish I were more flexible, but this has been true for decades.
 
-Values appear in three forms. They can be implicit, as in revealed through behavior rather than words. Someone who has never articulated a preference for convenience but orders delivery for every meal and lives five minutes from work is telling you something. They can be explicit, as in stated outright in conversation, in a dating profile, or in how someone explains a decision. And they can be aspirational, as in endorsed in the mind but not yet tested by repetition and cost.
+Values appear in three forms. They can be implicit, as in revealed through behavior rather than words. They can be explicit, as in stated outright in conversation, in a dating profile, or in how someone explains a decision. And they can be aspirational, as in endorsed in the mind but not yet tested by repetition and cost.
 
 ## Change and choice
 
