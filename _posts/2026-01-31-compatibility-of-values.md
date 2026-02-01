@@ -28,7 +28,7 @@ We have some influence over this process. Because values are part genetic and pa
 
 A good value does two things. It supports our own well-being, on reflection, even when the support isn't immediately obvious. And it is broadly compatible with the values of the people we care about, or at least not so incompatible that maintaining it requires constant friction.
 
-The first criterion is personal and ultimately accessible through introspection. The second is where most of us actually feel the difficulty, and it is worth examining in detail.
+The first criterion is personal and accessible through introspection. The second is where most of us actually feel the difficulty, and it is worth examining in detail.
 
 ## Compatibility
 
