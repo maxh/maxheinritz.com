@@ -69,7 +69,7 @@ The personal ledger sheet has created this sort of feedback loop for my financia
 Here are some tactical changes I've made since starting to track expenses:
 
 - Switched from Walgreens to Mark Cuban's Cost Plus Pharmacy for pharmaceuticals. It's much cheaper and way more convenient.
-- Applied for and started using new credit cards. For example, I use the Bilt Rewards card to earn 1% rewards on HOA dues. More to talk about here but maybe I'll save that for another post.
+- Applied for and started using new credit cards. See the post [how to get subsidized](./how-to-get-subsidized.html).
 - Walk and bike everywhere to avoid transit and ridesharing costs. I was already doing that but even more so now.
 - Fewer "aspirational" expenses. Previously I would buy things I think I might need or might be something I would enjoy. I do less of that now.
 - Spend more generously on gifts for friends and family. I treat a high number in that category as good.

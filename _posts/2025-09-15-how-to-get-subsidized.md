@@ -75,12 +75,6 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
   - $10k monthly cap
 - Supports Zelle connected to a decently high-yield savings account
 
-**~BILT~**
-- [Unfortunately, BILT 2.0 removed these benefits](https://thepointsguy.com/credit-cards/bilt-2-0-new-tiers-points-rent-mortgage/)
-- ~1% rewards on HOA (or rent, maybe mortgage soon), $100k/year cap~
-- ~Why? There is no other option for earning rewards on this portion of spend~
-- ~BILT requires at least five other monthly transactions to earn points. I primarily use it for 3% rewards at restaurants.~
-- ~How it works: cardholders are issued a custom bank account number to pay for housing expenses.~
 
 
 **Bank of America**
@@ -122,3 +116,13 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 - Why? The only bonds I'm aware of protected from both inflation risk _and_ interest rate risk
 - Redeemable directly from treasurydirect.gov after one year, no need for secondary market transaction
 - $10k/year/person purchase cap
+
+## Graveyard
+
+[Unfortunately, BILT 2.0 eliminated these benefits](https://thepointsguy.com/credit-cards/bilt-2-0-new-tiers-points-rent-mortgage/):
+
+**BILT**
+- 1% rewards on HOA (or rent, maybe mortgage soon), $100k/year cap
+- Why? There is no other option for earning rewards on this portion of spend
+- BILT requires at least five other monthly transactions to earn points. I primarily use it for 3% rewards at restaurants.
+- How it works: cardholders are issued a custom bank account number to pay for housing expenses.
