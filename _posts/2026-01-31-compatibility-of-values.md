@@ -12,9 +12,9 @@ Attraction and circumstance bring people together, but _compatibility of values_
 
 Values are our differentiating, deep-rooted preferences about how to live.
 
-Everybody wants water when they're thirsty, so a preference for hydration doesn't tell you much about a person. But silence vs stimulation, novelty vs routine, optimization vs ease, rootedness vs mobility... these reveal something, because they lead to genuinely different decisions and ultimately different lives. The sharpest way to express a value is often as a tradeoff: "I care more about acknowledging what is true than about keeping other people at ease."
+Everybody seeks water when they're thirsty, so a preference for hydration isn't particularly differentiating. But silence vs stimulation, novelty vs routine, optimization vs ease, rootedness vs mobility... these reveal something, because they lead to different decisions and ultimately different lives. The sharpest way to express a value is often as a tradeoff: "I care more about acknowledging what is true than about keeping other people at ease."
 
-And deep-rooted here means durable and salient: preferences that persist across years and surface almost daily. For example, I'm most productive in complete silence: no music, no background noise. I wish I were more flexible, but this has been true for decades.
+Deep-rooted here means durable and salient: preferences that persist across years and surface almost daily. For example, I'm most productive in complete silence: no music, no background noise. I wish I were more flexible, but this has been true for decades.
 
 Values appear in three forms. They can be implicit, as in revealed through behavior rather than words. They can be explicit, as in stated outright in conversation, in a dating profile, or in how someone explains a decision. And they can be aspirational, as in endorsed in the mind but not yet tested by repetition and cost.
 
@@ -22,7 +22,7 @@ Values appear in three forms. They can be implicit, as in revealed through behav
 
 Values can shift over time. Children grow out of their toys, teenagers grow out of their rebellion. As adults, we might value income over comfort until we reach a certain level of wealth and then reverse the priority.
 
-We have some influence over this process. Because values are part genetic and part environmental, we can shift them by choosing where we focus our attention and who we spend time with. Given this capacity, it is worth asking: what values should we want?
+We have some influence over this process. Because values are part genetic and part environmental, we can shift them by choosing where we focus our attention and who we spend time with. Given this capacity, it is worth asking: what values should we aspire to hold?
 
 ## Evaluating values
 
