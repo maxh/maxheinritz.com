@@ -4,7 +4,7 @@ layout: post
 tags: [yoga, language]
 ---
 
-For years I've wondered about the etymology of "supine" vs reclined within yoga pose names. We have the idiomatic terms "supine figure four" and "reclined bound angle" – why do we say that instead of "reclined figure four" and "supine bound angle"? The alternatives seem equally valid. So, I started pulling on this thread and went down a bit of a rabbit hole.
+For years I've wondered about the etymology of "supine" vs "reclined" in yoga pose names. We have the idiomatic "supine figure four" and "reclined bound angle" – why do we say that instead of "reclined figure four" and "supine bound angle"? The alternatives seem equally valid. So, I started pulling on this thread and went down a bit of a rabbit hole.
 
 ## Supta
 
