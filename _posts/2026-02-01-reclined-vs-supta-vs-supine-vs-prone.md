@@ -25,7 +25,7 @@ The Sanskrit word for the latter is "adva," meaning "prone" or "face-down." It i
 
 Curiously, despite their phonetic similarity, "supta" and "supine" do not appear to share the same root in the Proto-Indo-European (PIE) language.
 
-- Supta comes from Sanskrit supta (सुप्त), the past participle of svap ("to sleep"), which derives from the PIE root *swep- ("to sleep"). This is the same root that gives us English words like "somnolent" (via Latin somnus, from an earlier form of the same root).
+- Supta comes from Sanskrit supta, the past participle of svap ("to sleep"), which derives from the PIE root *swep- ("to sleep"). This is the same root that gives us English words like "somnolent" (via Latin somnus, from an earlier form of the same root).
 - Supine comes from Latin supīnus ("lying face upward, thrown backward"), which is generally traced to the Latin preposition/prefix sub ("under") or related to super ("above, over"), ultimately from PIE *upo- or *sup- ("under, up from under").
 
 Thus, the similarity in sound is largely coincidental, though both Proto-Indo-European roots do start with s- followed by a vowel and p.
