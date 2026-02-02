@@ -67,14 +67,6 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
 
 ## Good credit cards
 
-**BILT**
-- 1% rewards on HOA (or rent, maybe mortgage soon), $100k/year cap
-- Why? There is no other option for earning rewards on this portion of spend
-- This is my only card that yields points instead of cashback. I just transfer them to United and book award airfare once or twice per year.
-- (You can redeem points for statement credit but at unfavorable rates.)
-- BILT requires at least five other monthly transactions to earn points. I primarily use it for 3% rewards at restaurants.
-- How it works: cardholders are issued a custom bank account number to pay for housing expenses.
-
 **US Bank**
 - 4% Rewards Smartly Cash Back Credit Card
   - Why? Highest flat cashback offering
@@ -82,6 +74,14 @@ The line has to be drawn somewhere... for me, I consider my time to be more valu
   - [Unfortunately for new folks, the requirements stiffened after I signed up.](https://www.nerdwallet.com/article/credit-cards/u-s-bank-smartly-overhaul-makes-it-harder-to-earn-higher-rates)
   - $10k monthly cap
 - Supports Zelle connected to a decently high-yield savings account
+
+**~BILT~**
+- [Unfortunately, BILT 2.0 removed these benefits](https://thepointsguy.com/credit-cards/bilt-2-0-new-tiers-points-rent-mortgage/)
+- ~1% rewards on HOA (or rent, maybe mortgage soon), $100k/year cap~
+- ~Why? There is no other option for earning rewards on this portion of spend~
+- ~BILT requires at least five other monthly transactions to earn points. I primarily use it for 3% rewards at restaurants.~
+- ~How it works: cardholders are issued a custom bank account number to pay for housing expenses.~
+
 
 **Bank of America**
 - 5.25% Rewards Customized Cash Rewards Credit Card
