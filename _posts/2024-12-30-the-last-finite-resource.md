@@ -56,7 +56,7 @@ Second, doubling down on personal relationships. The pursuit of impact doesn't r
 
 Third, good old diversification. Software engineering is just one arena for impact. Last year I started teaching yoga, something less prone to automation. This year I hope to write and publish more, if only for myself and a few friends.
 
-And finally, an abundance mindset. While the competition for impact will increase, eight billion people is a vast number. Opportunity awaits–there are many paths.
+And finally, an abundance mindset. While the competition for impact will increase, eight billion people is a vast number. Opportunity awaits... there are many paths.
 
 ### Inspiration
 
