@@ -4,13 +4,11 @@ layout: post
 tags: [culture, future]
 ---
 
-_Co-authored by Claude._
-
 Attraction and circumstance bring people together, but _compatibility of values_ is what determines whether a relationship will last. This holds for friends, lovers, coworkers, and to some extent families. So what are values? What makes them good, and what makes them compatible?
 
 ## Definition
 
-Values are our differentiating, deep-rooted preferences about how to live.
+Values are our differentiating, deep-rooted preferences.
 
 Everybody seeks water when they're thirsty, so a preference for hydration isn't particularly differentiating. But silence vs stimulation, novelty vs routine, optimization vs ease, rootedness vs mobility... these reveal something, because they lead to different decisions and ultimately different lives. The sharpest way to express a value is often as a tradeoff: "I care more about acknowledging what is true than about keeping other people at ease."
 
@@ -22,7 +20,7 @@ Values appear in three forms. They can be implicit, as in revealed through behav
 
 Values can shift over time. Children grow out of their toys, teenagers grow out of their rebellion. As adults, we might value income over comfort until we reach a certain level of wealth and then reverse the priority.
 
-We have some influence over this process. Because values are part genetic and part environmental, we can shift them by choosing where we focus our attention and who we spend time with. Given this capacity, it is worth asking: what values should we aspire to hold?
+We have some influence over this process. Because values are part genetic and part environmental, we can shift them by shaping our environment -- by choosing where we focus our attention and who we spend time with. Given this capacity, it is worth asking: what values should we aspire to hold?
 
 ## Evaluating values
 
@@ -64,3 +62,4 @@ As external constraints fade in our relationships, they are replaced by choice. 
 
 In this sense, we are all becoming empty nesters. The shared project of necessity is being removed. But the abundance that loosened the old bonds also means we have more ways than ever to find people who genuinely fit. And the clearer we are about what we value, the faster we find them, and the deeper the bonds, as they are borne entirely of choice.
 
+_Co-authored by Claude._
