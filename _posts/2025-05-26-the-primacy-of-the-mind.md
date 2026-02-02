@@ -56,7 +56,7 @@ Thankfully, most of us do not experience that degree of suffering in normal life
 
 ## One path, two views
 
-The reductive materialist and primacy of mind perspectives need not compete. Understanding your brain's neurochemistry can inform better sleep, nutrition, and medical care. But when you are stuck on the tarmack when your flight is delayed, it's the recognition that everthing is just phenomena arising and passing that offers immediate relief. Both views serve consciousness: one explains how it works, the other reveals how to work with it.
+The reductive materialist and primacy of mind perspectives need not compete. Understanding your brain's neurochemistry can inform better sleep, nutrition, and medical care. But when you are still stuck on the tarmack after a four-hour airplane taxi delay, it's the recognition that everthing is just phenomena arising and passing that offers immediate relief. Both views serve consciousness: one explains how it works, the other reveals how to work with it.
 
 ## Lineage
 
