@@ -1,5 +1,5 @@
 ---
-title: Compatibility of values
+title: Reclined vs supta vs supine vs prone
 layout: post
 tags: [yoga, language]
 ---
