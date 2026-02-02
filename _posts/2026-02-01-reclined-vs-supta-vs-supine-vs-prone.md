@@ -38,11 +38,11 @@ Though yoga as a broad spiritual practice emerged millennia ago, the use of the 
 
 The earliest documented use of "supta" in a yoga pose name appears in Krishnamacharya's 1934 text _Yoga Makaranda_: "supta utthita dakshinapada janusirsasana," or "reclining extended right foot head to knee pose."
 
-Honestly that name is just wild. In retrospect, it's clear these guys were basically just stitching together ancient words in a descriptive way. Certainly in part to be educational, as these long names are super precise. But also in part to imply an ancient lineage supporting their approach.
+Honestly that name is just wild. In retrospect, it's clear these guys were basically just stitching together ancient words in a descriptive way. Certainly in part to be educational, as these long names are super precise. But also in part to convey an ancient lineage supporting their approach.
 
-It's kind of like paleontologists naming dinosaurs with Latin words. No one in the Roman Empire used the term "tyrannosaurus rex" in their own speech or writing. Modern people have co-opted individual words from a dead language to build new names for novel concepts. Which is fine: scientists don't use this naming scheme to try to suggest enduring legitimacy that extends back to ancient Rome.
+It's kind of like paleontologists naming dinosaurs with Latin words. No one in the Roman Empire used the term "tyrannosaurus rex" in their own speech or writing. Modern people have co-opted individual words from a dead language to build new names for novel concepts. Which is fine: scientists don't use these names to suggest enduring legitimacy that extends back to ancient Rome.
 
-But yoga teachers sometimes do use Sanskrit in this way, which I find misleading. For example, it would be incorrect to say something like: "now we're going to try supta baddha konasana, which is the ancient Sanskrit name for this pose." People simply were not saying these phrases and moving their bodies accordingly in the Indus River Valley thousands of years ago. The timeline is more like:
+But yoga teachers sometimes do use Sanskrit in this way, which I find invites an impression of antiquity that isn't historically accurate. For example, it is factually incorrect to say something like: "now we're going to try supta baddha konasana, which is the ancient Sanskrit name for this pose." People simply were not saying these phrases and moving their bodies accordingly in the Indus River Valley thousands of years ago. The timeline is more like:
 
 - _~500 BCE to ~500 CE_ - Sanskrit was spoken as a common language, "yoga" referred to seated meditation, breath control, philosophical contemplation, etc.
 - _~1000-1500 CE onward_ - Sanskrit was dead as a spoken language but texts used Sanskrit for prestige. Limited physical asanas emerged and were documented, mostly standalone seated postures.
