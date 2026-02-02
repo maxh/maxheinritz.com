@@ -58,7 +58,7 @@ The first is ancient history: while it's not true that Sanskrit pose names are t
 
 The second is modern history: we can trace current yoga practice back to Krishnamacharya and Iyengar and their use/misuse of Sanskrit. These are the original pose names in some sense, though they aren't as ancient as they might appear at first.
 
-The third is universality: a yoga teacher in Tokyo and a yoga teacher in São Paulo can all say "trikonasana" and mean the same thing. That's neat.
+The third is universality: a yoga teacher in Tokyo and a yoga teacher in São Paulo can both say "trikonasana" and mean the same thing. That's neat.
 
 And the fourth is aesthetic: the language just sounds cool, and composes well.
 
