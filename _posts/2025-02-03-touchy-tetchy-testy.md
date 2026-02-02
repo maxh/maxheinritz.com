@@ -4,7 +4,7 @@ layout: post
 tags: []
 ---
 
-I recently learned the word "tetchy". It means irritable or easily annoyed.
+I recently learned the word "tetchy." It means irritable or easily annoyed.
 
 My first reaction was mild horror -- had I been misusing the similar-sounding "touchy" all these years? Flashbacks to my past malapropisms: "flush out" for "flesh out", "precedence" for "precedent", so on.
 
