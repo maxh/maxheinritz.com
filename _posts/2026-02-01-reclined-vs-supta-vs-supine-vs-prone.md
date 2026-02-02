@@ -44,9 +44,9 @@ It's kind of like paleontologists naming dinosaurs with Latin words. No one in t
 
 But yoga teachers sometimes do use Sanskrit in this way, which I find misleading. For example, it would be incorrect to say something like: "now we're going to try supta baddha konasana, which is the ancient Sanskrit name for this pose." People simply were not saying these phrases and moving their bodies accordingly in the Indus River Valley thousands of years ago. The timeline is more like:
 
-- _~500 BCE to ~500 CE_ - Sanskrit was spoken as a common language, "yoga" referred to seated meditation, breath control, philosophical contemplation, etc
-- _~1000-1500 CE onward_ - Sanskrit was dead as a spoken language but texts used Sanskrit for prestige. Limited physical asanas emerged and were documented, mostly standalone seated postures
-- _1920s-1960s_ - Krishnamacharya and Iyengar build a library of new poses and give them names using Sanskrit
+- _~500 BCE to ~500 CE_ - Sanskrit was spoken as a common language, "yoga" referred to seated meditation, breath control, philosophical contemplation, etc.
+- _~1000-1500 CE onward_ - Sanskrit was dead as a spoken language but texts used Sanskrit for prestige. Limited physical asanas emerged and were documented, mostly standalone seated postures.
+- _1920s-1960s_ - Krishnamacharya and Iyengar built a library of new poses and gave them names using Sanskrit.
 
 So when we ask about the etymology of reclined vs supine and turn our attention to Sanskrit, it's important to be clear-eyed that it only takes us back a few decades, not millennia.
 
