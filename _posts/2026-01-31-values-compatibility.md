@@ -1,10 +1,10 @@
 ---
-title: Compatibility of values
+title: Values compatibility
 layout: post
 tags: [culture, future]
 ---
 
-Attraction and circumstance bring people together, but _compatibility of values_ is what determines whether a relationship will last. This holds for friends, lovers, coworkers, and to some extent families. So what are values? What makes them good, and what makes them compatible?
+Attraction and circumstance bring people together, but _values compatibility_ determines whether a relationship will last. This holds for friends, lovers, coworkers, and to some extent families. So what are values? What makes them good, and what makes them compatible?
 
 ## Definition
 
