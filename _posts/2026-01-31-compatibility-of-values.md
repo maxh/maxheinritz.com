@@ -52,14 +52,14 @@ The first is opacity. We cannot always see our values clearly. Aspirational valu
 
 The second is necessity. Incompatibility among core values can be masked for years by alignment on more pressing ones. Empty-nest divorces illustrate this well: parenting demands so many shared resources and decisions that it can override other value misalignments entirely. Two people who disagree about how to spend surplus time or money may never feel that friction while raising children, because parenting dominates the decision space. Remove the shared project, and the misalignments surface.
 
-This pattern extends beyond parenting. Historically, much of our social compatibility has been enforced by external constraints. We were close with our neighbors because our social opportunities were geographically bounded. We tolerated difficult coworkers because switching jobs was costly. Shared values within bounded contexts can paper over deeper value differences, and often that has been fine. The relationships work, even if they work for reasons that have little to do with genuine fit.
+This pattern extends beyond parenting. Historically, much of our social compatibility has been enforced by external constraints. We were close with our neighbors because our social opportunities were geographically bounded. We tolerated difficult coworkers because switching jobs was costly. Shared values dictated by constraints can paper over deeper value differences, and often that has been fine. The relationships work, even if they work for reasons that have little to do with genuine fit.
 
 ## We are all empty nesters now
 
-But the constraints that bound us together are loosening. Remote work, delivery apps, algorithmic entertainment, AI generally… each of these removes a small reason to coordinate with other humans. The trend has been visible for decades, but it is accelerating. New forms of social glue have emerged, yet these tend to be narrower and more voluntary than the constraints they replaced.
+But the constraints that bound us together are loosening. Remote work, delivery apps, algorithmic entertainment, AI generally... each of these removes a small reason to coordinate with other humans. The trend has been visible for decades, but it is accelerating. New forms of social glue have emerged, yet these tend to be narrower and more voluntary than what they replace.
 
-As external constraints fade in our relationships, they are replaced by choice. And choice, over time, follows values.
+As the constraints fade, they are replaced by choice. And choice, over time, follows values.
 
-In this sense, we are all becoming empty nesters. The shared project of necessity is being removed. But the abundance that loosened the old bonds also means we have more ways than ever to find people who genuinely fit. And the clearer we are about what we value, the faster we find them, and the deeper the bonds, as they are borne entirely of choice.
+In this sense, we are all becoming empty nesters. The shared project of necessity is being removed by technical and social change. But that abundance also means we have more ways than ever to find people who genuinely fit. And the clearer we are about what we value, the deeper the bonds, borne as they are of pure choice.
 
 _Co-authored by Claude._
