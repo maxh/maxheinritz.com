@@ -13,7 +13,7 @@ The common Sanskrit prefix for many of the relevant yoga poses is "supta." In hi
 - Supta matsyendrasana - supine spinal twist
 - Supta baddha konasana - reclined bound angle
 
-So it appears that whoever started using the terms in English just picked one for a given pose and for whatever reason certain usages have stuck around within the lexicon. 
+So it appears that whoever started using the terms in English picked one for a given pose and for whatever reason certain usages have stuck around within the lexicon. 
 
 ## Supine vs prone
 
@@ -38,7 +38,7 @@ Though yoga as a broad spiritual practice emerged millennia ago, the use of the 
 
 The earliest documented use of "supta" in a yoga pose name appears in Krishnamacharya's 1934 text _Yoga Makaranda_: "supta utthita dakshinapada janusirsasana," or "reclining extended right foot head to knee pose."
 
-Honestly that name is just wild. In retrospect, it's clear these guys were basically just stitching together ancient words in a descriptive way. Certainly in part to be educational, as these long names are super precise. But also in part to convey an ancient lineage supporting their approach.
+Honestly that name is wild. In retrospect, it's clear these guys were basically stitching together ancient words in a descriptive way. Certainly in part to be educational, as these long names are super precise. But also in part to convey an ancient lineage supporting their approach.
 
 It's kind of like paleontologists naming dinosaurs with Latin words. No one in the Roman Empire used the term "tyrannosaurus rex" in their own speech or writing. Modern people have co-opted individual words from a dead language to build new names for novel concepts. Which is fine: scientists don't use these names to suggest enduring legitimacy that extends back to ancient Rome.
 
@@ -52,9 +52,9 @@ So when we ask about the etymology of reclined vs supine and turn our attention 
 
 ## The value of Sanskrit
 
-That said, I still see some benefits to using Sanskrit.
+That said, I still see a few reasons to use Sanskrit.
 
-The first is ancient history: while it's not true that Sanskrit pose names are thousands of years old, the words themselves are, and they do come from a society where early yoga was practiced.
+The first is ancient history: while Sanskrit pose names are _not_ thousands of years old, the individual words themselves are, and they do come from a society where early yoga was practiced.
 
 The second is modern history: we can trace current yoga practice back to Krishnamacharya and Iyengar and their use/misuse of Sanskrit. These are the original pose names in some sense, though they aren't as ancient as they might appear at first.
 
