@@ -38,9 +38,9 @@ Though yoga emerged as a broad category of meditative practice millennia ago, th
 
 The earliest documented use of "supta" in a yoga pose name appears in Krishnamacharya's 1934 text _Yoga Makaranda_: "supta utthita dakshinapada janusirsasana," or "reclining extended right foot head to knee pose."
 
-Honestly that name is wild. In retrospect, it's clear these guys were basically stitching together ancient words in a descriptive way. Certainly in part to be educational, as the long names are super precise. But also in part to convey an ancient lineage supporting their approach.
+Honestly that name is wild. In retrospect, it's clear these guys were basically stitching together ancient words in a descriptive way. Certainly in part to be educational, as the long names are super precise. But also to lend their approach an air of ancient authority.
 
-It's kind of like paleontologists naming dinosaurs with Latin words. No one in the Roman Empire used the term "tyrannosaurus rex" in their own speech or writing. Modern people have co-opted individual words from a dead language to build new names for novel concepts. Which is fine: scientists don't use these names to suggest enduring legitimacy that extends back to ancient Rome.
+It's kind of like paleontologists naming dinosaurs with Latin words. No one in the Roman era used the term "tyrannosaurus rex" in their own speech or writing. Modern people have co-opted individual words from a dead language to build new names for novel concepts. Which is fine: scientists don't use these names to suggest enduring legitimacy that extends back to Rome.
 
 But yoga teachers sometimes do use Sanskrit in this way, which I find invites an impression of antiquity that isn't historically accurate. For example, it is factually incorrect to say something like: "now we're going to try supta baddha konasana, which is the ancient Sanskrit name for this pose." People simply were not saying these phrases and moving their bodies accordingly in the Indus River Valley thousands of years ago. The timeline is more like:
 
