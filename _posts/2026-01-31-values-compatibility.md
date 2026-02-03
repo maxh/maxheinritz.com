@@ -18,7 +18,7 @@ Values appear in three forms. They can be implicit, as in revealed through behav
 
 ## Change and choice
 
-Values can shift over time. Children grow out of their toys, teenagers grow out of their rebellion. As adults, we might value income over comfort until we reach a certain level of wealth and then reverse the priority.
+Values shift over time. Children outgrow their toys, and teenagers outgrow their rebellion. As adults, we might value income over comfort until we reach a certain level of wealth and then reverse the priority.
 
 We have some influence over this process. Because values are part genetic and part environmental, we can shift them by shaping our environment -- by choosing where we focus our attention and who we spend time with. Given this capacity, it is worth asking: what values should we aspire to hold?
 
