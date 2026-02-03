@@ -26,15 +26,15 @@ We have some influence over this process. Because values are part genetic and pa
 
 A good value does two things. It supports our own well-being, on reflection, even when the support isn't immediately obvious. And it is broadly compatible with the values of the people we care about, or at least not so incompatible that maintaining it requires constant friction.
 
-The first criterion is personal and accessible through introspection. The second is where most of us actually feel the difficulty, and it is worth examining in detail.
+The first criterion is personal, so we can iterate relatively quickly through our own introspection. The second is where most of us find difficulty, and it is worth examining in detail.
 
 ## Compatibility
 
-Compatible values are not necessarily shared. Two people who both insist on leading will clash, while a person who values leadership paired with someone who values support can work well together.
+Compatible values are not necessarily shared values. Two people who both insist on leading will clash, while a person who values leadership paired with someone who values support can work well together.
 
 The most generative compatibilities tend to be complementary in this way: different enough to produce something neither person would create alone, yet aligned enough that the difference doesn't become a source of chronic friction. Someone who values planning can pair well with someone who values spontaneity, so long as the planner enjoys having structure disrupted occasionally and the spontaneous person appreciates having a scaffold to deviate from.
 
-When values fit well, the cost of coordination drops. Energy that would otherwise go toward negotiating friction gets redirected toward shared projects, growth, or play. And compatibility is dynamic: values shape one another through proximity. Aspirational values in particular are often enacted by spending time with someone who already embodies them.
+When values fit well, the cost of coordination drops. Energy that would otherwise go toward negotiating friction gets redirected toward common projects, growth, or play. And compatibility is dynamic: values shape one another through proximity. Aspirational values in particular are often enacted by spending time with someone who already embodies them.
 
 ## Valuing connection
 
