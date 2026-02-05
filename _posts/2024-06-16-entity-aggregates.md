@@ -4,7 +4,7 @@ layout: post
 tags: []
 ---
 
-An entity aggregate is a set of tightly coupled entities that are updated transactionally. One entity within the aggregate is considered the "aggregate root". For example, an aggregate may comprise `ReceivableInvoice` and `ReceivableInvoiceLineItem` entities, where the former is the root of that aggregate.
+An entity aggregate is a set of tightly coupled entities that are updated transactionally. One entity within the aggregate is considered the "aggregate root." For example, an aggregate may comprise `ReceivableInvoice` and `ReceivableInvoiceLineItem` entities, where the former is the root of that aggregate.
 
 ## Concept from DDD
 
