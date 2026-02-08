@@ -10,7 +10,7 @@ Attraction and circumstance bring people together, but _values compatibility_ de
 
 Values are our differentiating, deep-rooted preferences.
 
-Everybody seeks water when they're thirsty, so a preference for hydration isn't particularly differentiating. But silence vs stimulation, novelty vs routine, optimization vs ease, rootedness vs mobility... these reveal something, because they lead to different decisions and ultimately different lives. The sharpest way to express a value is often as a tradeoff: "I care more about acknowledging what is true than about keeping other people at ease."
+Most people seek water when they're thirsty, so a preference for hydration isn't particularly differentiating. But silence vs stimulation, novelty vs routine, optimization vs ease, rootedness vs mobility... these reveal something, because they lead to different decisions and ultimately different lives. The sharpest way to express a value is often as a tradeoff: "I care more about acknowledging what is true than about keeping other people at ease."
 
 Deep-rooted here means durable and salient: preferences that persist across years and surface almost daily. For example, I'm most productive in complete silence: no music, no background noise. I wish I were more flexible, but this has been true for decades.
 
