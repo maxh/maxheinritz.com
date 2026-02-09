@@ -16,7 +16,7 @@ Most of us seek water when we're thirsty, so a preference for hydration isn't pa
 
 Deep-rooted here means durable and salient: preferences that persist across years and surface almost daily. For example, I'm most productive in complete silence: no music, no background noise. I wish I were more flexible, but this has been true for decades.
 
-Durable is not necessarily permanent. Values can shift – sometimes because a new context reveals a different priority, and sometimes through deliberate cultivation. Children outgrow their toys, and teenagers outgrow their rebellion. Adults might value income over comfort until a certain level of wealth. And relationships themselves can become values: what starts as circumstantial coexistence can grow into something you actively prioritize, reshaping other tradeoffs in the process.
+Durable is not necessarily permanent. Values can shift – sometimes because a new context reveals a different priority, and sometimes through deliberate cultivation. Children outgrow their toys, and teenagers outgrow their rebellion. Adults might value income over comfort until a certain level of wealth. And, importantly, relationships themselves can become values: what starts as circumstantial coexistence can grow into something you actively prioritize, reshaping other tradeoffs in the process.
 
 ## Compatibility is contextual
 
