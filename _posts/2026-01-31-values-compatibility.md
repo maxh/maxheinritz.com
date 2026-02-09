@@ -14,13 +14,13 @@ Most of us seek water when we're thirsty, so a preference for hydration isn't pa
 
 Deep-rooted here means durable and salient: preferences that persist across years and surface almost daily. For example, I'm most productive in complete silence: no music, no background noise. I wish I were more flexible, but this has been true for decades.
 
-Durable is not necessarily permanent. Values can shift – sometimes because a new context reveals a different priority, and sometimes through deliberate cultivation. Children outgrow their toys, and teenagers outgrow their rebellion. Adults might value income over comfort until a certain level of wealth. And, importantly, relationships themselves can become values: what starts as circumstantial coexistence can grow into something you actively prioritize, reshaping other tradeoffs in the process.
+Durable is not necessarily permanent. Values can shift – sometimes because a new context reveals a different priority, and sometimes through deliberate cultivation. Children outgrow their toys, and teenagers outgrow their rebellion. Adults might value income over comfort until a certain level of wealth. And, importantly, a relationship itself can become something we value: what starts as circumstantial coexistence can grow into something you actively prioritize, reshaping other tradeoffs in the process.
 
 ## Compatibility is contextual
 
 A value only becomes visible when a context forces a tradeoff. You don't know whether you value career over location until you're offered a great job in a city you'd rather not live in. You cannot be entirely sure whether you value honesty over harmony until telling the truth will cost you something. Outside of such moments, values are just hypotheses.
 
-Two people's values are compatible in a given context when their preferred choices can coexist – either because they agree, because their preferences are complementary, or because one or both can accommodate the difference without resentment. Two people who both insist on leading will clash. A leader paired with someone who values support can thrive. And two people who disagree about something that doesn't force a shared decision aren't incompatible at all.
+Two people's values are compatible in a given context when their preferred choices can coexist – either because they agree, because their preferences are complementary, or because one or both can accommodate the difference without resentment. Two people who both insist on leading will clash. A leader paired with someone who values support can thrive.
 
 But here's the complication: the weight assigned to any value isn't fixed. When you've built something with someone – shared history, ways of navigating conflict, deep familiarity – the relationship itself becomes a value that competes with everything else. The tradeoffs you're willing to make with this person differ from those you'd make with someone new. This means compatibility is not just about whether two sets of values align, but about whether the relationship becomes valuable enough to both people that they're willing to accommodate misalignments that would have been dealbreakers at the start.
 
