@@ -12,7 +12,7 @@ Attraction and circumstance bring people together, but what determines whether a
 
 Values are our differentiating, deep-rooted preferences. They range from the temperamental to the ethical; from needing routine to feel grounded, to prioritizing loyalty over self-interest. What unifies them is not their moral weight, but their reliability under tradeoff: when something has to give, the same thing gives again and again.
 
-Most of us seek water when we're thirsty, so a preference for hydration isn't particularly differentiating. But silence vs stimulation, novelty vs routine, optimization vs ease, rootedness vs mobility… these reveal something, because they lead to different decisions and ultimately different lives. The sharpest way to express a value is often as a tradeoff: "I care more about honoring commitments than about keeping options open."
+Most of us seek water when we're thirsty, so a preference for hydration isn't particularly differentiating. But silence vs stimulation, novelty vs routine, optimization vs ease, rootedness vs mobility… these reveal something, because they lead to different decisions and ultimately different lives. The sharpest way to express a value is often as a choice between competing goods: "I care more about honoring commitments than about keeping options open."
 
 Deep-rooted here means durable and salient: preferences that persist across years and surface almost daily. For example, I'm most productive in complete silence: no music, no background noise. I wish I were more flexible, but this has been true for decades.
 
