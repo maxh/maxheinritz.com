@@ -4,7 +4,7 @@ layout: post
 tags: [culture, future]
 ---
 
-Attraction and circumstance bring people together. What keeps them together is usually described as values compatibility -- whether two people's deep preferences align as they move through life. But this misses something. A relationship itself can become something we value, reshaping the very compatibility that enabled it. This holds for friends, lovers, coworkers, and to some extent families. So what are values? What makes them compatible? And how can we use this understanding to relate to one another with more intention and appreciation?
+Attraction and circumstance bring people together. What keeps them together is usually described as values compatibility -- whether two people's deep preferences align as they move through life. But this overlooks a key dynamic: a relationship itself can become something we value, reshaping the very compatibility that enabled it. This holds for friends, lovers, coworkers, and to some extent families. So what are values? What makes them compatible? And how can we use this understanding to relate to one another with more intention and appreciation?
 
 ## What are values?
 
