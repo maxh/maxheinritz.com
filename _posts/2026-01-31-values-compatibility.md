@@ -42,5 +42,5 @@ Technology and wealth are changing this. Many such relationships are becoming op
 
 Compatibility is not something we discover once, but something we navigate continuously -- under uncertainty, across changing circumstances, with incomplete information. The clearer we are about what we value, the better we can distinguish compatibility that has been tested from compatibility that has merely been buffered. The question is not only "are we compatible now?" but "across the futures we are likely to share, will our values lead to compatible choices?"
 
-This is not solely an exercise in self-knowledge. It matters most when done in conversation with the people we care about. When two people stay engaged in that inquiry together, the dialogue itself becomes an expression of compatibility.
+This is not solely an exercise in self-knowledge. It matters most when done in conversation with the people we care about. If two people can stay engaged in that inquiry together, then the dialogue itself becomes an expression of compatibility.
 
