@@ -4,8 +4,6 @@ layout: post
 tags: [culture, future]
 ---
 
-# Values compatibility
-
 Attraction and circumstance bring people together, but what determines whether a relationship will last? The standard answer is values compatibility: whether two people's deep preferences align through their journey together. But this misses something: a relationship itself can become something we value, reshaping the very compatibility that enabled it. This holds for friends, lovers, coworkers, and to some extent families. So what are values? What makes them compatible? And how can we use this understanding to relate to one another with more intention and appreciation?
 
 ## What are values?
