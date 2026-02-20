@@ -18,7 +18,7 @@ Durable is not necessarily permanent. Values can shift – sometimes because a n
 
 ## Compatibility is contextual
 
-A value only becomes visible when a context forces a tradeoff. You don't know whether you value career over location until you're offered a great job in a city you'd rather not live in. You cannot be entirely sure whether you value honesty over harmony until telling the truth will cost you something. Outside of such moments, values are just hypotheses.
+A value only becomes fully visible when a context forces a meaningful tradeoff. You don't know whether you value career over location until you're offered a great job in a city you'd rather not live in. You cannot be entirely sure whether you value honesty over harmony until telling the truth will cost you something. Outside of such moments, values are hypotheses.
 
 Two people's values are compatible in a given context when their preferred choices can coexist – either because they agree, because their preferences are complementary, or because one or both can accommodate the difference without resentment. Two people who both insist on leading will clash. A leader paired with someone who values support can thrive.
 
