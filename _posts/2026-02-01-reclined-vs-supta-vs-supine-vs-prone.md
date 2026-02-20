@@ -19,7 +19,7 @@ So it appears that whoever started using the terms in English picked one for a g
 
 The concept of supine is clearest to me when contrasted with prone, as in "supine ball pose" (lying on your back) vs "prone half frog" (lying on your belly).
 
-A Sanskrit term sometimes used for the latter is "adva," meaning "prone" or "face-down." Consider "advasana" (reverse resting pose), the prone counterpart to shavasana. But "adva" is much less common than supta. Belly-down poses like floor bow and locust pose are simply the unprefixed dhanurasana and salabhasana, for example.
+A Sanskrit term sometimes used for the latter is "adva," meaning "prone" or "face-down." Consider "advasana" (reverse resting pose), the prone counterpart to shavasana. But adva is much less common than supta in pose names. Belly-down poses like floor bow and locust pose are given simpler names like the unprefixed dhanurasana and salabhasana.
 
 ## Proto-Indo-European
 
