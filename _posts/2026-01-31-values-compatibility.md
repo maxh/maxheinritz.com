@@ -4,9 +4,9 @@ layout: post
 tags: [culture, future]
 ---
 
-Attraction and circumstance bring people together. What keeps them together is usually described as  compatibility, or more precisely _values compatibility_ -- the degree to which two people's deep preferences align as they move through life. This holds for friends, lovers, coworkers, and to some extent families. So what are values? What makes them compatible? And how can we use this understanding to relate to one another with more intention and appreciation?
+Attraction and circumstance bring people together. What keeps them together is usually described as  compatibility, or more precisely _values compatibility_ -- the degree to which two people's deep preferences align as they move through life. This holds for friends, lovers, coworkers, and to some extent families. So what are values? How can they be compatible? And how might we use this understanding to relate to one another with more intention and appreciation?
 
-## What are values?
+## Definition
 
 Values are our differentiating, deep-rooted preferences. They range from the temperamental to the ethical; from needing routine to feel grounded, to prioritizing loyalty over self-interest. What unifies them is not their moral weight, but their reliability under tradeoff: when something has to give, the same thing gives again and again.
 
@@ -14,7 +14,7 @@ Most of us seek water when we're thirsty, so a preference for hydration isn't pa
 
 Deep-rooted here means durable and salient: preferences that persist across years and surface almost daily. For example, I'm most productive in complete silence: no music, no background noise. I wish I were more flexible, but this has been true for decades.
 
-Durable is not necessarily permanent. Values can shift – sometimes because a new context reveals a different priority, and sometimes through deliberate cultivation. Children outgrow their toys, and teenagers outgrow their rebellion. Adults might value income over comfort until a certain level of wealth. And, importantly, a relationship itself can become something we value: what starts as circumstantial coexistence can grow into something you actively prioritize, reshaping other tradeoffs in the process.
+Durable is not necessarily permanent. Values can shift... either deliberately with cultivation, or inadvertantly with the natural unfolding of life. Children outgrow their toys, teenagers outgrow their rebellion, and adults might value income over comfort until a certain level of wealth. Importantly, a relationship itself can become valuable to us: what starts as circumstantial coexistence can grow into the top priority in our lives.
 
 ## Compatibility is contextual
 
