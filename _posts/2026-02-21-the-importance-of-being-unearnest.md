@@ -46,7 +46,7 @@ This is the platonic ideal, and almost every founder believes they're this type.
 
 ## The ratchet
 
-None of these types are stable. A founder who starts with a genuine secret and early success may slide into true belief as the validation accumulates: every round of funding, every customer who signs early, every engineer who quits a safe job to join, is evidence that the story is true. Why keep doubting yourself when the world keeps telling you you're right? The conscious performer who gets enough wins stops performing and starts believing. The true believer who hits a wall hard enough wakes up into Wildean detachment. Even the low-empathy founder can eventually buy their own myth.
+None of these types are stable. A founder who starts with a genuine secret and early success may slide into true belief as the validation accumulates: every round of funding, every customer who signs early, every engineer who quits a safe job to join, is evidence that the story is true. Why keep doubting yourself when the world keeps telling you you're right? The conscious performer who gets enough reps at lying may pernicously slide towards the low-empathy category as a softer relationship to the truth becomes habitual. The true believer who hits a wall hard enough wakes up into Wildean detachment. Even the low-empathy founder can eventually buy their own myth.
 
 The tech industry drives this fluidity. Success pushes founders toward belief, failure pushes them toward lucidity, and the system rewards whichever posture produces the most convincing pitch at any given moment. The types aren't personalities but positions, and most founders pass through more than one.
 
