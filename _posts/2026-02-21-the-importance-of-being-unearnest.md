@@ -10,7 +10,7 @@ Silicon Valley runs on a version of this joke.
 
 ## Canonical example
 
-The standard account of the visionary-versus-grifter problem is something like: Elizabeth Holmes knew her technology didn't work and lied about it; Steve Jobs prophetically anticipated his would work before it did. One was a fraud, one was a visionary, and the market eventually sorted them out. This story is comforting because it implies that liars and visionaries are distinguishable. We just need better due diligence.
+The standard account of the visionary-versus-grifter problem goes something like: Elizabeth Holmes knew her technology didn't work and lied about it; Steve Jobs prophetically anticipated his would work before it did. One was a fraud, one was a visionary, and the market eventually sorted them out. This story is comforting because it implies that liars and visionaries are distinguishable. We just need better due diligence.
 
 But in the early days, both sold futures that did not exist. (The later differences are real: Jobs merely pushed engineers past what they thought was possible, while Holmes fabricated lab results and threatened whistleblowers.) The early pitches, though, tasted the same: the future framed as slightly more present tense than it actually was. Sometimes a fabrication is there from the beginning. Sometimes it emerges incrementally, as the gap between story and reality refuses to close: from optimistic framing to selective disclosure to active concealment to outright fabrication.
 
