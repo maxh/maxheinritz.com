@@ -18,9 +18,9 @@ Durable is not necessarily permanent. Values can shift, either deliberately with
 
 ## Compatibility is contextual
 
-A value only becomes fully visible when a context forces a meaningful tradeoff. You don't know whether you value career over location until you're offered a great job in a city you'd rather not live in. You cannot be entirely sure whether you value honesty over harmony until telling the truth will cost you something. Outside of such moments, values are hypotheses.
+Two people's values are compatible in a given context when their preferred choices can coexist – either because they agree, because their preferences are complementary, or because one or both can accommodate the difference without resentment. It's worth noting that compatible does not mean the same. Two people who both insist on leading will clash. A leader paired with someone who values support can thrive.
 
-Two people's values are compatible in a given context when their preferred choices can coexist – either because they agree, because their preferences are complementary, or because one or both can accommodate the difference without resentment. Two people who both insist on leading will clash. A leader paired with someone who values support can thrive.
+A value only becomes revealed in full when a context forces a meaningful tradeoff. You cannot be entirely sure whether you value honesty over harmony until telling the truth will cost you something. Outside of such moments, values are hypotheses about future behavior.
 
 But here's the complication: the weight assigned to any value isn't fixed. When you've built a connection with someone – shared history, ways of navigating conflict, deep familiarity – the relationship itself becomes a value that competes with everything else. The tradeoffs you're willing to make with this person differ from those you'd make with someone new. This means compatibility is not just about whether two sets of values align, but about whether the relationship becomes valuable enough to both people that they're willing to accommodate misalignments that would have been dealbreakers at the start.
 
