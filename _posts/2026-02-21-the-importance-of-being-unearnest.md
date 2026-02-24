@@ -46,7 +46,7 @@ This is the platonic ideal, and almost every founder believes they're this type.
 
 ## The ratchet
 
-None of these types are stable. A founder who starts with a genuine secret and early success may slide into true belief as the validation accumulates: every round of funding, every customer who signs early, every engineer who quits a safe job to join, is evidence that the story is true. Why keep doubting yourself when the world keeps telling you you're right? The conscious performer who gets enough reps at lying may pernicously slide towards the low-empathy category as a softer relationship to the truth becomes habitual. The true believer who hits a wall hard enough wakes up into Wildean detachment. Even the low-empathy founder can eventually buy their own myth.
+None of these types are stable. A founder who starts with a genuine secret and early success may slide into true belief as the validation accumulates: every round of funding, every customer who signs early, every engineer who quits a safe job to join, is evidence that the story is true. Why keep doubting yourself when the world keeps telling you you're right? The conscious performer who gets enough reps at lying may pernicously slide towards the low-empathy category as a looser relationship to the truth becomes habitual. The true believer who hits a wall hard enough wakes up into Wildean detachment. Even the low-empathy founder can eventually buy their own myth.
 
 The tech industry drives this fluidity. Success pushes founders toward belief, failure pushes them toward lucidity, and the system rewards whichever posture produces the most convincing pitch at any given moment. The types aren't personalities but positions, and most founders pass through more than one.
 
@@ -58,7 +58,7 @@ Wilde, characteristically, saw the joke. Jack Worthing spends the entire play pr
 
 ## The bind
 
-In the tech industry, the same performance is running constantly, at enormous scale, with enormous stakes. And the uncomfortable truth is our moral intuitions don't map cleanly onto what actually produces progress. The traits we might select for if we were designing ethical people -- lucidity, humility, a clear-eyed relationship with uncertainty -- are precisely the traits the system selects against.
+In the tech industry, the same performance is running constantly, at enormous scale, with enormous stakes. And the uncomfortable truth is our moral intuitions don't map cleanly onto what actually produces progress. The traits we might select for if we were designing ethical people -- lucidity, humility, objectivity, a clear-eyed relationship to uncertainty -- are precisely the traits the system selects against.
 
 This isn't a bug to be patched with better vetting or smarter investors. It's a structural feature of any system that requires committing resources to futures that don't exist yet. Due diligence, reference checks, technical probing: these all try to distinguish genuine insight from performance, and they help at the margins, but they're weak signals compared to the conviction itself. And conviction is not just marketing; it's critical for the actual execution. The founder who believes works harder, persists longer, makes bolder bets, and is, all else equal, more likely to succeed.
 
