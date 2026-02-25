@@ -22,7 +22,7 @@ In his paper "The Elements of a Scientific Theory of Self-Deception," the evolut
 
 His central claim is that we deceive ourselves to better deceive others. But self-deception is useful twice over: it makes the pitch more convincing, and it sustains the daily grind. The founder who genuinely believes doesn't have to fight their own skepticism every morning.
 
-In the startup context, this is the true believer. The founder who has genuinely lost the distinction between what is and what they've promised. They're maximally persuasive, to others and, crucially, to themselves. They push through the moment a clear-eyed person would quit, sustain their own conviction through years when nothing works, and make that conviction contagious enough to hold a team together. But they've paid for this with the ability to see clearly. Their own story has replaced reality, and when reality shifts, they're the last to know.
+In the startup context, this is the true believer. The founder who has lost the distinction between what is and what they've promised. They're maximally persuasive, to others and, crucially, to themselves. They push through the moment a clear-eyed person would quit, sustain their own conviction through years when nothing works, and make that conviction contagious enough to hold a team together. But they've paid for this with the ability to see clearly. Their own story has replaced reality, and when reality shifts, they're the last to know.
 
 ## The conscious performer
 
@@ -34,7 +34,7 @@ The Wildean founder has real advantages. They can adapt, they can stop, they can
 
 A third type needs no self-deception at all. The low-empathy founder doesn't need it to be convincing, because the things that make conscious lying expensive -- the anxiety, the guilt, the fear of detection -- simply aren't there in the same way. They can see the gap between pitch and reality with perfect clarity, the way Wilde's characters can, but it costs them nothing to erase that distance with words. They don't exhibit stress simply because truth vs lies isn't an emotionally significant distinction in their minds.
 
-They have the Wildean performer's strategic awareness and the Triversian true believer's persuasive force, without the costs of either. They are, to anyone across the table, indistinguishable from someone who genuinely believes. They might even be more convincing, because the true believer's passion sometimes reads as desperation, while the low-empathy founder's composure reads as quiet certainty.
+They have the Wildean performer's strategic awareness and the Triversian true believer's persuasive force, without the costs of either. From the outside, they are indistinguishable from someone who genuinely believes. They might even be more convincing, because the true believer's passion sometimes reads as desperation, while the low-empathy founder's composure reads as quiet certainty.
 
 The downside here is subtler than for the other two. It's about team-building. Trust depends on perceived reciprocity: people follow a leader partly because they believe the leader is invested in them, not just in the outcome. When the mask slips, what's revealed is that the investment was always one-directional. That's different from a leader who made a bad bet or lost their way. It retroactively reframes every prior interaction, and the recalibration is usually total.
 
