@@ -18,6 +18,8 @@ Our brains process the human form subconsciously. Visual stimulation directly ev
 
 > Had he been a statue instead of a man, he could not have been easier. He was young-- perhaps from twenty-eight to thirty--tall, slender; his face riveted the eye; it was like a Greek face, very pure in outline: quite a straight, classic nose; quite an Athenian mouth and chin. It is seldom, indeed, an English face comes so near the antique models as did his. He might well be a little shocked at the irregularity of my lineaments, his own being so harmonious.
 
+And:
+
 > No charm was wanting, no defect was perceptible; the young girl had regular and delicate lineaments; eyes shaped and coloured as we see them in lovely pictures, large, and dark, and full; the long and shadowy eyelash which encircles a fine eye with so soft a fascination; the pencilled brow which gives such clearness; the white smooth forehead, which adds such repose to the livelier beauties of tint and ray; the cheek oval, fresh, and smooth; the lips, fresh too, ruddy, healthy, sweetly formed; the even and gleaming teeth without flaw; the small dimpled chin; the ornament of rich, plenteous tresses--all advantages, in short, which, combined, realise the ideal of beauty, were fully hers. I wondered, as I looked at this fair creature: I admired her with my whole heart.
 
 ### On attraction beyond physical beauty
@@ -25,6 +27,8 @@ Our brains process the human form subconsciously. Visual stimulation directly ev
 Mr. Rochester and Jane are both famously unattractive. Their love is forged in other ways.
 
 >I am sure most people would have thought him an ugly man; yet there was so much unconscious pride in his port; so much ease in his demeanour; such a look of complete indifference to his own external appearance; so haughty a reliance on the power of other qualities, intrinsic or adventitious, to atone for the lack of mere personal attractiveness, that, in looking at him, one inevitably shared the indifference, and, even in a blind, imperfect sense, put faith in the confidence.
+
+And:
 
 >Most true is it that "beauty is in the eye of the gazer." My master's colourless, olive face, square, massive brow, broad and jetty eyebrows, deep eyes, strong features, firm, grim mouth--all energy, decision, will--were not beautiful, according to rule; but they were more than beautiful to me; they were full of an interest, an influence that quite mastered me--that took my feelings from my own power and fettered them in his.
 
@@ -39,6 +43,8 @@ The many-layered deceit involved in Mr Rochester’s courtship of Jane irks me: 
 Our cognition is borne of a particular biological substrate -- this is reflected in our input and output channels as well as our emotional reward systems. Jane has such prescient recognition of the nature of mind, a century before science fiction came on the scene to explore these ideas further:
 
 > What a still, hot, perfect day! What a golden desert this spreading moor! Everywhere sunshine. I wished I could live in it and on it. I saw a lizard run over the crag; I saw a bee busy among the sweet bilberries. I would fain at the moment have become bee or lizard, that I might have found fitting nutriment, permanent shelter here. But I was a human being, and had a human being’s wants: I must not linger where there was nothing to supply them. I rose; I looked back at the bed I had left. Hopeless of the future, I wished but this—that my Maker had that night thought good to require my soul of me while I slept; and that this weary frame, absolved by death from further conflict with fate, had now but to decay quietly, and mingle in peace with the soil of this wilderness. Life, however, was yet in my possession, with all its requirements, and pains, and responsibilities. The burden must be carried; the want provided for; the suffering endured; the responsibility fulfilled. I set out.
+
+And:
 
 > We were born to strive and endure -- you as well as I: do so.
 
