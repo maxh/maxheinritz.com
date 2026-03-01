@@ -42,7 +42,7 @@ And he goes on:
 
 >Some really intelligent, passionate, good citizens just don't have the same need for literature and movies anymore. It doesn't occupy the same space in the brain. I think that's just how we've given over our lives, largely, to this thing that depletes the need for curating and filling ourselves up with meaning from art and fictional worlds. That need has been filled up with -- let's face it -- advanced delivery systems for advertising.
 
-Linklater recognizes that attention is our scarcest resource. The mindshare we've surrendered to social media, streaming content, and digital platforms had to come from somewhere.
+Linklater recognizes the zero-sum nature of attention. The mindshare we've surrendered to social media, streaming content, and digital platforms had to come from somewhere.
 
 Impact arenas grow and contract in relevance as technology and social values evolve: each generation witnesses a dramatic reshuffling of which arenas matter most. Artificial general intelligence promises to accelerate this reshuffling beyond anything we've experienced so far.
 
