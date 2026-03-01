@@ -34,7 +34,7 @@ Thus, the similarity in sound is largely coincidental, though both Proto-Indo-Eu
 
 How much weight should we give these Sanskrit pose names when investigating yoga etymology?
 
-Though yoga emerged as a broad category of meditative practice millennia ago, the current use of the Sanskrit pose names was formalized and greatly expanded by Iyengar and his teacher Krishnamacharya in the mid-20th century -- that's right, less than a century ago.
+Yoga emerged as a broad category of meditative practice millennia ago, but the current use of the Sanskrit pose names was formalized and greatly expanded by Iyengar and his teacher Krishnamacharya in the mid-20th century -- that's right, less than a century ago.
 
 The earliest documented use of "supta" in a yoga pose name appears in Krishnamacharya's 1934 text _Yoga Makaranda_: "supta utthita dakshinapada janusirsasana," or "reclining extended right foot head to knee pose."
 
