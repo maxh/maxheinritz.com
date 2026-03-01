@@ -60,4 +60,4 @@ The reductive materialist and primacy of mind perspectives need not compete. Und
 
 ## Lineage
 
-These ideas, of course, are not my own. They follow from millenia of Buddhist tradition. I was first exposed to meditation through my friend Luke Kreinberg and to other ideas through Sam Harris' book Waking Up and later his app, to which I have a lifetime subscription and highly recommend!
+These ideas, of course, are not my own. They follow from millenia of Buddhist tradition. I was first exposed to meditation through my friend Luke Kreinberg and to other ideas through Sam Harris' book _Waking Up_ and later his app, to which I have a lifetime subscription and highly recommend!
