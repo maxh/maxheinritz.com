@@ -54,7 +54,7 @@ Wilde, characteristically, saw the joke. Jack Worthing spends the entire play pr
 
 ## The bind
 
-In the tech industry, the same performance is running constantly, at enormous scale, with enormous stakes. And the uncomfortable truth is our moral intuitions don't map cleanly onto what actually produces progress. The traits we might select for if we were designing ethical people -- lucidity, humility, candor, restraint, a clear-eyed relationship to uncertainty -- are precisely the traits the system selects against.
+In the tech industry, the same performance is running constantly, at enormous scale, with enormous stakes. And the uncomfortable truth is our moral intuitions don't map cleanly onto what actually produces progress. The traits we might select for if we were designing ethical people -- honesty, humility, candor, restraint, a clear-eyed relationship to uncertainty -- are precisely the traits the system selects against.
 
 This isn't a bug to be patched with better vetting or smarter investors. It's a structural feature of any system that requires committing resources to futures that don't exist yet. Due diligence, reference checks, technical probing: these all try to distinguish genuine insight from performance, and they help at the margins, but they're weak signals compared to the conviction itself. And conviction is not just marketing; it's critical for the actual execution.
 
