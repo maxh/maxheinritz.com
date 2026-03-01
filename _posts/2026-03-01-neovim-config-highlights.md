@@ -123,6 +123,6 @@ These days I think often of my favorite fable from _The Codeless Code_, #122 "Cr
 
 <https://thecodelesscode.com/case/122>
 
-"True, the value lies not in carven oak, but neither does it lie in the shape of the carving; for both the real pillar and the virtual one may be lost, and the temple will be no poorer. But when wood first yields to metal, one more thing is made: and that is the sculptor."
+>True, the value lies not in carven oak, but neither does it lie in the shape of the carving; for both the real pillar and the virtual one may be lost, and the temple will be no poorer. But when wood first yields to metal, one more thing is made: and that is the sculptor.
 
 What happens when there is nothing left to make?
