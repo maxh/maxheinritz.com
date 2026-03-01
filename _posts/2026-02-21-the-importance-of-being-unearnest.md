@@ -10,7 +10,7 @@ Silicon Valley runs on a version of this joke. The standard account of the visio
 
 But in the early days, both sold futures that did not exist. The later differences are real: Holmes fabricated lab results and threatened whistleblowers, while Jobs merely pushed engineers past what they thought was possible. The early pitches, though, tasted the same: the future framed as slightly more present tense than it actually was. Sometimes a fabrication is there from the beginning. Sometimes it emerges incrementally, as the gap between story and reality refuses to close: from optimistic framing to selective disclosure to active concealment to outright lies.
 
-It's easy to look back in hindsight and judge what happened. The more interesting questions are forward-looking: today, given the uncertainty inherit in forecasting, how should we evaluate claims about the future, and how should we relate to the people who make such claims? There are, roughly speaking, four ways to sell a future that doesn't exist yet.
+It's easy to look back in hindsight and judge what happened. The more interesting questions are forward-looking: today, given the uncertainty inherent in forecasting, how should we evaluate claims about the future, and how should we relate to the people who make such claims? There are, roughly speaking, four ways to sell a future that doesn't exist yet.
 
 ## The true believer
 
