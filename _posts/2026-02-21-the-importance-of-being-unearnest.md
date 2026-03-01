@@ -14,11 +14,11 @@ It's easy to look back in hindsight and judge what happened. The more interestin
 
 ## The true believer
 
-In his paper "The Elements of a Scientific Theory of Self-Deception," the evolutionary biologist Robert Trivers describes the first. His argument is that the most effective deceivers aren't conscious liars at all. Conscious liars carry what Trivers calls "the stress that accompanies attempted deception," detectable in their eye movements, vocal quality, even the sweat on their palms. The evolutionary solution is disturbing: believe the lie yourself. If you don't know you're lying, those cues vanish. You are, in every way that matters to the people you're selling to, sincere.
+In his paper "The Elements of a Scientific Theory of Self-Deception," evolutionary biologist Robert Trivers describes the first. His argument is that the most effective deceivers aren't conscious liars at all. Conscious liars carry what Trivers calls "the stress that accompanies attempted deception," detectable in their eye movements, vocal quality, even the sweat on their palms. The evolutionary solution is disturbing: believe the lie yourself. If you don't know you're lying, those cues vanish. You are, in every way that matters to the people you're selling to, sincere.
 
 His central claim is that we deceive ourselves to better deceive others. But self-deception is useful twice over: it makes the pitch more convincing, and it sustains the daily grind. The founder who genuinely believes doesn't have to fight their own skepticism every morning.
 
-In the startup context, this is the true believer. The founder who has lost the distinction between what is and what they've promised. They're maximally persuasive, to others and, crucially, to themselves. They push through the moment a clear-eyed person would quit, sustain their own conviction through years when nothing works, and make that conviction contagious enough to hold a team together. But they've paid for this with the ability to see clearly. Their own story has replaced reality, and when reality shifts, they're the last to know.
+In the startup context, this is the true believer. The founder who has lost the distinction between what is and what they've promised. They're maximally persuasive, to others and, crucially, to themselves. They push through the moment a clear-eyed person would quit, sustain their own conviction through years when nothing works, and make that conviction contagious enough to hold a team together. But they've paid for this with the ability to see clearly. They're optimists in the deepest sense: not people who choose to look on the bright side, but people who can no longer see the dark one. When reality shifts, they're the last to know.
 
 ## The conscious performer
 
@@ -38,7 +38,7 @@ The downside here is subtler than for the other two. It's about team-building. T
 
 There is, of course, a cleaner version of all this. Peter Thiel's famous interview question points the way: what important truth do very few people agree with you on? The founder whose conviction is grounded not in self-deception or performance or indifference, but in genuine private insight: they've seen something true that others haven't seen yet. They have the true believer's conviction and the conscious performer's clarity, because they're not deluding themselves. They've found what Thiel calls a secret. Their pitch is honest because it's backed by real evidence, and their confidence is earned rather than manufactured.
 
-This is the platonic ideal, and almost every founder believes they're this type. But even this founder is still expressing conviction about an unknowable future, still asking people to commit resources to something that doesn't exist yet. From the outside, they look exactly like the other three. The distinction between genuine insight and well-placed conviction is real, but it's only verifiable after the outcome, which means the system still can't act on it. Even the cleanest category collapses back into timing.
+This is the platonic ideal, and almost every founder believes they're this type. But even this founder is still expressing conviction about an unknowable future, still asking people to take it on faith. From the outside, they look exactly like the other three. The distinction between genuine insight and well-placed conviction is real, but it's only verifiable after the outcome, which means the system still can't act on it. Even the cleanest category collapses back into timing.
 
 ## The ratchet
 
