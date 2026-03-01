@@ -46,8 +46,8 @@ But yoga teachers sometimes do use Sanskrit in this way, which I find invites an
 
 - Pre-500 BCE – Early yogic and ascetic practices existed in oral traditions, notably predating the standardization of Sanskrit.
 - ~500 BCE to ~500 CE - Sanskrit was spoken as an elite language, "yoga" referred to seated meditation, breath control, philosophical contemplation, etc.
-- _~1000 CE onward - Sanskrit was no longer vernacular but continued as a prestige literary and scholarly language. Limited physical asanas emerged and were documented, mostly standalone seated postures.
-- _1920s-1960s_ - Krishnamacharya and Iyengar built a library of new poses and gave them names using Sanskrit.
+- ~1000 CE onward - Sanskrit was no longer vernacular but continued as a prestige literary and scholarly language. Limited physical asanas emerged and were documented, mostly standalone seated postures.
+- 1920s to 1960s - Krishnamacharya and Iyengar built a library of new poses and gave them names using Sanskrit.
 
 So when we ask about the etymology of reclined vs supine in pose names and turn our attention to Sanskrit, it's important to be clear-eyed that it only takes us back a few decades, not millennia.
 
