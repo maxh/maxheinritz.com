@@ -8,13 +8,13 @@ Technologists increasingly promise a world of abundance. Peter Diamandis popular
 
 The vision is seductive. Food, energy, computation, education, medicine—all becoming dramatically cheaper, perhaps approaching free. Humanity transitions from a civilization organized around scarcity to one constrained only by imagination.
 
-But "a world of abundance" does not mean "everyone gets what they want all the time." It means everyone gets stuff. [And much of what people want is not stuff.](/posts/the-last-finite-resource.html)
+But what "a world of abundance" does not mean "everyone gets what they want all the time." It means everyone gets stuff. [And much of what people want is not stuff.](/posts/the-last-finite-resource.html)
 
 ## Positional goods
 
 Economist Fred Hirsch made this point in 1976 in _Social Limits to Growth_. Many of the things people value are what he calls "positional goods": inherently scarce goods and services whose access is mediated by relative standing. As Hirsch wrote: "An individual can improve his capacity to acquire scenic property by improving his position in the income and wealth distribution, that is, by getting richer vis-à-vis his fellows. The same result will not be achieved if he gets richer along with his fellows."
 
-Housing in the right neighborhood. A spot in the best-performing school district. A desirable partner. Social and political influence. A respected career. These cannot be manufactured into abundance... the supply of "being above average" is fixed by definition.
+Coastal property near a major city. A house in the top school district. A desirable partner. Social and political influence. An esteemed career. These cannot be manufactured into abundance... the supply of "being above average" is fixed by definition.
 
 ## The historical pattern
 
@@ -27,6 +27,7 @@ The result is what Turchin calls elite overproduction: "the demand for power pos
 The abundance thesis is not wrong about technology. Energy probably will get cheaper. AI probably will reduce the cost of many goods and services. Material scarcity probably will continue to decline.
 
 The error is in the implication: the leap from "material abundance" to "human satisfaction." Much of what people want is positional, and positional goods are zero-sum by construction. The rat race does not end when everyone gets richer. It just changes what the rats are racing for.
+
 
 So why does the abundance thesis feel so compelling? Because the zero-sum nature of positional competition has been masked by its embedding within the positive-sum growth of the material economy. Since the rise of capitalism, we have been in something of a golden era where to advance one's relative position in society, the best option is to make something other people want -- and in doing so, everyone gets a bit richer. But in a world where all material needs are satisfied for everyone, the mask comes off. Hirsch again:
 
@@ -49,3 +50,8 @@ The fourth is simulation. If people can opt into virtual worlds rich enough to f
 The fifth is the most radical: command of the physical world so complete that we can generate what is currently scarce by definition. Infinite desirable neighborhoods. Enough space, beauty, and even social counterparts that the positional constraint dissolves not through changed preferences but through changed reality. At that point the distinction between positional and material goods collapses, but so does much of what we currently recognize as the human condition.
 
 The sixth is not really a solution at all. It is what happens when the other five fail. Turchin's historical cycles suggest that when positional competition intensifies beyond what a society can absorb, the result is revolution -- a violent reset that clears the hierarchy and starts the game over. This is not a way out. It is the way through, and it is the one history selects by default. An open question is whether it remains possible in a world with artificial intelligence enforcing the current social structure.
+
+## References
+
+- AI's Impact on Everyday Americans, UBI, and Job Loss w/ Andrew Yang | #236
+- https://www.youtube.com/watch?v=toE56X2h0wk
