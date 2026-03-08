@@ -22,14 +22,6 @@ Peter Turchin's work on structural-demographic cycles confirms this empirically.
 
 The result is what Turchin calls elite overproduction: "the demand for power positions by elite aspirants massively exceeds their supply." Historically this produces political polarization, institutional conflict, and social instability. Not because societies are poor, but the opposite: too many people have satisfied their material needs (positive-sum economic growth) and turned their attention to positional desires (zero-sum competition).
 
-## The biological pattern
-
-In the 1960s and 70s, ethologist John B. Calhoun built a series of rodent utopias -- enclosed environments with unlimited food, water, shelter, and safety. "I shall largely speak of mice," he wrote, "but my thoughts are on man."
-
-Despite the abundance, the colonies collapsed. As populations grew, the animals developed social fragmentation, abnormal behavior, withdrawal, and intense conflict over position. The failure was not material but structural: there were more individuals than meaningful roles. "Once the number of individuals capable of filling social roles greatly exceeds the number of such roles," Calhoun concluded, "only violence and disruption can follow."
-
-Behold, the "rat race": endless striving despite rising prosperity.
-
 ## The error
 
 The abundance thesis is not wrong about technology. Energy probably will get cheaper. AI probably will reduce the cost of many goods and services. Material scarcity probably will continue to decline.
@@ -44,9 +36,11 @@ The zero-sum nature of positional competition has been masked by its embedding w
 
 The world the abundance technologists are building is precisely the condition Hirsch is describing.
 
+To be clear: material abundance is better than material scarcity. The abundance thesis is correct that technology can and should reduce poverty, disease, and deprivation. The mistake is treating material abundance as the finish line rather than the starting point -- as though once the material problem is solved, the human problem is too.
+
 ## The ways out
 
-If the problem is structural, the solutions must be too. I can see five, each progressively stranger.
+If the problem is structural, the solutions must be too.
 
 The first is to lean into the competition and lean out of empathy. For people who are naturally low-empathy and enjoy competitive games, this is already their default relationship to the world. There is nothing that needs to change. For better or worse, these people thrive in modern society. The rest of us can try to be more like them—treat positional competition as sport, stop losing sleep over the losers, and get on with winning. Entire industries exist to help people cultivate this mindset. It works, for those who can stomach it.
 
