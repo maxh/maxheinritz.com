@@ -12,7 +12,7 @@ But "a world of abundance" does not mean "everyone gets what they want all the t
 
 ## Positional goods
 
-Economist Fred Hirsch made this point in 1976 in _Social Limits to Growth_. Many of the things people value are positional goods -- inherently scarce goods and services whose access is mediated by relative standing. As Hirsch wrote: "An individual can improve his capacity to acquire scenic property by improving his position in the income and wealth distribution, that is, by getting richer vis-à-vis his fellows. The same result will not be achieved if he gets richer along with his fellows."
+Economist Fred Hirsch made this point in 1976 in _Social Limits to Growth_. Many of the things people value are what he calls "positional goods": inherently scarce goods and services whose access is mediated by relative standing. As Hirsch wrote: "An individual can improve his capacity to acquire scenic property by improving his position in the income and wealth distribution, that is, by getting richer vis-à-vis his fellows. The same result will not be achieved if he gets richer along with his fellows."
 
 Desirable real estate. Admission to elite universities. Prestigious careers. Mate selection. Social recognition. Political influence. These cannot be manufactured into abundance... the supply of "being above average" is fixed by definition.
 
