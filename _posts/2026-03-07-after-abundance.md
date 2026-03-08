@@ -1,5 +1,5 @@
 ---
-title: Contra abundance
+title: After abundance
 layout: post
 tags: ["culture"]
 ---
