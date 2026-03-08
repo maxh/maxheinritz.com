@@ -20,7 +20,7 @@ Desirable real estate. Admission to elite universities. Prestigious careers. Mat
 
 Peter Turchin's work on structural-demographic cycles confirms this empirically. In _Ages of Discord_ and _End Times_, he documents a recurring pattern: as societies grow richer and more educated, they produce more elite aspirants than elite positions. More people acquire credentials, ambition, and expectations of influence. But the positions they aspire to do not scale at the same rate.
 
-The result is what Turchin calls elite overproduction: "the demand for power positions by elite aspirants massively exceeds their supply." Historically this produces political polarization, institutional conflict, and social instability. Not because societies are poor, but the opposite: too many people have satisfied their material needs (positive sum economic growth) and turned their attention to positional desires (zero-sum competition).
+The result is what Turchin calls elite overproduction: "the demand for power positions by elite aspirants massively exceeds their supply." Historically this produces political polarization, institutional conflict, and social instability. Not because societies are poor, but the opposite: too many people have satisfied their material needs (positive-sum economic growth) and turned their attention to positional desires (zero-sum competition).
 
 ## The biological pattern
 
@@ -35,6 +35,14 @@ Behold, the "rat race": endless striving despite rising prosperity.
 The abundance thesis is not wrong about technology. Energy probably will get cheaper. AI probably will reduce the cost of many goods and services. Material scarcity probably will continue to decline.
 
 The error is in the implication: the leap from "material abundance" to "human satisfaction." Much of what people want is positional, and positional goods are zero-sum by construction. The rat race does not end when everyone gets richer. It just changes what the rats are racing for.
+
+## The mask
+
+The zero-sum nature of positional competition has been masked by its embedding within the positive-sum growth of the material economy. Since the rise of capitalism, we have been in something of a golden era where to advance one's relative position in society, the best option is to make something other people want -- and in doing so, everyone gets a bit richer. But in a world where all material needs are satisfied, the mask comes off. Hirsch again:
+
+> The compelling attraction of economic growth in its institutionalized modern form has been as a superior substitute for redistribution. Whereas the masses today could never get close to what the well-to-do have today, even by expropriating all of it, they can, in the conventional view, get most if not all the way there with patience in a not too distant tomorrow, through the magic of compound growth. But as outlined above, once this growth brings mass consumption to the point where it causes problems of congestion in the widest sense -- bluntly, where consumption or jobholding by others tends to crowd you out -- then the key to personal welfare is again the ability to stay ahead of the crowd. Generalized growth then increases the crush.
+
+The world the abundance technologists are building is precisely the condition Hirsch is describing.
 
 ## The ways out
 
