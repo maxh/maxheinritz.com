@@ -53,5 +53,5 @@ The sixth is not really a solution at all. It is what happens when the other fiv
 
 ## References
 
-- AI's Impact on Everyday Americans, UBI, and Job Loss w/ Andrew Yang | #236
-- https://www.youtube.com/watch?v=toE56X2h0wk
+- AI's Impact on Everyday Americans, UBI, and Job Loss with Andrew Yang #236
+- <https://www.youtube.com/watch?v=toE56X2h0wk>
