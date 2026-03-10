@@ -6,7 +6,7 @@ tags: ["culture"]
 
 Technologists increasingly promise a world of abundance. Peter Diamandis popularizes the idea in his writing and podcast conversations: exponential technologies are making the essentials of life cheaper and more accessible. "Technology is a resource-liberating mechanism," he writes in _Abundance_. "It can make the once scarce the now abundant."
 
-The vision is seductive. Food, energy, computation, education, medicine—all becoming dramatically cheaper, perhaps approaching free. Humanity transitions from a civilization organized around scarcity to one constrained only by imagination.
+The vision is seductive. Food, energy, computation, education, medicine -- all becoming dramatically cheaper, perhaps approaching free. Humanity transitions from a civilization organized around scarcity to one constrained only by imagination.
 
 But what "a world of abundance" does not mean "everyone gets what they want all the time." It means everyone gets stuff. [And much of what people want is not stuff.](/posts/the-last-finite-resource.html)
 
