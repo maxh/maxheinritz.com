@@ -12,7 +12,7 @@ But "a world of abundance" does not mean "everyone gets what they want all the t
 
 ## Positional goods
 
-Economist Fred Hirsch made this point in 1976 in _Social Limits to Growth_. His framework breaks down consumption into two categories: "material goods" and "positional goods." Material goods are those whose value is independent of other people: my enjoyment of warm shower is unimpacted by anyone else's behavior. With sufficiently advanced technology, all humans can have warm showers whenever they want, as will be the case with all material goods.
+Economist Fred Hirsch made this point in 1976 in _Social Limits to Growth_. His framework breaks down consumption into two categories: "material goods" and "positional goods." Material goods are those whose value is independent of other people: my enjoyment of a warm shower is unimpacted by anyone else's behavior. With sufficiently advanced technology, all humans can have warm showers whenever they want, as will be the case with all material goods.
 
 Positional goods, in contrast, are those inherently scarce resources whose access is mediated by relative standing. As Hirsch wrote: "An individual can improve his capacity to acquire scenic property by improving his position in the income and wealth distribution, that is, by getting richer vis-à-vis his fellows. The same result will not be achieved if he gets richer along with his fellows."
 
