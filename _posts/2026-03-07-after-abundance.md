@@ -6,13 +6,15 @@ tags: ["culture"]
 
 Technologists increasingly promise a world of abundance. Peter Diamandis popularizes the idea in his writing and podcast conversations: exponential technologies are making the essentials of life cheaper and more accessible. "Technology is a resource-liberating mechanism," he writes in _Abundance_. "It can make the once scarce the now abundant."
 
-The vision is seductive. Food, energy, computation, education, medicine -- all becoming dramatically cheaper, perhaps approaching free. Humanity transitions from a civilization organized around scarcity to one constrained only by imagination.
+The vision is seductive. Food, energy, computation, education, medicine all becoming dramatically cheaper, perhaps approaching free. Humanity transitions from a civilization organized around scarcity to one constrained only by imagination.
 
 But "a world of abundance" does not mean "everyone gets what they want all the time." It means everyone gets stuff. [And much of what people want is not stuff.](/posts/the-last-finite-resource.html)
 
 ## Positional goods
 
-Economist Fred Hirsch made this point in 1976 in _Social Limits to Growth_. Many of the things people value are what he calls "positional goods": inherently scarce goods and services whose access is mediated by relative standing. As Hirsch wrote: "An individual can improve his capacity to acquire scenic property by improving his position in the income and wealth distribution, that is, by getting richer vis-à-vis his fellows. The same result will not be achieved if he gets richer along with his fellows."
+Economist Fred Hirsch made this point in 1976 in _Social Limits to Growth_. His framework breaks down consumption into two categories: "material goods" and "positional goods." Material goods are those whose value is independent of other people's behavior: my enjoyment of warm shower is unimpacted by anyone else's behavior. With sufficiently advanced technology, we can all have warm showers whenever we want.
+
+Positional goods, in contrast, are those inherently scarce resources whose access is mediated by relative standing. As Hirsch wrote: "An individual can improve his capacity to acquire scenic property by improving his position in the income and wealth distribution, that is, by getting richer vis-à-vis his fellows. The same result will not be achieved if he gets richer along with his fellows."
 
 Coastal property near a major city. A house in the top school district. A desirable partner. Social and political influence. An esteemed career. These cannot be manufactured into abundance... the supply of "being in the top one percent" or even "top decile" is fixed by definition.
 
@@ -33,13 +35,13 @@ So why does the abundance thesis feel so compelling? Because the zero-sum nature
 
 > The compelling attraction of economic growth in its institutionalized modern form has been as a superior substitute for redistribution. Whereas the masses today could never get close to what the well-to-do have today, even by expropriating all of it, they can, in the conventional view, get most if not all the way there with patience in a not too distant tomorrow, through the magic of compound growth. But as outlined above, once this growth brings mass consumption to the point where it causes problems of congestion in the widest sense -- bluntly, where consumption or jobholding by others tends to crowd you out -- then the key to personal welfare is again the ability to stay ahead of the crowd. Generalized growth then increases the crush.
 
-The world the abundance technologists are building is precisely the condition Hirsch is describing. And to be clear: my view is that material abundance is better than material scarcity. The abundance thesis is correct that technology can and should reduce poverty, disease, and deprivation. The mistake is treating material abundance as the finish line rather than the starting point -- as though once the material problem is solved, the human problem is too.
+The world the abundance technologists are building is precisely the condition Hirsch is describing. And to be clear: my view is that material abundance is better than material scarcity. The abundance thesis is correct that technology can and should reduce poverty, disease, and deprivation. The mistake is treating material abundance as the finish line rather than the starting point, thinking that once the material problem is solved, the human problem is too.
 
 ## The ways out
 
 If the problem is structural, the solutions must be too.
 
-The first is to lean into the competition and lean out of empathy. For people who are naturally low-empathy and enjoy competitive games, this is already their default relationship to the world. There is nothing that needs to change. For better or worse, these people thrive in modern society. The rest of us can try to be more like them—treat positional competition as sport, stop losing sleep over the losers, and get on with winning. It works at the individual level, for those who win (and can stomach the implications for others).
+The first is to lean into the competition and lean out of empathy. For people who are naturally low-empathy and enjoy competitive games, this is already their default relationship to the world. There is nothing that needs to change. For better or worse, these people thrive in modern society. The rest of us can try to be more like them -- treat positional competition as sport, stop losing sleep over the losers, and get on with winning. It works at the individual level, for those who win (and can stomach the implications for others).
 
 The second is to multiply the scoreboards. Charles Murray makes this point in _Coming Apart_: positional competition is most destructive when an entire society funnels its aspirants toward a single hierarchy. South Korea, where social rank collapses almost entirely into academic performance and elite university admission, is the extreme case. The United States has historically maintained many parallel scoreboards—sports, entrepreneurship, arts, trades, local organizations—so that losing on one does not mean losing entirely. This does not eliminate positional competition, but it diffuses it. The danger is the already ongoing consolidation: as credentialism spreads, the scoreboards merge, and the pressure concentrates.
 
