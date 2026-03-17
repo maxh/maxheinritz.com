@@ -9,7 +9,7 @@ Dates and times can be tricky to interact with while programming.
 
 One approach is to represent all times in [UNIX epoch milleseconds](https://en.wikipedia.org/wiki/Unix_time) and let a thin layer of frontend code handle the conversion to local time for rendering. This works well for system-level events like `created_at` or `logged_in_at`, and it might be enough for some simple business domains.
 
-But epoch milliseconds are insufficient for more complicated domains that involve scheduling future times, time ranges, and users coordinating across time zones.
+But epoch milliseconds are insufficient for more complex domains that involve scheduling future times, time ranges, and users coordinating across time zones.
 
 ## W3C Terminology
 
