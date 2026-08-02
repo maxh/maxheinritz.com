@@ -13,6 +13,7 @@ collections:
     output: true
 
 markdown: kramdown
+future: true
 
 theme: minima
 exclude:

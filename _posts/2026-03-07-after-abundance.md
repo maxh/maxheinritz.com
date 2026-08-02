@@ -22,7 +22,7 @@ Coastal property near a major city. A house in the top school district. A desira
 
 Peter Turchin's work on structural-demographic cycles confirms this empirically. In _Ages of Discord_ and _End Times_, he documents a recurring pattern: as societies grow richer and more educated, they produce more elite aspirants than elite positions. More people acquire credentials, ambition, and expectations of influence. But the positions they aspire to do not scale at the same rate.
 
-The result is what Turchin calls elite overproduction: "the demand for power positions by elite aspirants massively exceeds their supply." Historically this produces political polarization, institutional conflict, and social instability. Not because societies are poor, but the opposite: too many people have satisfied their material needs (positive-sum economic growth) and turned their attention to positional desires (zero-sum competition). Elite overproduction is the extreme case, but the same dynamic plays out across the board -- when everyone gets richer, a fixed supply of housing gets more expensive at every level.
+The result is what Turchin calls elite overproduction: "the demand for power positions by elite aspirants massively exceeds their supply." Historically this produces political polarization, institutional conflict, and social instability. Not because societies are poor, but the opposite: too many people have satisfied their material needs (positive-sum economic growth) and turned their attention to positional desires (zero-sum competition). Elite overproduction is the extreme case, but the same dynamic plays out across the board -- when everyone gets richer, land gets more expensive at every level.
 
 ## The error
 
